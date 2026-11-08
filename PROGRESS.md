@@ -31,6 +31,10 @@ Rujukan: PRD "CayRus: Aplikasi Hafalan Kosakata Rusia–Indonesia (PWA)" (disetu
 
 Kata kerja yang ada di file kata kerja mendapat terjemahan dan contoh di batch V (data dipakai bersama).
 
+## Izin
+
+- Push otomatis ke achmadcahyaperwira/Cayrus di akhir setiap sesi (izin pengguna, 8 Nov 2026).
+
 ## Cara melanjutkan
 
 1. Data dasar dibuat ulang dengan `python3 tools/build_base.py <folder-openrussian>` (sumber: github.com/Badestrand/russian-dictionary).
