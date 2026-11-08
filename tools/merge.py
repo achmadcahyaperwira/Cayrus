@@ -99,7 +99,9 @@ def apply_fix(rec, path, val, resolved):
         return
     v = val if isinstance(val, list) else ([val, "g"] if val not in ("-", "—", None) else None)
     set_path(rec, path, v)
-    resolved.add((rec["id"], path[5:] if path.startswith("decl.short.") else path))
+    key = path[5:] if path.startswith("decl.short.") else path
+    resolved.add((rec["id"], key))
+    resolved.add((rec["id"], key.replace("decl.cols.", "decl.")))
 
 
 def read_tsv(path):
