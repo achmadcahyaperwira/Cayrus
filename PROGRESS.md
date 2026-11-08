@@ -25,8 +25,8 @@ Rujukan: PRD "CayRus: Aplikasi Hafalan Kosakata Rusia–Indonesia (PWA)" (disetu
 | W05 | 184 | 133 | 51 | Selesai: 133 terjemahan + contoh, 26 perbaikan bentuk, 0 [uncertain] |
 | W06 | 184 | 135 | 49 | Selesai: 135 terjemahan + contoh, 25 perbaikan bentuk, 7 [uncertain] (jamak пыль, lema пошлый) |
 | W07 | 184 | 135 | 49 | Selesai: 135 terjemahan + contoh, 30 perbaikan bentuk, 6 [uncertain] (jamak мясо) |
-| W08 | 184 | 135 | 49 | Belum — batch berikutnya |
-| W09 | 184 | 129 | 55 | Belum |
+| W08 | 184 | 135 | 49 | Selesai: 135 terjemahan + contoh, 26 perbaikan bentuk, 29 [uncertain] (semua dari lema janggal честной) |
+| W09 | 184 | 129 | 55 | Belum — batch berikutnya |
 | W10 | 185 | 173 | 12 | Belum |
 
 Kata kerja yang ada di file kata kerja mendapat terjemahan dan contoh di batch V (data dipakai bersama).
