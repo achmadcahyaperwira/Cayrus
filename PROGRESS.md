@@ -8,8 +8,8 @@ Rujukan: PRD "CayRus: Aplikasi Hafalan Kosakata Rusia–Indonesia (PWA)" (disetu
 | --- | --- | --- |
 | M1 | Data dasar | Selesai 8 Nov 2026 (koreksi kelas kata: мочь → kata kerja, правда → kata benda) |
 | M2 | Batch kata W01–W10 | Selesai 8 Nov 2026 |
-| M3 | Batch kata kerja V01–V03 | Berikutnya |
-| M4 | Grammar + bank soal | Belum |
+| M3 | Batch kata kerja V01–V03 | Selesai 8 Nov 2026 |
+| M4 | Grammar + bank soal | Berikutnya |
 | M5 | Aplikasi PWA | Belum |
 | M6 | Pengujian | Belum |
 | M7 | Serah terima (push ke achmadcahyaperwira/Cayrus) | Belum |
@@ -35,7 +35,7 @@ Rujukan: PRD "CayRus: Aplikasi Hafalan Kosakata Rusia–Indonesia (PWA)" (disetu
 | --- | --- | --- | --- |
 | V01 | 130 | 213 | Selesai: terjemahan + 253 contoh, 33 perbaikan bentuk, 8 catatan pasangan |
 | V02 | 130 | 154 | Selesai: terjemahan + 237 contoh, 30 perbaikan bentuk, 5 catatan pasangan |
-| V03 | 127 | — | Belum — batch berikutnya |
+| V03 | 126 | 133 | Selesai: terjemahan + 244 contoh, 65 perbaikan bentuk; baris #386 сходить digabung ke pasangan сходить/сойти |
 
 Kata kerja yang ada di file kata kerja mendapat terjemahan dan contoh di batch V (data dipakai bersama).
 

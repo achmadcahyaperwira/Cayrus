@@ -202,6 +202,24 @@ def side_forms(side):
     return set(cell_forms(side)) if side else set()
 
 
+# perbaikan per baris kata kerja (kunci vNNN) dari semua file fix V
+for fpath in sorted(B.glob("V*.fix.json")):
+    for key, fx in json.load(open(fpath)).items():
+        if key.startswith("v"):
+            for e in ventries:
+                if e["id"] == key:
+                    e.update(fx)
+_vid = {e["id"]: e for e in ventries}
+for e in base_w:
+    ref = e.get("verbRef")
+    if ref and ref.get("entry"):
+        ref["pair"] = _vid[ref["entry"]]["pairId"]
+referenced = {e["pairId"] for e in ventries} | {e["verbRef"]["pair"] for e in base_w if e.get("verbRef")}
+dropped = [pid for pid in pairs if pid not in referenced]
+for pid in dropped:
+    pairs.pop(pid)
+vplan = {k: [pid for pid in v if pid in pairs] for k, v in vplan.items()}
+
 for bname, pids in vplan.items():
     tsv = read_tsv(B / f"{bname}.tsv")
     fix = json.load(open(B / f"{bname}.fix.json")) if (B / f"{bname}.fix.json").exists() else {}
@@ -210,14 +228,20 @@ for bname, pids in vplan.items():
     rep = {"pairs": len(pids), "rows": sum(1 for e in ventries if e["pairId"] in set(pids)),
            "written": 0, "examples": 0, "fixes": 0, "problems": []}
     for pid, fx in fix.items():
+        if pid.startswith("v") or pid not in pairs:
+            continue
         for path, val in fx.items():
             pr = pairs[pid]
             if path in ("pairSource", "pairNote", "type", "aspectNote"):
                 pr[path] = val
+            elif path.endswith(".aspect") and val == "ok":
+                resolved.add((pid, path))
             else:
                 v = val if isinstance(val, list) else ([val, "g"] if val not in ("-", None) else None)
                 set_path(pr, path, v)
-                resolved.add((f"{pid}.{path.split('.')[0]}", ".".join(path.split(".")[1:])))
+                rest = ".".join(path.split(".")[1:])
+                resolved.add((f"{pid}.{path.split('.')[0]}", rest))
+                resolved.add((f"{pid}.{path.split('.')[0]}", rest.replace("fut.", "pres.")))
                 resolved.add((pid, path))
             rep["fixes"] += 1
     for pid in pids:
@@ -279,6 +303,7 @@ for e in base_w:
 
 # --- review: tandai yang sudah dibetulkan ------------------------------------
 final_review = []
+review = [r for r in review if r["ref"].split(".")[0] not in set(dropped)]
 for r in review:
     key = (r["ref"], r["field"])
     if key in resolved or ((r["ref"], "decl:*") in resolved and (r["field"].startswith("decl.") or r["field"].startswith("short."))):

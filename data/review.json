@@ -7132,399 +7132,343 @@
 "field": "pres.1sg",
 "value": "сто́ю",
 "alt": "",
-"reason": "OpenRussian dan pymorphy3 berbeda",
-"kind": "uncertain"
+"reason": "OpenRussian dan pymorphy3 berbeda → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "p283.ipf",
 "field": "pres.2sg",
 "value": "сто́ишь",
 "alt": "",
-"reason": "OpenRussian dan pymorphy3 berbeda",
-"kind": "uncertain"
+"reason": "OpenRussian dan pymorphy3 berbeda → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "p283.ipf",
 "field": "pres.3sg",
 "value": "сто́ит",
 "alt": "",
-"reason": "OpenRussian dan pymorphy3 berbeda",
-"kind": "uncertain"
+"reason": "OpenRussian dan pymorphy3 berbeda → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "p283.ipf",
 "field": "pres.1pl",
 "value": "сто́им",
 "alt": "",
-"reason": "OpenRussian dan pymorphy3 berbeda",
-"kind": "uncertain"
+"reason": "OpenRussian dan pymorphy3 berbeda → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "p283.ipf",
 "field": "pres.2pl",
 "value": "сто́ите",
 "alt": "",
-"reason": "OpenRussian dan pymorphy3 berbeda",
-"kind": "uncertain"
+"reason": "OpenRussian dan pymorphy3 berbeda → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "p283.ipf",
 "field": "pres.3pl",
 "value": "сто́ят",
 "alt": "",
-"reason": "OpenRussian dan pymorphy3 berbeda",
-"kind": "uncertain"
+"reason": "OpenRussian dan pymorphy3 berbeda → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "p283.ipf",
 "field": "past.m",
 "value": "сто́ил",
 "alt": "",
-"reason": "OpenRussian dan pymorphy3 berbeda",
-"kind": "uncertain"
+"reason": "OpenRussian dan pymorphy3 berbeda → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "p283.ipf",
 "field": "past.f",
 "value": "сто́ила",
 "alt": "",
-"reason": "OpenRussian dan pymorphy3 berbeda",
-"kind": "uncertain"
+"reason": "OpenRussian dan pymorphy3 berbeda → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "p283.ipf",
 "field": "past.pl",
 "value": "сто́или",
 "alt": "",
-"reason": "OpenRussian dan pymorphy3 berbeda",
-"kind": "uncertain"
+"reason": "OpenRussian dan pymorphy3 berbeda → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "p283.ipf",
 "field": "imp.sg",
 "value": "стой",
 "alt": "",
-"reason": "OpenRussian dan pymorphy3 berbeda",
-"kind": "uncertain"
+"reason": "OpenRussian dan pymorphy3 berbeda → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "p283.ipf",
 "field": "imp.pl",
 "value": "сто́йте",
 "alt": "",
-"reason": "OpenRussian dan pymorphy3 berbeda",
-"kind": "uncertain"
-},
-{
-"ref": "p300",
-"field": "ipf.aspect",
-"value": "сойти",
-"alt": "",
-"reason": "kamus menandai kata kerja ini СВ, file menempatkannya sebagai НСВ",
-"kind": "uncertain"
-},
-{
-"ref": "p300.pf",
-"field": "fut.1sg",
-"value": "схожу",
-"alt": "",
-"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
-"kind": "uncertain"
-},
-{
-"ref": "p300.pf",
-"field": "fut.2sg",
-"value": "сходишь",
-"alt": "",
-"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
-"kind": "uncertain"
-},
-{
-"ref": "p300.pf",
-"field": "fut.3sg",
-"value": "сходит",
-"alt": "",
-"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
-"kind": "uncertain"
-},
-{
-"ref": "p300.pf",
-"field": "fut.1pl",
-"value": "сходим",
-"alt": "",
-"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
-"kind": "uncertain"
-},
-{
-"ref": "p300.pf",
-"field": "fut.2pl",
-"value": "сходи́те",
-"alt": "",
-"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
-"kind": "uncertain"
-},
-{
-"ref": "p300.pf",
-"field": "fut.3pl",
-"value": "сходят",
-"alt": "",
-"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
-"kind": "uncertain"
+"reason": "OpenRussian dan pymorphy3 berbeda → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "p301.ipf",
 "field": "past.m",
 "value": "звучал",
 "alt": "",
-"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
-"kind": "uncertain"
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "p301.ipf",
 "field": "past.f",
 "value": "звучала",
 "alt": "",
-"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
-"kind": "uncertain"
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "p301.ipf",
 "field": "past.n",
 "value": "звучало",
 "alt": "",
-"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
-"kind": "uncertain"
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "p301.ipf",
 "field": "past.pl",
 "value": "звучали",
 "alt": "",
-"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
-"kind": "uncertain"
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "p301.ipf",
 "field": "imp.sg",
 "value": "звучи",
 "alt": "",
-"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
-"kind": "uncertain"
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "p301.ipf",
 "field": "imp.pl",
 "value": "звучи́те",
 "alt": "",
-"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
-"kind": "uncertain"
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "p301.pf",
 "field": "pres.1sg",
 "value": "прозвучу́",
 "alt": "",
-"reason": "OpenRussian dan pymorphy3 berbeda",
-"kind": "uncertain"
+"reason": "OpenRussian dan pymorphy3 berbeda → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "p301.pf",
 "field": "pres.2sg",
 "value": "прозвучи́шь",
 "alt": "",
-"reason": "OpenRussian dan pymorphy3 berbeda",
-"kind": "uncertain"
+"reason": "OpenRussian dan pymorphy3 berbeda → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "p301.pf",
 "field": "pres.3sg",
 "value": "прозвучи́т",
 "alt": "",
-"reason": "OpenRussian dan pymorphy3 berbeda",
-"kind": "uncertain"
+"reason": "OpenRussian dan pymorphy3 berbeda → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "p301.pf",
 "field": "pres.1pl",
 "value": "прозвучи́м",
 "alt": "",
-"reason": "OpenRussian dan pymorphy3 berbeda",
-"kind": "uncertain"
+"reason": "OpenRussian dan pymorphy3 berbeda → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "p301.pf",
 "field": "pres.2pl",
 "value": "прозвучи́те",
 "alt": "",
-"reason": "OpenRussian dan pymorphy3 berbeda",
-"kind": "uncertain"
+"reason": "OpenRussian dan pymorphy3 berbeda → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "p301.pf",
 "field": "pres.3pl",
 "value": "прозвуча́т",
 "alt": "",
-"reason": "OpenRussian dan pymorphy3 berbeda",
-"kind": "uncertain"
+"reason": "OpenRussian dan pymorphy3 berbeda → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "p301",
 "field": "pf.aspect",
 "value": "прозвучать",
 "alt": "",
-"reason": "kamus menandai kata kerja ini НСВ, file menempatkannya sebagai СВ",
-"kind": "uncertain"
+"reason": "kamus menandai kata kerja ini НСВ, file menempatkannya sebagai СВ → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "p345.pf",
 "field": "imp.sg",
 "value": "вы́тянись",
 "alt": "вытянься",
-"reason": "OpenRussian dan pymorphy3 berbeda",
-"kind": "uncertain"
+"reason": "OpenRussian dan pymorphy3 berbeda → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "p345.pf",
 "field": "imp.pl",
 "value": "вы́тянитесь",
 "alt": "вытяньтесь",
-"reason": "OpenRussian dan pymorphy3 berbeda",
-"kind": "uncertain"
+"reason": "OpenRussian dan pymorphy3 berbeda → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "p372.ipf",
 "field": "pres.1sg",
 "value": "схожу",
 "alt": "",
-"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
-"kind": "uncertain"
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "p372.ipf",
 "field": "pres.2sg",
 "value": "сходишь",
 "alt": "",
-"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
-"kind": "uncertain"
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "p372.ipf",
 "field": "pres.3sg",
 "value": "сходит",
 "alt": "",
-"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
-"kind": "uncertain"
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "p372.ipf",
 "field": "pres.1pl",
 "value": "сходим",
 "alt": "",
-"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
-"kind": "uncertain"
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "p372.ipf",
 "field": "pres.2pl",
 "value": "сходи́те",
 "alt": "",
-"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
-"kind": "uncertain"
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "p372.ipf",
 "field": "pres.3pl",
 "value": "сходят",
 "alt": "",
-"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
-"kind": "uncertain"
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "p380.pf",
 "field": "imp.sg",
 "value": "вы́тащь",
 "alt": "вытащи",
-"reason": "OpenRussian dan pymorphy3 berbeda",
-"kind": "uncertain"
+"reason": "OpenRussian dan pymorphy3 berbeda → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "p380.pf",
 "field": "imp.pl",
 "value": "вы́тащьте",
 "alt": "вытащите",
-"reason": "OpenRussian dan pymorphy3 berbeda",
-"kind": "uncertain"
+"reason": "OpenRussian dan pymorphy3 berbeda → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "p385.pf",
 "field": "fut.1sg",
 "value": "дождала́ю́сь",
 "alt": "дождусь, дождуся",
-"reason": "OpenRussian dan pymorphy3 berbeda",
-"kind": "uncertain"
+"reason": "OpenRussian dan pymorphy3 berbeda → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "p385.pf",
 "field": "fut.2sg",
 "value": "дождалаёшься",
 "alt": "дождёшься",
-"reason": "OpenRussian dan pymorphy3 berbeda",
-"kind": "uncertain"
+"reason": "OpenRussian dan pymorphy3 berbeda → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "p385.pf",
 "field": "fut.3sg",
 "value": "дождалаётся",
 "alt": "дождётся",
-"reason": "OpenRussian dan pymorphy3 berbeda",
-"kind": "uncertain"
+"reason": "OpenRussian dan pymorphy3 berbeda → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "p385.pf",
 "field": "fut.1pl",
 "value": "дождалаёмся",
 "alt": "дождёмся",
-"reason": "OpenRussian dan pymorphy3 berbeda",
-"kind": "uncertain"
+"reason": "OpenRussian dan pymorphy3 berbeda → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "p385.pf",
 "field": "fut.2pl",
 "value": "дождалаётесь",
 "alt": "дождётесь",
-"reason": "OpenRussian dan pymorphy3 berbeda",
-"kind": "uncertain"
+"reason": "OpenRussian dan pymorphy3 berbeda → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "p385.pf",
 "field": "fut.3pl",
 "value": "дождала́ю́тся",
 "alt": "дождутся",
-"reason": "OpenRussian dan pymorphy3 berbeda",
-"kind": "uncertain"
+"reason": "OpenRussian dan pymorphy3 berbeda → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "p385.pf",
 "field": "imp.sg",
 "value": "дождала́и́сь",
 "alt": "дождись",
-"reason": "OpenRussian dan pymorphy3 berbeda",
-"kind": "uncertain"
+"reason": "OpenRussian dan pymorphy3 berbeda → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "p385.pf",
 "field": "imp.pl",
 "value": "дождала́и́тесь",
 "alt": "дождитесь",
-"reason": "OpenRussian dan pymorphy3 berbeda",
-"kind": "uncertain"
+"reason": "OpenRussian dan pymorphy3 berbeda → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "p399.ipf",
 "field": "pres.3sg",
 "value": "хо́чется",
 "alt": "",
-"reason": "OpenRussian dan pymorphy3 berbeda",
-"kind": "uncertain"
+"reason": "OpenRussian dan pymorphy3 berbeda → dibetulkan manual, status g",
+"kind": "resolved_g"
 }
 ]

@@ -1,0 +1,97 @@
+{
+ "v386": {
+  "pairId": "p372",
+  "aspect": "ipf"
+ },
+ "p283": {
+  "ipf.pres.1sg": "сто́ю",
+  "ipf.pres.2sg": "сто́ишь",
+  "ipf.pres.3sg": "сто́ит",
+  "ipf.pres.1pl": "сто́им",
+  "ipf.pres.2pl": "сто́ите",
+  "ipf.pres.3pl": "сто́ят",
+  "ipf.past.m": "сто́ил",
+  "ipf.past.f": "сто́ила",
+  "ipf.past.n": "сто́ило",
+  "ipf.past.pl": "сто́или",
+  "ipf.imp.sg": "-",
+  "ipf.imp.pl": "-",
+  "aspectNote": "Imperatif tidak lazim; стой/стойте adalah imperatif стоять."
+ },
+ "p301": {
+  "ipf.past.m": "звуча́л",
+  "ipf.past.f": "звуча́ла",
+  "ipf.past.n": "звуча́ло",
+  "ipf.past.pl": "звуча́ли",
+  "ipf.imp.sg": "звучи́",
+  "ipf.imp.pl": "звучи́те",
+  "pf.fut.1sg": "прозвучу́",
+  "pf.fut.2sg": "прозвучи́шь",
+  "pf.fut.3sg": "прозвучи́т",
+  "pf.fut.1pl": "прозвучи́м",
+  "pf.fut.2pl": "прозвучи́те",
+  "pf.fut.3pl": "прозвуча́т",
+  "pf.past.m": "прозвуча́л",
+  "pf.past.f": "прозвуча́ла",
+  "pf.past.n": "прозвуча́ло",
+  "pf.past.pl": "прозвуча́ли",
+  "pf.imp.sg": "-",
+  "pf.imp.pl": "-",
+  "pf.aspect": "ok"
+ },
+ "p345": {
+  "pf.imp.sg": "вы́тянись",
+  "pf.imp.pl": "вы́тянитесь",
+  "pairNote": "вытянуться = meregang/memanjang; pasangan yang lebih lazim untuk tiap arti: потянуться, протянуться."
+ },
+ "p372": {
+  "ipf.pres.1sg": "схожу́",
+  "ipf.pres.2sg": "схо́дишь",
+  "ipf.pres.3sg": "схо́дит",
+  "ipf.pres.1pl": "схо́дим",
+  "ipf.pres.2pl": "схо́дите",
+  "ipf.pres.3pl": "схо́дят",
+  "pairNote": "Baris #386 сходить di file juga memuat arti СВ 'pergi sebentar lalu kembali' (сходи́ть, pasangan ходить)."
+ },
+ "p380": {
+  "pf.imp.sg": "вы́тащи",
+  "pf.imp.pl": "вы́тащите"
+ },
+ "p385": {
+  "pf.fut.1sg": "дожду́сь",
+  "pf.fut.2sg": "дождёшься",
+  "pf.fut.3sg": "дождётся",
+  "pf.fut.1pl": "дождёмся",
+  "pf.fut.2pl": "дождётесь",
+  "pf.fut.3pl": "дожду́тся",
+  "pf.imp.sg": "дожди́сь",
+  "pf.imp.pl": "дожди́тесь"
+ },
+ "p267": {
+  "pairNote": "заболеть = jatuh sakit (awal); pasangan aspek bakunya заболевать/заболеть."
+ },
+ "p332": {
+  "pairNote": "летать = terbang bolak-balik/berulang; полететь secara baku berpasangan dengan лететь."
+ },
+ "p357": {
+  "pairNote": "засомневаться = mulai ragu; СВ baku dari сомневаться adalah усомниться."
+ },
+ "p362": {
+  "pairNote": "Lema костить dari file jarang dipakai (dialek, 'memaki'); скостить (memotong harga) adalah kata lain."
+ },
+ "p319": {
+  "pairNote": "садить bersifat lisan; pasangan baku посадить adalah сажать/посадить."
+ },
+ "p308": {
+  "pairNote": "File menulis готовить/приготовить; untuk готовиться dipakai pasangan приготовиться (juga подготовиться)."
+ },
+ "p399": {
+  "ipf.pres.1sg": "-",
+  "ipf.pres.2sg": "-",
+  "ipf.pres.3sg": "хо́чется",
+  "ipf.pres.1pl": "-",
+  "ipf.pres.2pl": "-",
+  "ipf.pres.3pl": "-",
+  "aspectNote": "Kata kerja impersonal: hanya bentuk orang ketiga tunggal (хочется, хотелось), dengan subjek logis dalam Дательный (мне хочется)."
+ }
+}

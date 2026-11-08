@@ -95,6 +95,14 @@
    "examples": 237,
    "fixes": 30,
    "problems": []
+  },
+  "V03": {
+   "pairs": 126,
+   "rows": 133,
+   "written": 126,
+   "examples": 244,
+   "fixes": 65,
+   "problems": []
   }
  },
  "problems": []
