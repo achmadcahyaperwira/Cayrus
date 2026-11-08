@@ -9,7 +9,7 @@ Aplikasi web (PWA) untuk menghafal kosakata Rusia beserta perubahan bentuknya. B
 - **1.841 entri kata** dari daftar "1000 & 2000 самых встречаемых слов": kata beraksen, terjemahan Indonesia, kelas kata, gender, tabel 6 падеж (tunggal dan jamak), tabel kata sifat (м/ср/ж/мн + bentuk pendek), kata ganti, bilangan, dan 1 contoh kalimat.
 - **500 kata kerja** dari "500 Russian Verbs" (398 pasangan aspek): НСВ (kini, lampau, masa depan, imperatif) dan СВ (lampau, masa depan sederhana, imperatif), 2 contoh yang memperlihatkan beda aspek.
 - **Grammar 6 падеж**: fungsi, preposisi, tabel akhiran, contoh, dan 145 soal latihan (pilihan ganda, isian, pilih kasus).
-- **Hafalan**: flashcard RU→ID dan ID→RU dengan pengulangan berjarak (Leitner 5 kotak).
+- **Hafalan**: flashcard RU→ID dan ID→RU dengan pengulangan berjarak, tanpa batas kartu baru per hari. Dek: Level 1–4 (peringkat #1–500, #501–1000, #1001–1500, #1501–2000), Kata Tugas, dan 500 Kata Kerja. **Progres dek** menunjukkan kata yang Hafal, Dipelajari, dan Sudah tahu; ketuk dek untuk melihat daftar katanya.
 
 Label status pada setiap bentuk: tanpa tanda = terverifikasi (OpenRussian + pymorphy3), **G** = dibuat (generated), **?** = belum pasti. Daftar butir yang perlu ditinjau ada di [REVIEW.md](REVIEW.md). Laporan lengkap: [LAPORAN.md](LAPORAN.md).
 

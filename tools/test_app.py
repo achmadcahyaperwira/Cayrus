@@ -155,16 +155,50 @@ with sync_playwright() as pw:
     ok("kata kerja dari daftar kata membuka tabel konjugasi (знать)", "Kini" in page.inner_text("#view"))
 
     # 6. hafalan
+    count_cards = """new Promise(r => { const q = indexedDB.open('rusia-hafalan'); q.onsuccess = () => { const t = q.result.transaction('cards'); const c = t.objectStore('cards').count(); c.onsuccess = () => r(c.result); }; })"""
     go("#/hafalan", "#go")
+    setup_txt = page.inner_text("#view")
+    sizes = page.eval_on_selector_all("#size option", "os => os.map(o => o.value)")
+    ok("hafalan: tidak ada batas kartu baru per hari, ada pilihan sesi tanpa batas",
+       "per hari" not in setup_txt and "0" in sizes and page.locator("#deck option").count() == 7, sizes)
     shot("06-hafalan-atur")
     page.click("#go"); page.wait_for_selector("#card")
+    ok("kartu baru punya tombol 'Sudah tahu'", page.locator("#known").count() == 1)
     shot("07-kartu-depan")
     page.click("#flip"); page.wait_for_selector("#yes")
     shot("08-kartu-belakang")
     page.click("#yes"); page.wait_for_timeout(300)
     page.click("#flip"); page.click("#no"); page.wait_for_timeout(300)
-    n_cards = page.evaluate("""new Promise(r => { const q = indexedDB.open('rusia-hafalan'); q.onsuccess = () => { const t = q.result.transaction('cards'); const c = t.objectStore('cards').count(); c.onsuccess = () => r(c.result); }; })""")
-    ok("progres hafalan tersimpan di IndexedDB", n_cards == 2, f"{n_cards} kartu")
+    page.wait_for_selector("#known"); page.click("#known"); page.wait_for_timeout(300)
+    n_cards = page.evaluate(count_cards)
+    ok("progres hafalan tersimpan di IndexedDB (Hafal, Belum, Sudah tahu)", n_cards == 3, f"{n_cards} kartu")
+
+    # 6b. progres dek
+    go("#/", ".prog .prow")
+    rows = page.locator(".prog .prow").all_inner_texts()
+    ok("beranda: Progres dek 6 dek, tanpa sebaran kotak Leitner", len(rows) == 6 and page.locator(".boxes").count() == 0 and "Kotak" not in page.inner_text("#view"), [r.replace("\n", " ") for r in rows])
+    ok("progres dek Level 1 menghitung 3 kata (2 dipelajari + 1 sudah tahu)", "3 / 420" in rows[0], rows[0].replace("\n", " "))
+    ok("total dek = 420 + 473 + 437 + 402 + 109 kata + 500 kata kerja", [r.split()[-1] for r in rows] == ["420", "473", "437", "402", "109", "500"])
+    shot("16-progres-dek")
+    page.click("#pdir button[data-d=id-ru]"); page.wait_for_timeout(150)
+    ok("progres dek ikut arah kartu (ID→RU masih 0)", "0 / 420" in page.locator(".prog .prow").first.inner_text())
+    page.click("#pdir button[data-d=ru-id]"); page.wait_for_timeout(150)
+    page.locator(".prog .prow").first.click(); page.wait_for_selector(".dlist")
+    ok("halaman dek: daftar 420 kata dengan status", page.locator(".drow").count() == 420 and page.locator(".dst.learn").count() == 2 and page.locator(".dst.known").count() == 1)
+    shot("17-dek-level1")
+    page.click("#flt button[data-f=known]"); page.wait_for_timeout(150)
+    ok("saring 'Sudah tahu' menampilkan 1 kata", page.locator(".drow").count() == 1)
+    page.click(".dst.known"); page.wait_for_timeout(300)
+    ok("tanda 'Sudah tahu' bisa dibatalkan", page.locator(".drow").count() == 0 and page.evaluate(count_cards) == 2)
+    page.click("#flt button[data-f=all]"); page.wait_for_timeout(150)
+
+    # 6c. sesi tanpa batas
+    go("#/hafalan", "#go")
+    page.select_option("#deck", "l2"); page.select_option("#size", "0")
+    page.click("#go"); page.wait_for_selector("#card")
+    head = page.inner_text(".row .grow")
+    ok("sesi tanpa batas: semua 473 kata baru Level 2 masuk antrean (tidak dibatasi 20)", head.startswith("0/473"), head)
+    page.click("text=Selesai"); page.wait_for_selector("#go")
 
     # 7. grammar + latihan
     go("#/grammar", ".list a.case")
@@ -203,15 +237,15 @@ with sync_playwright() as pw:
     ok("offline: detail kata (город) tampil", "го́род" in page.inner_text(".head-word"))
     go("#/latihan/pre", ".qtext")
     ok("offline: latihan grammar berjalan", True)
-    go("#/", ".boxes")
-    boxes = page.inner_text(".boxes")
-    ok("offline: progres tetap ada setelah muat ulang (2 kartu)", sum(int(x) for x in boxes.split() if x.isdigit() and int(x) < 1000) >= 2, boxes.replace("\n", " "))
+    go("#/", ".prog .prow")
+    lvl1 = page.locator(".prog .prow").first.inner_text()
+    ok("offline: progres dek tetap ada setelah muat ulang (Level 1: 2 kata)", "2 / 420" in lvl1, lvl1.replace("\n", " "))
     shot("15-offline-beranda")
     ctx.set_offline(False)
 
     # 9. lebar 375 tanpa gulir horizontal
     widths = {}
-    for h_ in ["#/", "#/kamus", "#/kata/w0062", "#/kerja/v002", "#/grammar/acc", "#/tentang"]:
+    for h_ in ["#/", "#/kamus", "#/kata/w0062", "#/kerja/v002", "#/grammar/acc", "#/tentang", "#/hafalan", "#/hafalan/dek/l1", "#/hafalan/dek/verbs"]:
         page.evaluate(f"location.hash='{h_}'"); page.wait_for_timeout(250)
         widths[h_] = page.evaluate("document.documentElement.scrollWidth")
     ok("tidak ada gulir horizontal di lebar 375 px", all(w <= 375 for w in widths.values()), widths)

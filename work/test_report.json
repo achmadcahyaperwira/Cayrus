@@ -1,6 +1,6 @@
 {
- "passed": 34,
- "total": 34,
+ "passed": 44,
+ "total": 44,
  "results": [
   {
    "test": "service worker aktif",
@@ -55,7 +55,7 @@
   {
    "test": "detail terbuka < 200 ms (CPU 4×, termasuk jeda alat uji)",
    "pass": true,
-   "detail": "{'w0237': 39, 'w0062': 44, 'w0004': 33, 'w0075': 29, 'ws003': 23, 'w0035': 28}"
+   "detail": "{'w0237': 38, 'w0062': 58, 'w0004': 44, 'w0075': 28, 'ws003': 25, 'w0035': 45}"
   },
   {
    "test": "kata benda: tabel 6 kasus × tunggal/jamak",
@@ -113,9 +113,59 @@
    "detail": ""
   },
   {
-   "test": "progres hafalan tersimpan di IndexedDB",
+   "test": "hafalan: tidak ada batas kartu baru per hari, ada pilihan sesi tanpa batas",
    "pass": true,
-   "detail": "2 kartu"
+   "detail": "['10', '20', '50', '100', '0']"
+  },
+  {
+   "test": "kartu baru punya tombol 'Sudah tahu'",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "progres hafalan tersimpan di IndexedDB (Hafal, Belum, Sudah tahu)",
+   "pass": true,
+   "detail": "3 kartu"
+  },
+  {
+   "test": "beranda: Progres dek 6 dek, tanpa sebaran kotak Leitner",
+   "pass": true,
+   "detail": "['Level 1 · #1–500 3 / 420', 'Level 2 · #501–1000 0 / 473', 'Level 3 · #1001–1500 0 / 437', 'Level 4 · #1501–2000 0 / 402', 'Kata Tugas 0 / 109', '500 Kata Kerja 0 / 500']"
+  },
+  {
+   "test": "progres dek Level 1 menghitung 3 kata (2 dipelajari + 1 sudah tahu)",
+   "pass": true,
+   "detail": "Level 1 · #1–500 3 / 420"
+  },
+  {
+   "test": "total dek = 420 + 473 + 437 + 402 + 109 kata + 500 kata kerja",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "progres dek ikut arah kartu (ID→RU masih 0)",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "halaman dek: daftar 420 kata dengan status",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "saring 'Sudah tahu' menampilkan 1 kata",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "tanda 'Sudah tahu' bisa dibatalkan",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "sesi tanpa batas: semua 473 kata baru Level 2 masuk antrean (tidak dibatasi 20)",
+   "pass": true,
+   "detail": "0/473 · kartu baru"
   },
   {
    "test": "grammar: 6 kasus",
@@ -130,7 +180,7 @@
   {
    "test": "latihan 15 soal selesai, umpan balik per soal, skor tersimpan",
    "pass": true,
-   "detail": "{'best': 0, 'last': 0, 'attempts': 1, 'history': [{'date': '2026-11-08', 'score': 0}]}"
+   "detail": "{'best': 1, 'last': 1, 'attempts': 1, 'history': [{'date': '2026-11-08', 'score': 1}]}"
   },
   {
    "test": "halaman Tentang: data offline siap",
@@ -153,14 +203,14 @@
    "detail": ""
   },
   {
-   "test": "offline: progres tetap ada setelah muat ulang (2 kartu)",
+   "test": "offline: progres dek tetap ada setelah muat ulang (Level 1: 2 kata)",
    "pass": true,
-   "detail": "1 kotak 1 1 kotak 2 0 kotak 3 0 kotak 4 0 kotak 5"
+   "detail": "Level 1 · #1–500 2 / 420"
   },
   {
    "test": "tidak ada gulir horizontal di lebar 375 px",
    "pass": true,
-   "detail": "{'#/': 375, '#/kamus': 375, '#/kata/w0062': 375, '#/kerja/v002': 375, '#/grammar/acc': 375, '#/tentang': 375}"
+   "detail": "{'#/': 375, '#/kamus': 375, '#/kata/w0062': 375, '#/kerja/v002': 375, '#/grammar/acc': 375, '#/tentang': 375, '#/hafalan': 375, '#/hafalan/dek/l1': 375, '#/hafalan/dek/verbs': 375}"
   },
   {
    "test": "tidak ada permintaan ke domain lain",
@@ -195,6 +245,8 @@
   "12-latihan-umpan-balik.png",
   "13-latihan-hasil.png",
   "14-tentang.png",
-  "15-offline-beranda.png"
+  "15-offline-beranda.png",
+  "16-progres-dek.png",
+  "17-dek-level1.png"
  ]
 }

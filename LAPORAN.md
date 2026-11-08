@@ -2,7 +2,7 @@
 
 Tanggal: 8 November 2026 · Versi aplikasi 1.0.0 · Repo: https://github.com/achmadcahyaperwira/Cayrus
 
-Semua kata dan kata kerja dari kedua file masuk aplikasi: **1.841 entri kata** dan **500 baris kata kerja** (398 pasangan aspek). Validator data lulus **22/22** pemeriksaan dan uji aplikasi otomatis lulus **34/34**. Tersisa **83 butir [uncertain]** untuk ditinjau (daftar lengkap di [REVIEW.md](REVIEW.md)).
+Semua kata dan kata kerja dari kedua file masuk aplikasi: **1.841 entri kata** dan **500 baris kata kerja** (398 pasangan aspek). Validator data lulus **22/22** pemeriksaan dan uji aplikasi otomatis lulus **44/44**. Tersisa **83 butir [uncertain]** untuk ditinjau (daftar lengkap di [REVIEW.md](REVIEW.md)).
 
 ## 1. Jumlah entri per kategori
 
@@ -108,7 +108,7 @@ Sebagian besar berasal dari lema janggal di file (честной, пошлый, 
 - [x] 3 format soal ada di setiap kasus
 - [x] soal hanya memakai bentuk berstatus terverifikasi
 
-## 6. Hasil uji aplikasi (34/34)
+## 6. Hasil uji aplikasi (44/44)
 
 Diuji di Chrome headless dengan layar 375 × 812 (mode HP). Tangkapan layar ada di `work/screens/`.
 
@@ -134,7 +134,17 @@ Diuji di Chrome headless dengan layar 375 × 812 (mode HP). Tangkapan layar ada 
 - [x] kata kerja: 2 contoh + kalimat pembeda aspek
 - [x] kata kerja satu aspek ditandai (иметь)
 - [x] kata kerja dari daftar kata membuka tabel konjugasi (знать)
-- [x] progres hafalan tersimpan di IndexedDB
+- [x] hafalan: tidak ada batas kartu baru per hari, ada pilihan sesi tanpa batas
+- [x] kartu baru punya tombol 'Sudah tahu'
+- [x] progres hafalan tersimpan di IndexedDB (Hafal, Belum, Sudah tahu)
+- [x] beranda: Progres dek 6 dek, tanpa sebaran kotak Leitner
+- [x] progres dek Level 1 menghitung 3 kata (2 dipelajari + 1 sudah tahu)
+- [x] total dek = 420 + 473 + 437 + 402 + 109 kata + 500 kata kerja
+- [x] progres dek ikut arah kartu (ID→RU masih 0)
+- [x] halaman dek: daftar 420 kata dengan status
+- [x] saring 'Sudah tahu' menampilkan 1 kata
+- [x] tanda 'Sudah tahu' bisa dibatalkan
+- [x] sesi tanpa batas: semua 473 kata baru Level 2 masuk antrean (tidak dibatasi 20)
 - [x] grammar: 6 kasus
 - [x] halaman kasus: fungsi, preposisi, tabel akhiran, ≥3 contoh
 - [x] latihan 15 soal selesai, umpan balik per soal, skor tersimpan
@@ -142,15 +152,18 @@ Diuji di Chrome headless dengan layar 375 × 812 (mode HP). Tangkapan layar ada 
 - [x] offline: aplikasi terbuka setelah jaringan diputus
 - [x] offline: detail kata (город) tampil
 - [x] offline: latihan grammar berjalan
-- [x] offline: progres tetap ada setelah muat ulang (2 kartu)
+- [x] offline: progres dek tetap ada setelah muat ulang (Level 1: 2 kata)
 - [x] tidak ada gulir horizontal di lebar 375 px
 - [x] tidak ada permintaan ke domain lain
 - [x] tidak ada error JavaScript di konsol
 
-## 7. Catatan dan batasan
+## 8. Pembaruan 1.1.0 (8 Nov 2026)
 
-- Pemasangan dan mode offline sudah diuji otomatis di Chrome. Uji manual di HP Android dan iPhone Anda tetap perlu dilakukan setelah GitHub Pages aktif.
-- GitHub Pages harus diaktifkan sekali di Settings → Pages; saya tidak punya akses untuk mengubah pengaturan repo.
-- Baris #386 сходить di file mencampur dua arti. Baris ini ditautkan ke pasangan сходить/сойти dengan catatan arti СВ "pergi sebentar".
-- Bentuk lokatif khusus -у́ (в лесу́, на полу́) hanya tercantum bila ada di sumber; contoh grammar "в лесу" diganti dengan contoh lain yang terverifikasi.
-- Data OpenRussian berlisensi CC BY-SA 4.0; atribusi ada di halaman Tentang dan README.
+- **Progres dek** menggantikan sebaran kotak Leitner di Beranda dan Hafalan. Setiap dek punya batang Hafal (hijau), Dipelajari (biru), dan Sudah tahu (abu-abu), terpisah untuk arah RU→ID dan ID→RU.
+- Dek baru mengikuti peringkat di file kata: Level 1 #1–500 (420 kata), Level 2 #501–1000 (473), Level 3 #1001–1500 (437), Level 4 #1501–2000 (402), Kata Tugas (109), dan 500 Kata Kerja (500 baris). Kata dengan dua peringkat masuk level peringkat terkecilnya.
+- Mengetuk dek membuka daftar katanya dengan status masing-masing dan saringan Semua / Hafal / Dipelajari / Sudah tahu / Belum.
+- Tombol **Sudah tahu** pada kartu baru: kata ditandai sudah dikuasai dan tidak muncul lagi. Tanda ini bisa dibatalkan dari halaman dek.
+- Batas kartu baru per hari dihapus. Jumlah kartu per sesi bisa 10, 20, 50, 100, atau tanpa batas.
+- Hafal = kotak 5, yaitu ditandai Hafal 4 kali berturut-turut dengan jeda 1, 3, dan 7 hari. Jadwal pengulangan tidak berubah.
+- Service worker mengambil file baru tanpa cache HTTP, dan aplikasi memuat ulang sendiri saat versi baru terpasang (berlaku mulai versi berikutnya).
+- Progres lama tetap aman: kartu disimpan per kata dan arah, tidak per dek.

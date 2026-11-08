@@ -1,5 +1,5 @@
 // Service worker CayRus: simpan semua aset saat pemasangan, lalu layani dari cache (offline penuh).
-const CACHE = "cayrus-v1.0.0";
+const CACHE = "cayrus-v1.1.0";
 const ASSETS = [
   "./", "index.html", "app.css", "app.js", "manifest.webmanifest",
   "fonts/noto-sans-400Regular.woff2", "fonts/noto-sans-600SemiBold.woff2", "fonts/OFL.txt",
@@ -8,7 +8,8 @@ const ASSETS = [
 ];
 
 self.addEventListener("install", (event) => {
-  event.waitUntil(caches.open(CACHE).then((c) => c.addAll(ASSETS)).then(() => self.skipWaiting()));
+  // cache: "reload" melewati cache HTTP browser, supaya pembaruan tidak menyimpan file versi lama.
+  event.waitUntil(caches.open(CACHE).then((c) => c.addAll(ASSETS.map((u) => new Request(u, { cache: "reload" })))).then(() => self.skipWaiting()));
 });
 
 self.addEventListener("activate", (event) => {

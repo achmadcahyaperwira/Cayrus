@@ -6,6 +6,7 @@
   --text: #1B1D21; --muted: #5E6168; --primary: #1E3A5F; --primary-ink: #FFFFFF;
   --accent: #C4561E; --ok: #1F7A4D; --ok-bg: #E3F2E9; --bad: #B42318; --bad-bg: #FBE6E4;
   --warn: #8A5A00; --warn-bg: #FFF1C9; --gen: #6B6F78; --mark: #FCE7B2;
+  --st-hafal: #1F7A4D; --st-learn: #2747C9; --st-learn-bg: #E4E9FB; --st-known: #8A90A3; --track: #E7E4DC;
   --radius: 12px; --tabs-h: 64px; --top-h: 52px;
   color-scheme: light;
 }
@@ -15,6 +16,7 @@
     --text: #ECEDEF; --muted: #A3A8B1; --primary: #8DB4E2; --primary-ink: #0E1A2A;
     --accent: #F0915C; --ok: #6FD39E; --ok-bg: #173325; --bad: #FF8A80; --bad-bg: #3A1D1B;
     --warn: #F4C75B; --warn-bg: #3A3016; --gen: #9DA2AB; --mark: #4A3B12;
+    --st-hafal: #4CC489; --st-learn: #7D97FF; --st-learn-bg: #1E2847; --st-known: #7B8191; --track: #2C3038;
     color-scheme: dark;
   }
 }
@@ -147,9 +149,41 @@ mark { background: var(--mark); color: inherit; border-radius: 3px; padding: 0 2
 .flash hr { width: 60%; border: 0; border-top: 1px solid var(--line); margin: 16px 0; }
 .progress { height: 6px; background: var(--surface-2); border-radius: 999px; overflow: hidden; margin: 8px 0; }
 .progress > i { display: block; height: 100%; background: var(--primary); }
-.boxes { display: grid; grid-template-columns: repeat(5, 1fr); gap: 6px; text-align: center; }
-.boxes div { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 8px 2px; font-size: 12px; color: var(--muted); }
-.boxes b { display: block; font-size: 18px; color: var(--text); }
+.grid3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; }
+
+/* progres dek */
+.eyebrow { font-size: 13px; font-weight: 700; letter-spacing: 1.4px; text-transform: uppercase; color: var(--muted); }
+.prog .phead { flex-wrap: nowrap; margin-bottom: 4px; }
+.seg.sm button { min-height: 36px; padding: 4px 10px; font-size: 13px; }
+.prow { display: block; padding: 10px 0 8px; text-decoration: none; color: var(--text); }
+.prow .row { flex-wrap: nowrap; }
+.prow .num { color: var(--muted); font-variant-numeric: tabular-nums; white-space: nowrap; }
+.pbar { display: flex; height: 8px; margin-top: 6px; border-radius: 999px; background: var(--track); overflow: hidden; }
+.pbar i { display: block; height: 100%; flex: none; }
+.hafal { --c: var(--st-hafal); }
+.learn { --c: var(--st-learn); }
+.known { --c: var(--st-known); }
+.pbar i, .plegend i { background: var(--c); }
+.plegend { display: flex; flex-wrap: wrap; gap: 6px 16px; margin-top: 12px; font-size: 14px; color: var(--muted); }
+.plegend span { display: inline-flex; align-items: center; gap: 6px; }
+.plegend i { width: 12px; height: 12px; border-radius: 3px; }
+.big-num { font-size: 24px; }
+.fchips { display: flex; flex-wrap: wrap; gap: 6px; margin: 16px 0 8px; }
+.fchip { min-height: 36px; padding: 4px 12px; border-radius: 999px; border: 1px solid var(--line); background: var(--surface); cursor: pointer; font-size: 14px; }
+.fchip span { color: var(--muted); font-variant-numeric: tabular-nums; }
+.fchip.on { background: var(--primary); border-color: var(--primary); color: var(--primary-ink); }
+.fchip.on span { color: inherit; opacity: .8; }
+.dlist { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; }
+.drow { display: flex; align-items: center; gap: 10px; min-height: 56px; padding: 0 12px; border-bottom: 1px solid var(--line);
+  content-visibility: auto; contain-intrinsic-size: auto 56px; }
+.drow:last-child { border-bottom: 0; }
+.drow a { flex: 1; min-width: 0; padding: 8px 0; text-decoration: none; color: var(--text); }
+.drow .w { display: block; font-size: 17px; font-weight: 600; }
+.drow .t { display: block; font-size: 14px; color: var(--muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.dst { flex: none; padding: 3px 10px; border-radius: 999px; font-size: 12px; font-weight: 600; white-space: nowrap; border: 0; }
+.dst.hafal { background: var(--ok-bg); color: var(--st-hafal); }
+.dst.learn { background: var(--st-learn-bg); color: var(--st-learn); }
+.dst.known { min-height: 32px; background: var(--surface-2); color: var(--muted); cursor: pointer; }
 
 /* grammar & latihan */
 .list a.case { display: flex; align-items: center; gap: 12px; padding: 14px 12px; background: var(--surface); border: 1px solid var(--line);

@@ -13,6 +13,7 @@ Rujukan: PRD "CayRus: Aplikasi Hafalan Kosakata Rusia–Indonesia (PWA)" (disetu
 | M5 | Aplikasi PWA | Selesai 8 Nov 2026 |
 | M6 | Pengujian | Selesai: validator 22/22, uji aplikasi 34/34 |
 | M7 | Serah terima (push ke achmadcahyaperwira/Cayrus) | Selesai: LAPORAN.md, REVIEW.md, README.md |
+| 1.1.0 | Permintaan pengguna: Progres dek, tombol Sudah tahu, hapus batas kartu baru | Selesai 8 Nov 2026: uji aplikasi 44/44, validator 22/22 |
 
 ## Batch
 
