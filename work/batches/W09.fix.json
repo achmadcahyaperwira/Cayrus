@@ -1,0 +1,14 @@
+{
+ "w1680": {"decl.short.m": "-", "decl.short.n": "-", "decl.short.f": "-", "decl.short.pl": "-"},
+ "w1773": {"decl.short.m": "осо́бен", "decl.short.n": "осо́бенно", "decl.short.f": "осо́бенна", "decl.short.pl": "осо́бенны"},
+ "w1843": {"decl.short.pl": "стро́ги, строги́"},
+ "w1851": {"decl.sg": "по́лчаса|получа́са|получа́су|по́лчаса|получа́сом|получа́се", "decl.pl": "-|-|-|-|-|-", "decl.number": "sg_only"},
+ "w1854": {"decl.forms.gen": "двена́дцати", "decl.forms.dat": "двена́дцати", "decl.forms.ins": "двена́дцатью", "decl.forms.pre": "двена́дцати"},
+ "w1864": {"decl.short.m": "-", "decl.short.n": "-", "decl.short.f": "-", "decl.short.pl": "-"},
+ "w1861": {"pos": "noun", "gender": "f", "animate": false, "indeclinable": false,
+           "decl": {"type": "noun", "number": "both",
+                    "sg": {"nom": "страсть", "gen": "стра́сти", "dat": "стра́сти", "acc": "страсть", "ins": "стра́стью", "pre": "стра́сти"},
+                    "pl": {"nom": "стра́сти", "gen": "страсте́й", "dat": "страстя́м", "acc": "стра́сти", "ins": "страстя́ми", "pre": "страстя́х"}}},
+ "w1687": {"gender": "f"}, "w1719": {"gender": "m"}, "w1724": {"gender": "n"}, "w1777": {"gender": "m"},
+ "w1814": {"gender": "m"}, "w1838": {"gender": "m"}, "w1845": {"gender": "f"}, "w1893": {"gender": "pl"}
+}
