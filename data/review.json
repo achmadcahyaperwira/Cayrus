@@ -3116,32 +3116,32 @@
 "field": "decl.forms.gen",
 "value": "двоих",
 "alt": "",
-"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
-"kind": "uncertain"
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "w0660",
 "field": "decl.forms.acc",
 "value": "дво́е, двоих",
 "alt": "",
-"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
-"kind": "uncertain"
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "w0660",
 "field": "decl.forms.ins",
 "value": "двоими",
 "alt": "",
-"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
-"kind": "uncertain"
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "w0660",
 "field": "decl.forms.pre",
 "value": "двоих",
 "alt": "",
-"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
-"kind": "uncertain"
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "w0672",
@@ -3172,16 +3172,16 @@
 "field": "decl.sg.acc",
 "value": "член",
 "alt": "члена",
-"reason": "OpenRussian dan pymorphy3 berbeda",
-"kind": "uncertain"
+"reason": "OpenRussian dan pymorphy3 berbeda → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "w0677",
 "field": "decl.pl.acc",
 "value": "чле́ны",
 "alt": "членов",
-"reason": "OpenRussian dan pymorphy3 berbeda",
-"kind": "uncertain"
+"reason": "OpenRussian dan pymorphy3 berbeda → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "w0683",
@@ -3252,80 +3252,80 @@
 "field": "decl.forms.nom",
 "value": "сорок",
 "alt": "",
-"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
-"kind": "uncertain"
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "w0734",
 "field": "decl.forms.acc",
 "value": "сорок",
 "alt": "",
-"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
-"kind": "uncertain"
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "w0742",
 "field": "decl.forms.gen",
 "value": "шести",
 "alt": "",
-"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
-"kind": "uncertain"
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "w0742",
 "field": "decl.forms.dat",
 "value": "шести",
 "alt": "",
-"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
-"kind": "uncertain"
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "w0742",
 "field": "decl.forms.ins",
 "value": "шестью",
 "alt": "",
-"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
-"kind": "uncertain"
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "w0742",
 "field": "decl.forms.pre",
 "value": "шести",
 "alt": "",
-"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
-"kind": "uncertain"
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "w0744",
 "field": "decl.forms.gen",
 "value": "тридцати",
 "alt": "",
-"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
-"kind": "uncertain"
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "w0744",
 "field": "decl.forms.dat",
 "value": "тридцати",
 "alt": "",
-"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
-"kind": "uncertain"
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "w0744",
 "field": "decl.forms.ins",
 "value": "тридцатью",
 "alt": "",
-"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
-"kind": "uncertain"
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "w0744",
 "field": "decl.forms.pre",
 "value": "тридцати",
 "alt": "",
-"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
-"kind": "uncertain"
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "w0756",
@@ -3348,24 +3348,24 @@
 "field": "short.n",
 "value": "уве́рено",
 "alt": "уверенно",
-"reason": "OpenRussian dan pymorphy3 berbeda",
-"kind": "uncertain"
+"reason": "OpenRussian dan pymorphy3 berbeda → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "w0758",
 "field": "short.f",
 "value": "уве́рена",
 "alt": "уверенна",
-"reason": "OpenRussian dan pymorphy3 berbeda",
-"kind": "uncertain"
+"reason": "OpenRussian dan pymorphy3 berbeda → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "w0758",
 "field": "short.pl",
 "value": "уве́рены",
 "alt": "уверенны",
-"reason": "OpenRussian dan pymorphy3 berbeda",
-"kind": "uncertain"
+"reason": "OpenRussian dan pymorphy3 berbeda → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "w0767",

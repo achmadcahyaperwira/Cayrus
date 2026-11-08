@@ -1,0 +1,11 @@
+{
+ "w0646": {"pos": "num", "gender": null, "indeclinable": false,
+           "decl": {"type": "num", "forms": {"nom": "сто", "gen": "ста", "dat": "ста", "acc": "сто", "ins": "ста", "pre": "ста"}}},
+ "w0660": {"decl.forms.gen": "двои́х", "decl.forms.acc": "дво́е, двои́х", "decl.forms.ins": "двои́ми", "decl.forms.pre": "двои́х"},
+ "w0677": {"gender": "m", "animate": true, "decl.sg.acc": "чле́на", "decl.pl.acc": "чле́нов"},
+ "w0734": {"decl.forms.nom": "со́рок", "decl.forms.acc": "со́рок"},
+ "w0742": {"decl.forms.gen": "шести́", "decl.forms.dat": "шести́", "decl.forms.ins": "шестью́", "decl.forms.pre": "шести́"},
+ "w0744": {"decl.forms.gen": "тридцати́", "decl.forms.dat": "тридцати́", "decl.forms.ins": "тридцатью́", "decl.forms.pre": "тридцати́"},
+ "w0758": {"decl.short.m": "уве́рен", "decl.short.n": "уве́рено", "decl.short.f": "уве́рена", "decl.short.pl": "уве́рены"},
+ "w0666": {"gender": "n"}, "w0753": {"gender": "n"}, "w0794": {"gender": "m"}, "w0801": {"gender": "m"}
+}

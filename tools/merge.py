@@ -74,6 +74,10 @@ def set_path(obj, path, value):
     obj[keys[-1]] = value
 
 
+def k_is_form(x):
+    return x not in ("noun", "adj", "num", "pron", "both", "sg_only", "pl_only")
+
+
 def apply_fix(rec, path, val, resolved):
     """val: string (status g) atau [bentuk, status]. 'decl.m': 'a|b|c|d/e|f|g' = 6 kasus."""
     if isinstance(val, str) and "|" in val and path.startswith("decl."):
@@ -87,7 +91,15 @@ def apply_fix(rec, path, val, resolved):
             else:
                 apply_fix(rec, f"{path}.{c}", f, resolved)
         return
-    if path in ("gender", "pos", "number_note", "animate"):
+    if path == "decl" and isinstance(val, dict):
+        def conv(x):
+            if isinstance(x, dict):
+                return {k: conv(v) for k, v in x.items()}
+            return [x, "g"] if isinstance(x, str) and k_is_form(x) else x
+        rec["decl"] = conv(val)
+        resolved.add((rec["id"], "decl:*"))
+        return
+    if path in ("gender", "pos", "number_note", "animate", "indeclinable"):
         rec[path] = val
         return
     if path == "accented":
@@ -177,7 +189,7 @@ for bname, ids in plan.items():
 final_review = []
 for r in review:
     key = (r["ref"], r["field"])
-    if key in resolved:
+    if key in resolved or ((r["ref"], "decl:*") in resolved and (r["field"].startswith("decl.") or r["field"].startswith("short."))):
         r = dict(r, kind="resolved_g", reason=r["reason"] + " → dibetulkan manual, status g")
         # nilai baru diambil dari entri
     final_review.append(r)

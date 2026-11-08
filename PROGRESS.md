@@ -21,7 +21,7 @@ Rujukan: PRD "CayRus: Aplikasi Hafalan Kosakata Rusia–Indonesia (PWA)" (disetu
 | W01 | 184 | 138 | 46 | Selesai: 138 terjemahan + contoh, 41 perbaikan bentuk, 6 [uncertain] tersisa |
 | W02 | 184 | 127 | 57 | Selesai: 127 terjemahan + contoh, 29 perbaikan bentuk, 0 [uncertain] tersisa |
 | W03 | 184 | 140 | 44 | Selesai: 140 terjemahan + contoh, 22 perbaikan bentuk, 10 [uncertain] tersisa (грудь, кой) |
-| W04 | 184 | 146 | 38 | Belum — batch berikutnya |
+| W04 | 184 | 146 | 38 | Selesai: 146 terjemahan + contoh, 30 perbaikan bentuk (сто → bilangan, член bernyawa), 1 [uncertain] (придтись) |
 | W05 | 184 | 133 | 51 | Belum |
 | W06 | 184 | 135 | 49 | Belum |
 | W07 | 184 | 135 | 49 | Belum |
