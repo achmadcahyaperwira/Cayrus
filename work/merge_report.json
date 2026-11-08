@@ -87,6 +87,14 @@
    "examples": 253,
    "fixes": 33,
    "problems": []
+  },
+  "V02": {
+   "pairs": 130,
+   "rows": 154,
+   "written": 130,
+   "examples": 237,
+   "fixes": 30,
+   "problems": []
   }
  },
  "problems": []

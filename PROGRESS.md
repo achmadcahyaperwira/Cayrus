@@ -34,8 +34,8 @@ Rujukan: PRD "CayRus: Aplikasi Hafalan Kosakata Rusia–Indonesia (PWA)" (disetu
 | Batch | Pasangan | Baris | Status |
 | --- | --- | --- | --- |
 | V01 | 130 | 213 | Selesai: terjemahan + 253 contoh, 33 perbaikan bentuk, 8 catatan pasangan |
-| V02 | 130 | — | Belum — batch berikutnya |
-| V03 | 127 | — | Belum |
+| V02 | 130 | 154 | Selesai: terjemahan + 237 contoh, 30 perbaikan bentuk, 5 catatan pasangan |
+| V03 | 127 | — | Belum — batch berikutnya |
 
 Kata kerja yang ada di file kata kerja mendapat terjemahan dan contoh di batch V (data dipakai bersama).
 

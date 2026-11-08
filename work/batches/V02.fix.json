@@ -1,0 +1,15 @@
+{
+ "p136": {"pf.fut.1sg": "спою́", "pf.fut.2sg": "споёшь", "pf.fut.3sg": "споёт", "pf.fut.1pl": "споём", "pf.fut.2pl": "споёте", "pf.fut.3pl": "спою́т",
+          "pf.imp.sg": "спой", "pf.imp.pl": "спо́йте"},
+ "p147": {"pf.imp.sg": "уезжа́й", "pf.imp.pl": "уезжа́йте", "aspectNote": "Imperatif уехать memakai bentuk НСВ: уезжай."},
+ "p163": {"ipf.imp.sg": "дви́гайся, дви́жься", "ipf.imp.pl": "дви́гайтесь, дви́жьтесь"},
+ "p197": {"pf.imp.sg": "вы́тащи", "pf.imp.pl": "вы́тащите"},
+ "p245": {"pf.imp.sg": "вы́держи", "pf.imp.pl": "вы́держите"},
+ "p251": {"pf.fut.1sg": "пожму́", "pf.fut.2sg": "пожмёшь", "pf.fut.3sg": "пожмёт", "pf.fut.1pl": "пожмём", "pf.fut.2pl": "пожмёте", "pf.fut.3pl": "пожму́т",
+          "pf.imp.sg": "пожми́", "pf.imp.pl": "пожми́те"},
+ "p169": {"pairNote": "носить = membawa/memakai berulang (gerak tak berarah); понести secara baku berpasangan dengan нести."},
+ "p178": {"pairNote": "закричать = mulai berteriak; untuk satu teriakan dipakai крикнуть (lihat кричать/крикнуть)."},
+ "p207": {"pairNote": "велеть sendiri biaspektual; повелеть berarti 'memerintahkan' dengan gaya agung."},
+ "p138": {"pairNote": "пожаловать kini hampir hanya dipakai dalam ungkapan добро пожаловать."},
+ "p233": {"pairNote": "Lema спасть dari file (= surut, mereda) jarang dipakai; jangan tertukar dengan спать (tidur)."}
+}
