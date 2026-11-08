@@ -1,0 +1,31 @@
+{
+ "per_case": {
+  "nom": 25,
+  "gen": 24,
+  "dat": 24,
+  "acc": 24,
+  "ins": 24,
+  "pre": 24
+ },
+ "per_type": {
+  "nom/mcq": 9,
+  "nom/fill": 8,
+  "nom/pick_case": 8,
+  "gen/mcq": 8,
+  "gen/fill": 8,
+  "gen/pick_case": 8,
+  "dat/mcq": 8,
+  "dat/fill": 8,
+  "dat/pick_case": 8,
+  "acc/mcq": 8,
+  "acc/fill": 8,
+  "acc/pick_case": 8,
+  "ins/mcq": 8,
+  "ins/fill": 8,
+  "ins/pick_case": 8,
+  "pre/mcq": 8,
+  "pre/fill": 8,
+  "pre/pick_case": 8
+ },
+ "problems": []
+}

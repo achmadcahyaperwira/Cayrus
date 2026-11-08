@@ -1,0 +1,601 @@
+{
+ "intro": "Bahasa Rusia punya 6 kasus (падеж). Akhiran kata benda, kata sifat, dan kata ganti berubah menurut fungsinya di kalimat. Pertanyaan kasus membantu menentukan kasus yang dipakai.",
+ "cases": [
+  {
+   "id": "nom",
+   "name": "Имени́тельный",
+   "nameId": "Nominatif",
+   "question": "кто? что?",
+   "summary": "Bentuk dasar (bentuk kamus). Dipakai untuk subjek kalimat.",
+   "functions": [
+    "Subjek kalimat: siapa/apa yang melakukan atau mengalami sesuatu.",
+    "Pelengkap setelah это, вот, dan kalimat tanpa kata kerja 'adalah' (Он врач = Dia dokter).",
+    "Bentuk yang tercantum di kamus."
+   ],
+   "endings": {
+    "sg": {
+     "m": "-∅, -й, -ь (стол, музе́й, день)",
+     "f": "-а, -я, -ь (кни́га, неде́ля, ночь)",
+     "n": "-о, -е (окно́, мо́ре)"
+    },
+    "pl": {
+     "m": "-ы, -и (столы́, музе́и)",
+     "f": "-ы, -и (кни́ги, неде́ли)",
+     "n": "-а, -я (о́кна, моря́)"
+    },
+    "adj": {
+     "m": "-ый, -ий, -ой",
+     "n": "-ое, -ее",
+     "f": "-ая, -яя",
+     "pl": "-ые, -ие"
+    }
+   },
+   "prepositions": [
+    {
+     "prep": "—",
+     "meaning": "Tidak memakai preposisi. Kata seperti вот (ini dia) dan это (ini) diikuti Nominatif.",
+     "example": "Вот наш дом."
+    }
+   ],
+   "examples": [
+    {
+     "ru": "Брат чита́ет.",
+     "id": "Saudara laki-laki sedang membaca.",
+     "ref": {
+      "entry": "w0353",
+      "num": "sg",
+      "case": "nom"
+     },
+     "form": "брат"
+    },
+    {
+     "ru": "Где кни́га?",
+     "id": "Di mana buku itu?",
+     "ref": {
+      "entry": "w0237",
+      "num": "sg",
+      "case": "nom"
+     },
+     "form": "кни́га"
+    },
+    {
+     "ru": "Вот наш дом.",
+     "id": "Ini rumah kami.",
+     "ref": {
+      "entry": "w0100",
+      "num": "sg",
+      "case": "nom"
+     },
+     "form": "дом"
+    },
+    {
+     "ru": "Де́ти игра́ют во дворе́.",
+     "id": "Anak-anak bermain di halaman.",
+     "ref": {
+      "entry": "w0174",
+      "num": "pl",
+      "case": "nom"
+     },
+     "form": "де́ти"
+    }
+   ]
+  },
+  {
+   "id": "gen",
+   "name": "Роди́тельный",
+   "nameId": "Genitif",
+   "question": "кого? чего?",
+   "summary": "Kasus kepemilikan, ketiadaan, jumlah, dan asal.",
+   "functions": [
+    "Kepemilikan: книга брата = buku (milik) saudara laki-laki.",
+    "Ketiadaan setelah нет, не было, не будет: У меня нет машины.",
+    "Jumlah dan takaran: стакан воды, много друзей, мало времени.",
+    "Setelah angka: 2, 3, 4 + Genitif tunggal (два брата); 5 ke atas + Genitif jamak (пять братьев).",
+    "Setelah banyak preposisi (lihat daftar)."
+   ],
+   "endings": {
+    "sg": {
+     "m": "-а, -я (стола́, музе́я, дня)",
+     "f": "-ы, -и (кни́ги, неде́ли, но́чи)",
+     "n": "-а, -я (окна́, мо́ря)"
+    },
+    "pl": {
+     "m": "-ов, -ев, -ей (столо́в, музе́ев, дней)",
+     "f": "-∅, -ь, -ей (книг, неде́ль, ноче́й)",
+     "n": "-∅, -ей (о́кон, море́й)"
+    },
+    "adj": {
+     "m": "-ого, -его",
+     "n": "-ого, -его",
+     "f": "-ой, -ей",
+     "pl": "-ых, -их"
+    }
+   },
+   "prepositions": [
+    {
+     "prep": "без",
+     "meaning": "tanpa",
+     "example": "Чай без молока́."
+    },
+    {
+     "prep": "для",
+     "meaning": "untuk",
+     "example": "Э́то пода́рок для ма́мы."
+    },
+    {
+     "prep": "до",
+     "meaning": "sampai, hingga; sebelum",
+     "example": "Я рабо́таю до вечера."
+    },
+    {
+     "prep": "из",
+     "meaning": "dari (dalam)",
+     "example": "Он вы́шел из дома."
+    },
+    {
+     "prep": "от",
+     "meaning": "dari (orang/titik awal)",
+     "example": "Письмо́ от дру́га."
+    },
+    {
+     "prep": "у",
+     "meaning": "pada, di dekat; у меня есть = saya punya",
+     "example": "У бра́та есть маши́на."
+    },
+    {
+     "prep": "с",
+     "meaning": "dari (permukaan/aktivitas)",
+     "example": "Он пришёл с рабо́ты."
+    },
+    {
+     "prep": "после",
+     "meaning": "sesudah",
+     "example": "После обе́да мы гуля́ем."
+    },
+    {
+     "prep": "около, возле",
+     "meaning": "di dekat",
+     "example": "О́коло дома стоит маши́на."
+    },
+    {
+     "prep": "кроме",
+     "meaning": "kecuali, selain",
+     "example": "Все пришли́, кро́ме бра́та."
+    },
+    {
+     "prep": "против",
+     "meaning": "melawan",
+     "example": "Я про́тив войны."
+    }
+   ],
+   "examples": [
+    {
+     "ru": "У меня́ нет маши́ны.",
+     "id": "Saya tidak punya mobil.",
+     "ref": {
+      "entry": "w0167",
+      "num": "sg",
+      "case": "gen"
+     },
+     "form": "маши́ны"
+    },
+    {
+     "ru": "Э́то кни́га бра́та.",
+     "id": "Ini buku saudara laki-laki saya.",
+     "ref": {
+      "entry": "w0353",
+      "num": "sg",
+      "case": "gen"
+     },
+     "form": "бра́та"
+    },
+    {
+     "ru": "Дай мне стака́н воды.",
+     "id": "Beri aku segelas air.",
+     "ref": {
+      "entry": "w0158",
+      "num": "sg",
+      "case": "gen"
+     },
+     "form": "воды́"
+    },
+    {
+     "ru": "Он вы́шел из дома.",
+     "id": "Dia keluar dari rumah.",
+     "ref": {
+      "entry": "w0100",
+      "num": "sg",
+      "case": "gen"
+     },
+     "form": "до́ма"
+    }
+   ]
+  },
+  {
+   "id": "dat",
+   "name": "Да́тельный",
+   "nameId": "Datif",
+   "question": "кому? чему?",
+   "summary": "Kasus penerima: kepada siapa sesuatu diberikan atau ditujukan.",
+   "functions": [
+    "Penerima: дать брату книгу = memberi saudara buku; позвонить маме = menelepon ibu.",
+    "Orang yang merasakan atau mengalami: Мне холодно (saya kedinginan), Брату нравится музыка.",
+    "Usia: Мне двадцать лет.",
+    "Keharusan dan kebutuhan: Мне нужно идти, Нам надо работать.",
+    "Setelah preposisi к dan по."
+   ],
+   "endings": {
+    "sg": {
+     "m": "-у, -ю (столу́, музе́ю)",
+     "f": "-е, -и (кни́ге, неде́ле, но́чи)",
+     "n": "-у, -ю (окну́, мо́рю)"
+    },
+    "pl": {
+     "m": "-ам, -ям (стола́м, музе́ям)",
+     "f": "-ам, -ям (кни́гам, неде́лям)",
+     "n": "-ам, -ям (о́кнам, моря́м)"
+    },
+    "adj": {
+     "m": "-ому, -ему",
+     "n": "-ому, -ему",
+     "f": "-ой, -ей",
+     "pl": "-ым, -им"
+    }
+   },
+   "prepositions": [
+    {
+     "prep": "к",
+     "meaning": "ke, menuju (orang/tempat)",
+     "example": "Я иду́ к врачу́."
+    },
+    {
+     "prep": "по",
+     "meaning": "sepanjang, di (permukaan); melalui; menurut",
+     "example": "Мы гуля́ли по парку."
+    }
+   ],
+   "examples": [
+    {
+     "ru": "Я позвони́л бра́ту.",
+     "id": "Saya menelepon saudara laki-laki saya.",
+     "ref": {
+      "entry": "w0353",
+      "num": "sg",
+      "case": "dat"
+     },
+     "form": "бра́ту"
+    },
+    {
+     "ru": "Я иду́ к врачу́.",
+     "id": "Saya pergi ke dokter.",
+     "ref": {
+      "entry": "w0529",
+      "num": "sg",
+      "case": "dat"
+     },
+     "form": "врачу́"
+    },
+    {
+     "ru": "Мы гуля́ли по парку.",
+     "id": "Kami berjalan-jalan di taman.",
+     "ref": {
+      "entry": "w1758",
+      "num": "sg",
+      "case": "dat"
+     },
+     "form": "па́рку"
+    },
+    {
+     "ru": "Ма́ме нра́вится му́зыка.",
+     "id": "Ibu menyukai musik.",
+     "ref": {
+      "entry": "w0314",
+      "num": "sg",
+      "case": "dat"
+     },
+     "form": "ма́ме"
+    }
+   ]
+  },
+  {
+   "id": "acc",
+   "name": "Вини́тельный",
+   "nameId": "Akusatif",
+   "question": "кого? что?",
+   "summary": "Kasus objek langsung dan arah gerak.",
+   "functions": [
+    "Objek langsung: Я читаю книгу, Я вижу брата.",
+    "Arah (ke mana?) setelah в dan на: Я иду в школу, Он едет на работу.",
+    "Waktu: каждую неделю (setiap minggu), всю ночь (sepanjang malam).",
+    "Benda mati maskulin dan netral: sama dengan Nominatif. Makhluk hidup maskulin (dan semua jamak makhluk hidup): sama dengan Genitif."
+   ],
+   "endings": {
+    "sg": {
+     "m": "benda mati = Nom (стол); makhluk hidup = Gen (бра́та)",
+     "f": "-у, -ю, -ь (кни́гу, неде́лю, ночь)",
+     "n": "= Nom (окно́, мо́ре)"
+    },
+    "pl": {
+     "m": "benda mati = Nom; makhluk hidup = Gen",
+     "f": "benda mati = Nom; makhluk hidup = Gen",
+     "n": "= Nom"
+    },
+    "adj": {
+     "m": "= Nom / = Gen (makhluk hidup)",
+     "n": "-ое, -ее",
+     "f": "-ую, -юю",
+     "pl": "= Nom / = Gen (makhluk hidup)"
+    }
+   },
+   "prepositions": [
+    {
+     "prep": "в",
+     "meaning": "ke (dalam) — arah",
+     "example": "Мы идём в теа́тр."
+    },
+    {
+     "prep": "на",
+     "meaning": "ke — arah (permukaan, acara, tempat terbuka)",
+     "example": "Он е́дет на рабо́ту."
+    },
+    {
+     "prep": "через",
+     "meaning": "melalui; (waktu) lagi",
+     "example": "Я верну́сь че́рез неде́лю."
+    },
+    {
+     "prep": "за",
+     "meaning": "untuk, atas (спасибо за)",
+     "example": "Спаси́бо за по́мощь."
+    },
+    {
+     "prep": "про",
+     "meaning": "tentang (lisan)",
+     "example": "Расскажи́ про бра́та."
+    }
+   ],
+   "examples": [
+    {
+     "ru": "Я чита́ю кни́гу.",
+     "id": "Saya sedang membaca buku.",
+     "ref": {
+      "entry": "w0237",
+      "num": "sg",
+      "case": "acc"
+     },
+     "form": "кни́гу"
+    },
+    {
+     "ru": "Я ви́жу бра́та.",
+     "id": "Saya melihat saudara laki-laki saya.",
+     "ref": {
+      "entry": "w0353",
+      "num": "sg",
+      "case": "acc"
+     },
+     "form": "бра́та"
+    },
+    {
+     "ru": "Мы идём в теа́тр.",
+     "id": "Kami pergi ke teater.",
+     "ref": {
+      "entry": "w1057",
+      "num": "sg",
+      "case": "acc"
+     },
+     "form": "теа́тр"
+    },
+    {
+     "ru": "Я верну́сь че́рез неде́лю.",
+     "id": "Saya akan kembali seminggu lagi.",
+     "ref": {
+      "entry": "w0397",
+      "num": "sg",
+      "case": "acc"
+     },
+     "form": "неде́лю"
+    }
+   ]
+  },
+  {
+   "id": "ins",
+   "name": "Твори́тельный",
+   "nameId": "Instrumental",
+   "question": "кем? чем?",
+   "summary": "Kasus alat, kebersamaan, dan peran.",
+   "functions": [
+    "Alat atau sarana: писать ручкой (menulis dengan pulpen), резать ножом.",
+    "Kebersamaan dengan с: Я гуляю с другом.",
+    "Profesi/peran setelah быть, стать, работать: Он стал врачом, Она работает учителем.",
+    "Letak setelah над, под, перед, за, между."
+   ],
+   "endings": {
+    "sg": {
+     "m": "-ом, -ем (столо́м, музе́ем)",
+     "f": "-ой, -ей, -ью (кни́гой, неде́лей, но́чью)",
+     "n": "-ом, -ем (окно́м, мо́рем)"
+    },
+    "pl": {
+     "m": "-ами, -ями (стола́ми, музе́ями)",
+     "f": "-ами, -ями (кни́гами, неде́лями)",
+     "n": "-ами, -ями (о́кнами, моря́ми)"
+    },
+    "adj": {
+     "m": "-ым, -им",
+     "n": "-ым, -им",
+     "f": "-ой, -ей",
+     "pl": "-ыми, -ими"
+    }
+   },
+   "prepositions": [
+    {
+     "prep": "с (со)",
+     "meaning": "dengan, bersama",
+     "example": "Я гуля́ю с соба́кой."
+    },
+    {
+     "prep": "за",
+     "meaning": "di belakang; (pergi) untuk mengambil",
+     "example": "Сад за до́мом."
+    },
+    {
+     "prep": "под",
+     "meaning": "di bawah",
+     "example": "Ко́шка под столо́м."
+    },
+    {
+     "prep": "над",
+     "meaning": "di atas (tidak menyentuh)",
+     "example": "Самолёт лети́т над го́родом."
+    },
+    {
+     "prep": "перед",
+     "meaning": "di depan; sebelum",
+     "example": "Пе́ред до́мом стоит маши́на."
+    },
+    {
+     "prep": "между",
+     "meaning": "di antara",
+     "example": "Ме́жду до́мом и реко́й есть сад."
+    }
+   ],
+   "examples": [
+    {
+     "ru": "Я пишу́ ру́чкой.",
+     "id": "Saya menulis dengan pulpen.",
+     "ref": {
+      "entry": "w1530",
+      "num": "sg",
+      "case": "ins"
+     },
+     "form": "ру́чкой"
+    },
+    {
+     "ru": "Я гуля́ю с соба́кой.",
+     "id": "Saya berjalan-jalan dengan anjing.",
+     "ref": {
+      "entry": "w0467",
+      "num": "sg",
+      "case": "ins"
+     },
+     "form": "соба́кой"
+    },
+    {
+     "ru": "Он стал врачо́м.",
+     "id": "Dia menjadi dokter.",
+     "ref": {
+      "entry": "w0529",
+      "num": "sg",
+      "case": "ins"
+     },
+     "form": "врачо́м"
+    },
+    {
+     "ru": "Самолёт лети́т над го́родом.",
+     "id": "Pesawat terbang di atas kota.",
+     "ref": {
+      "entry": "w0145",
+      "num": "sg",
+      "case": "ins"
+     },
+     "form": "го́родом"
+    }
+   ]
+  },
+  {
+   "id": "pre",
+   "name": "Предло́жный",
+   "nameId": "Preposisional (lokatif)",
+   "question": "о ком? о чём? где?",
+   "summary": "Kasus tempat (di mana?) dan topik pembicaraan (tentang apa?). Selalu bersama preposisi.",
+   "functions": [
+    "Tempat (где?) setelah в dan на: в городе, на столе.",
+    "Topik setelah о/об: говорить о книге, думать о брате.",
+    "Kendaraan dengan на: ехать на поезде, на автобусе.",
+    "Beberapa kata maskulin punya akhiran khusus -у́ setelah в/на untuk tempat: в лесу́, на полу́, в году́."
+   ],
+   "endings": {
+    "sg": {
+     "m": "-е (столе́, музе́е); khusus -у́ (в лесу́)",
+     "f": "-е, -и (кни́ге, неде́ле, но́чи; ста́нции)",
+     "n": "-е (окне́, мо́ре)"
+    },
+    "pl": {
+     "m": "-ах, -ях (стола́х, музе́ях)",
+     "f": "-ах, -ях (кни́гах, неде́лях)",
+     "n": "-ах, -ях (о́кнах, моря́х)"
+    },
+    "adj": {
+     "m": "-ом, -ем",
+     "n": "-ом, -ем",
+     "f": "-ой, -ей",
+     "pl": "-ых, -их"
+    }
+   },
+   "prepositions": [
+    {
+     "prep": "в (во)",
+     "meaning": "di (dalam)",
+     "example": "Я живу́ в Москве́."
+    },
+    {
+     "prep": "на",
+     "meaning": "di (atas/permukaan; acara; tempat terbuka)",
+     "example": "Кни́га лежи́т на столе́."
+    },
+    {
+     "prep": "о (об, обо)",
+     "meaning": "tentang",
+     "example": "Мы говори́м о фи́льме."
+    },
+    {
+     "prep": "при",
+     "meaning": "di hadapan; pada masa",
+     "example": "При мне он молча́л."
+    }
+   ],
+   "examples": [
+    {
+     "ru": "Я живу́ в Москве́.",
+     "id": "Saya tinggal di Moskwa.",
+     "ref": {
+      "entry": "w0222",
+      "num": "sg",
+      "case": "pre"
+     },
+     "form": "Москве́"
+    },
+    {
+     "ru": "Кни́га лежи́т на столе́.",
+     "id": "Buku itu ada di atas meja.",
+     "ref": {
+      "entry": "w0166",
+      "num": "sg",
+      "case": "pre"
+     },
+     "form": "столе́"
+    },
+    {
+     "ru": "Мы говори́м о фи́льме.",
+     "id": "Kami membicarakan film itu.",
+     "ref": {
+      "entry": "w1259",
+      "num": "sg",
+      "case": "pre"
+     },
+     "form": "фи́льме"
+    },
+    {
+     "ru": "Летом мы отдыха́ли на мо́ре.",
+     "id": "Pada musim panas kami berlibur di laut.",
+     "ref": {
+      "entry": "w0526",
+      "num": "sg",
+      "case": "pre"
+     },
+     "form": "мо́ре"
+    }
+   ]
+  }
+ ]
+}

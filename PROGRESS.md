@@ -9,8 +9,8 @@ Rujukan: PRD "CayRus: Aplikasi Hafalan Kosakata Rusia–Indonesia (PWA)" (disetu
 | M1 | Data dasar | Selesai 8 Nov 2026 (koreksi kelas kata: мочь → kata kerja, правда → kata benda) |
 | M2 | Batch kata W01–W10 | Selesai 8 Nov 2026 |
 | M3 | Batch kata kerja V01–V03 | Selesai 8 Nov 2026 |
-| M4 | Grammar + bank soal | Berikutnya |
-| M5 | Aplikasi PWA | Belum |
+| M4 | Grammar + bank soal | Selesai 8 Nov 2026: 6 kasus × 4 contoh, 145 soal (49 pilihan ganda, 48 isian, 48 pilih kasus), semua dari bentuk v |
+| M5 | Aplikasi PWA | Berikutnya |
 | M6 | Pengujian | Belum |
 | M7 | Serah terima (push ke achmadcahyaperwira/Cayrus) | Belum |
 
@@ -47,5 +47,6 @@ Kata kerja yang ada di file kata kerja mendapat terjemahan dan contoh di batch V
 
 1. Data dasar dibuat ulang dengan `python3 tools/build_base.py <folder-openrussian>` (sumber: github.com/Badestrand/russian-dictionary).
 2. Data dasar lalu `python3 tools/merge.py` menghasilkan `data/words.json`, `data/review.json`.
-3. Batch ditulis di `work/batches/Wnn.tsv` (id, terjemahan, contoh RU, contoh ID, catatan) dan `Wnn.fix.json` (perbaikan bentuk berstatus g).
-4. Kalimat untuk melanjutkan di percakapan: "lanjut dari batch <nama batch berikutnya>".
+3. Grammar dan soal: `python3 tools/build_grammar.py` (sumber isi: `work/grammar_src.json`).
+4. Batch ditulis di `work/batches/Wnn.tsv` (id, terjemahan, contoh RU, contoh ID, catatan) dan `Wnn.fix.json` (perbaikan bentuk berstatus g).
+5. Kalimat untuk melanjutkan di percakapan: "lanjut dari batch <nama batch berikutnya>".

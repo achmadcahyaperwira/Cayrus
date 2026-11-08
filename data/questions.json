@@ -1,0 +1,3444 @@
+{
+ "questions": [
+  {
+   "id": "q-nom-01",
+   "case": "nom",
+   "type": "mcq",
+   "target": {
+    "entry": "w0237",
+    "lemma": "кни́га",
+    "number": "sg",
+    "case": "nom"
+   },
+   "explanation": "Kata yang ditanyakan dengan где? adalah subjek, jadi memakai Именительный (bentuk kamus). Bentuk Имени́тельный tunggal dari кни́га: кни́га.",
+   "prompt": {
+    "ru": "Где ___?",
+    "id": "Di mana buku? — (кни́га)"
+   },
+   "answer": "кни́га",
+   "accept": [
+    "кни́га"
+   ],
+   "options": [
+    "кни́гу",
+    "кни́ге",
+    "кни́ги",
+    "кни́га"
+   ]
+  },
+  {
+   "id": "q-nom-02",
+   "case": "nom",
+   "type": "fill",
+   "target": {
+    "entry": "w0174",
+    "lemma": "ребёнок",
+    "number": "sg",
+    "case": "nom"
+   },
+   "explanation": "Subjek kalimat memakai Именительный. Bentuk Имени́тельный tunggal dari ребёнок: ребёнок.",
+   "prompt": {
+    "ru": "___ спит.",
+    "id": "Anak sedang tidur. — (kata: anak)"
+   },
+   "answer": "ребёнок",
+   "accept": [
+    "ребёнок"
+   ]
+  },
+  {
+   "id": "q-nom-03",
+   "case": "nom",
+   "type": "pick_case",
+   "target": {
+    "entry": "w0100",
+    "lemma": "дом",
+    "number": "sg",
+    "case": "nom"
+   },
+   "explanation": "Setelah вот (ini dia) dipakai Именительный. Bentuk Имени́тельный tunggal dari дом: дом.",
+   "prompt": {
+    "ru": "Вот [дом].",
+    "id": "Ini dia rumah."
+   },
+   "answer": "nom",
+   "options": [
+    "nom",
+    "gen",
+    "dat",
+    "acc",
+    "ins",
+    "pre"
+   ]
+  },
+  {
+   "id": "q-nom-04",
+   "case": "nom",
+   "type": "mcq",
+   "target": {
+    "entry": "w1141",
+    "lemma": "журна́л",
+    "number": "sg",
+    "case": "nom"
+   },
+   "explanation": "Setelah это (ini) dipakai Именительный. Bentuk Имени́тельный tunggal dari журна́л: журна́л.",
+   "prompt": {
+    "ru": "Э́то ___.",
+    "id": "Ini majalah. — (журна́л)"
+   },
+   "answer": "журна́л",
+   "accept": [
+    "журна́л"
+   ],
+   "options": [
+    "журна́лу",
+    "журна́л",
+    "журна́ла",
+    "журна́лом"
+   ]
+  },
+  {
+   "id": "q-nom-05",
+   "case": "nom",
+   "type": "fill",
+   "target": {
+    "entry": "w0529",
+    "lemma": "врач",
+    "number": "sg",
+    "case": "nom"
+   },
+   "explanation": "Subjek kalimat memakai Именительный. Bentuk Имени́тельный tunggal dari врач: врач.",
+   "prompt": {
+    "ru": "___ рабо́тает в го́роде.",
+    "id": "Dokter bekerja di kota. — (kata: dokter)"
+   },
+   "answer": "врач",
+   "accept": [
+    "врач"
+   ]
+  },
+  {
+   "id": "q-nom-06",
+   "case": "nom",
+   "type": "pick_case",
+   "target": {
+    "entry": "w0647",
+    "lemma": "телефо́н",
+    "number": "sg",
+    "case": "nom"
+   },
+   "explanation": "Kata yang ditanyakan dengan где? adalah subjek, jadi memakai Именительный (bentuk kamus). Bentuk Имени́тельный tunggal dari телефо́н: телефо́н.",
+   "prompt": {
+    "ru": "Где [телефо́н]?",
+    "id": "Di mana telepon?"
+   },
+   "answer": "nom",
+   "options": [
+    "nom",
+    "gen",
+    "dat",
+    "acc",
+    "ins",
+    "pre"
+   ]
+  },
+  {
+   "id": "q-nom-07",
+   "case": "nom",
+   "type": "mcq",
+   "target": {
+    "entry": "w1422",
+    "lemma": "ко́шка",
+    "number": "sg",
+    "case": "nom"
+   },
+   "explanation": "Subjek kalimat memakai Именительный. Bentuk Имени́тельный tunggal dari ко́шка: ко́шка.",
+   "prompt": {
+    "ru": "___ спит.",
+    "id": "Kucing sedang tidur. — (ко́шка)"
+   },
+   "answer": "Ко́шка",
+   "accept": [
+    "Ко́шка"
+   ],
+   "options": [
+    "Ко́шке",
+    "Ко́шки",
+    "Ко́шка",
+    "Ко́шку"
+   ]
+  },
+  {
+   "id": "q-nom-08",
+   "case": "nom",
+   "type": "fill",
+   "target": {
+    "entry": "w0382",
+    "lemma": "шко́ла",
+    "number": "sg",
+    "case": "nom"
+   },
+   "explanation": "Setelah вот (ini dia) dipakai Именительный. Bentuk Имени́тельный tunggal dari шко́ла: шко́ла.",
+   "prompt": {
+    "ru": "Вот ___.",
+    "id": "Ini dia sekolah. — (kata: sekolah)"
+   },
+   "answer": "шко́ла",
+   "accept": [
+    "шко́ла"
+   ]
+  },
+  {
+   "id": "q-nom-09",
+   "case": "nom",
+   "type": "pick_case",
+   "target": {
+    "entry": "w0415",
+    "lemma": "газе́та",
+    "number": "sg",
+    "case": "nom"
+   },
+   "explanation": "Setelah это (ini) dipakai Именительный. Bentuk Имени́тельный tunggal dari газе́та: газе́та.",
+   "prompt": {
+    "ru": "Э́то [газе́та].",
+    "id": "Ini surat kabar."
+   },
+   "answer": "nom",
+   "options": [
+    "nom",
+    "gen",
+    "dat",
+    "acc",
+    "ins",
+    "pre"
+   ]
+  },
+  {
+   "id": "q-nom-10",
+   "case": "nom",
+   "type": "mcq",
+   "target": {
+    "entry": "w0971",
+    "lemma": "учи́тель",
+    "number": "sg",
+    "case": "nom"
+   },
+   "explanation": "Subjek kalimat memakai Именительный. Bentuk Имени́тельный tunggal dari учи́тель: учи́тель.",
+   "prompt": {
+    "ru": "___ рабо́тает в го́роде.",
+    "id": "Guru bekerja di kota. — (учи́тель)"
+   },
+   "answer": "Учи́тель",
+   "accept": [
+    "Учи́тель"
+   ],
+   "options": [
+    "Учи́теля",
+    "Учи́телю",
+    "Учи́тель",
+    "Учи́телем"
+   ]
+  },
+  {
+   "id": "q-nom-11",
+   "case": "nom",
+   "type": "fill",
+   "target": {
+    "entry": "w1540",
+    "lemma": "су́мка",
+    "number": "sg",
+    "case": "nom"
+   },
+   "explanation": "Kata yang ditanyakan dengan где? adalah subjek, jadi memakai Именительный (bentuk kamus). Bentuk Имени́тельный tunggal dari су́мка: су́мка.",
+   "prompt": {
+    "ru": "Где ___?",
+    "id": "Di mana tas? — (kata: tas)"
+   },
+   "answer": "су́мка",
+   "accept": [
+    "су́мка"
+   ]
+  },
+  {
+   "id": "q-nom-12",
+   "case": "nom",
+   "type": "pick_case",
+   "target": {
+    "entry": "w0467",
+    "lemma": "соба́ка",
+    "number": "sg",
+    "case": "nom"
+   },
+   "explanation": "Subjek kalimat memakai Именительный. Bentuk Имени́тельный tunggal dari соба́ка: соба́ка.",
+   "prompt": {
+    "ru": "[Соба́ка] спит.",
+    "id": "Anjing sedang tidur."
+   },
+   "answer": "nom",
+   "options": [
+    "nom",
+    "gen",
+    "dat",
+    "acc",
+    "ins",
+    "pre"
+   ]
+  },
+  {
+   "id": "q-nom-13",
+   "case": "nom",
+   "type": "mcq",
+   "target": {
+    "entry": "w1760",
+    "lemma": "вокза́л",
+    "number": "sg",
+    "case": "nom"
+   },
+   "explanation": "Setelah вот (ini dia) dipakai Именительный. Bentuk Имени́тельный tunggal dari вокза́л: вокза́л.",
+   "prompt": {
+    "ru": "Вот ___.",
+    "id": "Ini dia stasiun. — (вокза́л)"
+   },
+   "answer": "вокза́л",
+   "accept": [
+    "вокза́л"
+   ],
+   "options": [
+    "вокза́л",
+    "вокза́лу",
+    "вокза́лом",
+    "вокза́ла"
+   ]
+  },
+  {
+   "id": "q-nom-14",
+   "case": "nom",
+   "type": "fill",
+   "target": {
+    "entry": "w0324",
+    "lemma": "письмо́",
+    "number": "sg",
+    "case": "nom"
+   },
+   "explanation": "Setelah это (ini) dipakai Именительный. Bentuk Имени́тельный tunggal dari письмо́: письмо́.",
+   "prompt": {
+    "ru": "Э́то ___.",
+    "id": "Ini surat. — (kata: surat)"
+   },
+   "answer": "письмо́",
+   "accept": [
+    "письмо́"
+   ]
+  },
+  {
+   "id": "q-nom-15",
+   "case": "nom",
+   "type": "pick_case",
+   "target": {
+    "entry": "w1111",
+    "lemma": "инжене́р",
+    "number": "sg",
+    "case": "nom"
+   },
+   "explanation": "Subjek kalimat memakai Именительный. Bentuk Имени́тельный tunggal dari инжене́р: инжене́р.",
+   "prompt": {
+    "ru": "[Инжене́р] рабо́тает в го́роде.",
+    "id": "Insinyur bekerja di kota."
+   },
+   "answer": "nom",
+   "options": [
+    "nom",
+    "gen",
+    "dat",
+    "acc",
+    "ins",
+    "pre"
+   ]
+  },
+  {
+   "id": "q-nom-16",
+   "case": "nom",
+   "type": "mcq",
+   "target": {
+    "entry": "w1048",
+    "lemma": "ключ",
+    "number": "sg",
+    "case": "nom"
+   },
+   "explanation": "Kata yang ditanyakan dengan где? adalah subjek, jadi memakai Именительный (bentuk kamus). Bentuk Имени́тельный tunggal dari ключ: ключ.",
+   "prompt": {
+    "ru": "Где ___?",
+    "id": "Di mana kunci? — (ключ)"
+   },
+   "answer": "ключ",
+   "accept": [
+    "ключ"
+   ],
+   "options": [
+    "ключ",
+    "ключо́м",
+    "ключу́",
+    "ключа́"
+   ]
+  },
+  {
+   "id": "q-nom-17",
+   "case": "nom",
+   "type": "fill",
+   "target": {
+    "entry": "w0353",
+    "lemma": "брат",
+    "number": "sg",
+    "case": "nom"
+   },
+   "explanation": "Subjek kalimat memakai Именительный. Bentuk Имени́тельный tunggal dari брат: брат.",
+   "prompt": {
+    "ru": "___ спит.",
+    "id": "Saudara laki-laki sedang tidur. — (kata: saudara laki-laki)"
+   },
+   "answer": "брат",
+   "accept": [
+    "брат"
+   ]
+  },
+  {
+   "id": "q-nom-18",
+   "case": "nom",
+   "type": "pick_case",
+   "target": {
+    "entry": "w1371",
+    "lemma": "авто́бус",
+    "number": "sg",
+    "case": "nom"
+   },
+   "explanation": "Setelah вот (ini dia) dipakai Именительный. Bentuk Имени́тельный tunggal dari авто́бус: авто́бус.",
+   "prompt": {
+    "ru": "Вот [авто́бус].",
+    "id": "Ini dia bus."
+   },
+   "answer": "nom",
+   "options": [
+    "nom",
+    "gen",
+    "dat",
+    "acc",
+    "ins",
+    "pre"
+   ]
+  },
+  {
+   "id": "q-nom-19",
+   "case": "nom",
+   "type": "mcq",
+   "target": {
+    "entry": "w1537",
+    "lemma": "о́зеро",
+    "number": "sg",
+    "case": "nom"
+   },
+   "explanation": "Setelah это (ini) dipakai Именительный. Bentuk Имени́тельный tunggal dari о́зеро: о́зеро.",
+   "prompt": {
+    "ru": "Э́то ___.",
+    "id": "Ini danau. — (о́зеро)"
+   },
+   "answer": "о́зеро",
+   "accept": [
+    "о́зеро"
+   ],
+   "options": [
+    "о́зером",
+    "о́зеро",
+    "о́зера",
+    "о́зеру"
+   ]
+  },
+  {
+   "id": "q-nom-20",
+   "case": "nom",
+   "type": "fill",
+   "target": {
+    "entry": "w0167",
+    "lemma": "маши́на",
+    "number": "sg",
+    "case": "nom"
+   },
+   "explanation": "Kata yang ditanyakan dengan где? adalah subjek, jadi memakai Именительный (bentuk kamus). Bentuk Имени́тельный tunggal dari маши́на: маши́на.",
+   "prompt": {
+    "ru": "Где ___?",
+    "id": "Di mana mobil? — (kata: mobil)"
+   },
+   "answer": "маши́на",
+   "accept": [
+    "маши́на"
+   ]
+  },
+  {
+   "id": "q-nom-21",
+   "case": "nom",
+   "type": "pick_case",
+   "target": {
+    "entry": "w0177",
+    "lemma": "оте́ц",
+    "number": "sg",
+    "case": "nom"
+   },
+   "explanation": "Subjek kalimat memakai Именительный. Bentuk Имени́тельный tunggal dari оте́ц: оте́ц.",
+   "prompt": {
+    "ru": "[Оте́ц] спит.",
+    "id": "Ayah sedang tidur."
+   },
+   "answer": "nom",
+   "options": [
+    "nom",
+    "gen",
+    "dat",
+    "acc",
+    "ins",
+    "pre"
+   ]
+  },
+  {
+   "id": "q-nom-22",
+   "case": "nom",
+   "type": "mcq",
+   "target": {
+    "entry": "w0884",
+    "lemma": "ста́нция",
+    "number": "sg",
+    "case": "nom"
+   },
+   "explanation": "Setelah вот (ini dia) dipakai Именительный. Bentuk Имени́тельный tunggal dari ста́нция: ста́нция.",
+   "prompt": {
+    "ru": "Вот ___.",
+    "id": "Ini dia stasiun. — (ста́нция)"
+   },
+   "answer": "ста́нция",
+   "accept": [
+    "ста́нция"
+   ],
+   "options": [
+    "ста́нции",
+    "ста́нцией",
+    "ста́нцию",
+    "ста́нция"
+   ]
+  },
+  {
+   "id": "q-nom-23",
+   "case": "nom",
+   "type": "fill",
+   "target": {
+    "entry": "w1460",
+    "lemma": "музе́й",
+    "number": "sg",
+    "case": "nom"
+   },
+   "explanation": "Setelah это (ini) dipakai Именительный. Bentuk Имени́тельный tunggal dari музе́й: музе́й.",
+   "prompt": {
+    "ru": "Э́то ___.",
+    "id": "Ini museum. — (kata: museum)"
+   },
+   "answer": "музе́й",
+   "accept": [
+    "музе́й"
+   ]
+  },
+  {
+   "id": "q-nom-24",
+   "case": "nom",
+   "type": "pick_case",
+   "target": {
+    "entry": "w0314",
+    "lemma": "ма́ма",
+    "number": "sg",
+    "case": "nom"
+   },
+   "explanation": "Kata yang ditanyakan dengan где? adalah subjek, jadi memakai Именительный (bentuk kamus). Bentuk Имени́тельный tunggal dari ма́ма: ма́ма.",
+   "prompt": {
+    "ru": "Где [ма́ма]?",
+    "id": "Di mana ibu?"
+   },
+   "answer": "nom",
+   "options": [
+    "nom",
+    "gen",
+    "dat",
+    "acc",
+    "ins",
+    "pre"
+   ]
+  },
+  {
+   "id": "q-nom-25",
+   "case": "nom",
+   "type": "mcq",
+   "target": {
+    "entry": "w0353",
+    "lemma": "брат",
+    "number": "sg",
+    "case": "nom"
+   },
+   "explanation": "Kata yang ditanyakan dengan где? adalah subjek, jadi memakai Именительный (bentuk kamus). Bentuk Имени́тельный tunggal dari брат: брат.",
+   "prompt": {
+    "ru": "Где ___?",
+    "id": "Di mana saudara laki-laki? — (брат)"
+   },
+   "answer": "брат",
+   "accept": [
+    "брат"
+   ],
+   "options": [
+    "бра́ту",
+    "брат",
+    "бра́та",
+    "бра́том"
+   ]
+  },
+  {
+   "id": "q-gen-01",
+   "case": "gen",
+   "type": "mcq",
+   "target": {
+    "entry": "w0167",
+    "lemma": "маши́на",
+    "number": "sg",
+    "case": "gen"
+   },
+   "explanation": "Setelah нет (tidak ada) dipakai Родительный. Bentuk Роди́тельный tunggal dari маши́на: маши́ны.",
+   "prompt": {
+    "ru": "У меня́ нет ___.",
+    "id": "Saya tidak punya mobil. — (маши́на)"
+   },
+   "answer": "маши́ны",
+   "accept": [
+    "маши́ны"
+   ],
+   "options": [
+    "маши́не",
+    "маши́ну",
+    "маши́ны",
+    "маши́на"
+   ]
+  },
+  {
+   "id": "q-gen-02",
+   "case": "gen",
+   "type": "fill",
+   "target": {
+    "entry": "w0353",
+    "lemma": "брат",
+    "number": "sg",
+    "case": "gen"
+   },
+   "explanation": "Kepemilikan (milik siapa?) dinyatakan dengan Родительный. Bentuk Роди́тельный tunggal dari брат: бра́та.",
+   "prompt": {
+    "ru": "Э́то кни́га ___.",
+    "id": "Ini buku milik saudara laki-laki. — (брат)"
+   },
+   "answer": "бра́та",
+   "accept": [
+    "бра́та"
+   ]
+  },
+  {
+   "id": "q-gen-03",
+   "case": "gen",
+   "type": "pick_case",
+   "target": {
+    "entry": "w0100",
+    "lemma": "дом",
+    "number": "sg",
+    "case": "gen"
+   },
+   "explanation": "из (dari dalam) selalu diikuti Родительный. Bentuk Роди́тельный tunggal dari дом: до́ма.",
+   "prompt": {
+    "ru": "Он вы́шел из [до́ма].",
+    "id": "Dia keluar dari rumah."
+   },
+   "answer": "gen",
+   "options": [
+    "nom",
+    "gen",
+    "dat",
+    "acc",
+    "ins",
+    "pre"
+   ]
+  },
+  {
+   "id": "q-gen-04",
+   "case": "gen",
+   "type": "mcq",
+   "target": {
+    "entry": "w0158",
+    "lemma": "вода́",
+    "number": "sg",
+    "case": "gen"
+   },
+   "explanation": "Takaran (segelas apa?) diikuti Родительный. Bentuk Роди́тельный tunggal dari вода́: воды́.",
+   "prompt": {
+    "ru": "Дай мне стака́н ___.",
+    "id": "Beri aku segelas air. — (вода́)"
+   },
+   "answer": "воды́",
+   "accept": [
+    "воды́"
+   ],
+   "options": [
+    "воде́",
+    "вода́",
+    "во́ду",
+    "воды́"
+   ]
+  },
+  {
+   "id": "q-gen-05",
+   "case": "gen",
+   "type": "fill",
+   "target": {
+    "entry": "w1760",
+    "lemma": "вокза́л",
+    "number": "sg",
+    "case": "gen"
+   },
+   "explanation": "около (di dekat) diikuti Родительный. Bentuk Роди́тельный tunggal dari вокза́л: вокза́ла.",
+   "prompt": {
+    "ru": "О́коло ___ есть парк.",
+    "id": "Di dekat stasiun ada taman. — (вокза́л)"
+   },
+   "answer": "вокза́ла",
+   "accept": [
+    "вокза́ла"
+   ]
+  },
+  {
+   "id": "q-gen-06",
+   "case": "gen",
+   "type": "pick_case",
+   "target": {
+    "entry": "w0647",
+    "lemma": "телефо́н",
+    "number": "sg",
+    "case": "gen"
+   },
+   "explanation": "Setelah нет (tidak ada) dipakai Родительный. Bentuk Роди́тельный tunggal dari телефо́н: телефо́на.",
+   "prompt": {
+    "ru": "У меня́ нет [телефо́на].",
+    "id": "Saya tidak punya telepon."
+   },
+   "answer": "gen",
+   "options": [
+    "nom",
+    "gen",
+    "dat",
+    "acc",
+    "ins",
+    "pre"
+   ]
+  },
+  {
+   "id": "q-gen-07",
+   "case": "gen",
+   "type": "mcq",
+   "target": {
+    "entry": "w0833",
+    "lemma": "сестра́",
+    "number": "sg",
+    "case": "gen"
+   },
+   "explanation": "Kepemilikan (milik siapa?) dinyatakan dengan Родительный. Bentuk Роди́тельный tunggal dari сестра́: сестры́.",
+   "prompt": {
+    "ru": "Э́то кни́га ___.",
+    "id": "Ini buku milik saudara perempuan. — (сестра́)"
+   },
+   "answer": "сестры́",
+   "accept": [
+    "сестры́"
+   ],
+   "options": [
+    "сестра́",
+    "сестры́",
+    "сестре́",
+    "сестру́"
+   ]
+  },
+  {
+   "id": "q-gen-08",
+   "case": "gen",
+   "type": "fill",
+   "target": {
+    "entry": "w0231",
+    "lemma": "ко́мната",
+    "number": "sg",
+    "case": "gen"
+   },
+   "explanation": "из (dari dalam) selalu diikuti Родительный. Bentuk Роди́тельный tunggal dari ко́мната: ко́мнаты.",
+   "prompt": {
+    "ru": "Он вы́шел из ___.",
+    "id": "Dia keluar dari kamar. — (ко́мната)"
+   },
+   "answer": "ко́мнаты",
+   "accept": [
+    "ко́мнаты"
+   ]
+  },
+  {
+   "id": "q-gen-09",
+   "case": "gen",
+   "type": "pick_case",
+   "target": {
+    "entry": "w1653",
+    "lemma": "молоко́",
+    "number": "sg",
+    "case": "gen"
+   },
+   "explanation": "Takaran (segelas apa?) diikuti Родительный. Bentuk Роди́тельный tunggal dari молоко́: молока́.",
+   "prompt": {
+    "ru": "Дай мне стака́н [молока́].",
+    "id": "Beri aku segelas susu."
+   },
+   "answer": "gen",
+   "options": [
+    "nom",
+    "gen",
+    "dat",
+    "acc",
+    "ins",
+    "pre"
+   ]
+  },
+  {
+   "id": "q-gen-10",
+   "case": "gen",
+   "type": "mcq",
+   "target": {
+    "entry": "w1645",
+    "lemma": "университе́т",
+    "number": "sg",
+    "case": "gen"
+   },
+   "explanation": "около (di dekat) diikuti Родительный. Bentuk Роди́тельный tunggal dari университе́т: университе́та.",
+   "prompt": {
+    "ru": "О́коло ___ есть парк.",
+    "id": "Di dekat universitas ada taman. — (университе́т)"
+   },
+   "answer": "университе́та",
+   "accept": [
+    "университе́та"
+   ],
+   "options": [
+    "университе́ту",
+    "университе́та",
+    "университе́т",
+    "университе́том"
+   ]
+  },
+  {
+   "id": "q-gen-11",
+   "case": "gen",
+   "type": "fill",
+   "target": {
+    "entry": "w1048",
+    "lemma": "ключ",
+    "number": "sg",
+    "case": "gen"
+   },
+   "explanation": "Setelah нет (tidak ada) dipakai Родительный. Bentuk Роди́тельный tunggal dari ключ: ключа́.",
+   "prompt": {
+    "ru": "У меня́ нет ___.",
+    "id": "Saya tidak punya kunci. — (ключ)"
+   },
+   "answer": "ключа́",
+   "accept": [
+    "ключа́"
+   ]
+  },
+  {
+   "id": "q-gen-12",
+   "case": "gen",
+   "type": "pick_case",
+   "target": {
+    "entry": "w0971",
+    "lemma": "учи́тель",
+    "number": "sg",
+    "case": "gen"
+   },
+   "explanation": "Kepemilikan (milik siapa?) dinyatakan dengan Родительный. Bentuk Роди́тельный tunggal dari учи́тель: учи́теля.",
+   "prompt": {
+    "ru": "Э́то кни́га [учи́теля].",
+    "id": "Ini buku milik guru."
+   },
+   "answer": "gen",
+   "options": [
+    "nom",
+    "gen",
+    "dat",
+    "acc",
+    "ins",
+    "pre"
+   ]
+  },
+  {
+   "id": "q-gen-13",
+   "case": "gen",
+   "type": "mcq",
+   "target": {
+    "entry": "w0777",
+    "lemma": "магази́н",
+    "number": "sg",
+    "case": "gen"
+   },
+   "explanation": "из (dari dalam) selalu diikuti Родительный. Bentuk Роди́тельный tunggal dari магази́н: магази́на.",
+   "prompt": {
+    "ru": "Он вы́шел из ___.",
+    "id": "Dia keluar dari toko. — (магази́н)"
+   },
+   "answer": "магази́на",
+   "accept": [
+    "магази́на"
+   ],
+   "options": [
+    "магази́ну",
+    "магази́ном",
+    "магази́н",
+    "магази́на"
+   ]
+  },
+  {
+   "id": "q-gen-14",
+   "case": "gen",
+   "type": "fill",
+   "target": {
+    "entry": "w0768",
+    "lemma": "чай",
+    "number": "sg",
+    "case": "gen"
+   },
+   "explanation": "Takaran (segelas apa?) diikuti Родительный. Bentuk Роди́тельный tunggal dari чай: ча́я.",
+   "prompt": {
+    "ru": "Дай мне стака́н ___.",
+    "id": "Beri aku segelas teh. — (чай)"
+   },
+   "answer": "ча́я",
+   "accept": [
+    "ча́я"
+   ]
+  },
+  {
+   "id": "q-gen-15",
+   "case": "gen",
+   "type": "pick_case",
+   "target": {
+    "entry": "w1537",
+    "lemma": "о́зеро",
+    "number": "sg",
+    "case": "gen"
+   },
+   "explanation": "около (di dekat) diikuti Родительный. Bentuk Роди́тельный tunggal dari о́зеро: о́зера.",
+   "prompt": {
+    "ru": "О́коло [о́зера] есть парк.",
+    "id": "Di dekat danau ada taman."
+   },
+   "answer": "gen",
+   "options": [
+    "nom",
+    "gen",
+    "dat",
+    "acc",
+    "ins",
+    "pre"
+   ]
+  },
+  {
+   "id": "q-gen-16",
+   "case": "gen",
+   "type": "mcq",
+   "target": {
+    "entry": "w1540",
+    "lemma": "су́мка",
+    "number": "sg",
+    "case": "gen"
+   },
+   "explanation": "Setelah нет (tidak ada) dipakai Родительный. Bentuk Роди́тельный tunggal dari су́мка: су́мки.",
+   "prompt": {
+    "ru": "У меня́ нет ___.",
+    "id": "Saya tidak punya tas. — (су́мка)"
+   },
+   "answer": "су́мки",
+   "accept": [
+    "су́мки"
+   ],
+   "options": [
+    "су́мка",
+    "су́мку",
+    "су́мки",
+    "су́мке"
+   ]
+  },
+  {
+   "id": "q-gen-17",
+   "case": "gen",
+   "type": "fill",
+   "target": {
+    "entry": "w0097",
+    "lemma": "друг",
+    "number": "sg",
+    "case": "gen"
+   },
+   "explanation": "Kepemilikan (milik siapa?) dinyatakan dengan Родительный. Bentuk Роди́тельный tunggal dari друг: дру́га.",
+   "prompt": {
+    "ru": "Э́то кни́га ___.",
+    "id": "Ini buku milik teman. — (друг)"
+   },
+   "answer": "дру́га",
+   "accept": [
+    "дру́га"
+   ]
+  },
+  {
+   "id": "q-gen-18",
+   "case": "gen",
+   "type": "pick_case",
+   "target": {
+    "entry": "w0382",
+    "lemma": "шко́ла",
+    "number": "sg",
+    "case": "gen"
+   },
+   "explanation": "из (dari dalam) selalu diikuti Родительный. Bentuk Роди́тельный tunggal dari шко́ла: шко́лы.",
+   "prompt": {
+    "ru": "Он вы́шел из [шко́лы].",
+    "id": "Dia keluar dari sekolah."
+   },
+   "answer": "gen",
+   "options": [
+    "nom",
+    "gen",
+    "dat",
+    "acc",
+    "ins",
+    "pre"
+   ]
+  },
+  {
+   "id": "q-gen-19",
+   "case": "gen",
+   "type": "mcq",
+   "target": {
+    "entry": "w0353",
+    "lemma": "брат",
+    "number": "sg",
+    "case": "gen"
+   },
+   "explanation": "Setelah нет (tidak ada) dipakai Родительный. Bentuk Роди́тельный tunggal dari брат: бра́та.",
+   "prompt": {
+    "ru": "У меня́ нет ___.",
+    "id": "Saya tidak punya saudara laki-laki. — (брат)"
+   },
+   "answer": "бра́та",
+   "accept": [
+    "бра́та"
+   ],
+   "options": [
+    "бра́та",
+    "бра́том",
+    "брат",
+    "бра́ту"
+   ]
+  },
+  {
+   "id": "q-gen-20",
+   "case": "gen",
+   "type": "fill",
+   "target": {
+    "entry": "w0177",
+    "lemma": "оте́ц",
+    "number": "sg",
+    "case": "gen"
+   },
+   "explanation": "Kepemilikan (milik siapa?) dinyatakan dengan Родительный. Bentuk Роди́тельный tunggal dari оте́ц: отца́.",
+   "prompt": {
+    "ru": "Э́то кни́га ___.",
+    "id": "Ini buku milik ayah. — (оте́ц)"
+   },
+   "answer": "отца́",
+   "accept": [
+    "отца́"
+   ]
+  },
+  {
+   "id": "q-gen-21",
+   "case": "gen",
+   "type": "pick_case",
+   "target": {
+    "entry": "w1057",
+    "lemma": "теа́тр",
+    "number": "sg",
+    "case": "gen"
+   },
+   "explanation": "из (dari dalam) selalu diikuti Родительный. Bentuk Роди́тельный tunggal dari теа́тр: теа́тра.",
+   "prompt": {
+    "ru": "Он вы́шел из [теа́тра].",
+    "id": "Dia keluar dari teater."
+   },
+   "answer": "gen",
+   "options": [
+    "nom",
+    "gen",
+    "dat",
+    "acc",
+    "ins",
+    "pre"
+   ]
+  },
+  {
+   "id": "q-gen-22",
+   "case": "gen",
+   "type": "mcq",
+   "target": {
+    "entry": "w0833",
+    "lemma": "сестра́",
+    "number": "sg",
+    "case": "gen"
+   },
+   "explanation": "Setelah нет (tidak ada) dipakai Родительный. Bentuk Роди́тельный tunggal dari сестра́: сестры́.",
+   "prompt": {
+    "ru": "У меня́ нет ___.",
+    "id": "Saya tidak punya saudara perempuan. — (сестра́)"
+   },
+   "answer": "сестры́",
+   "accept": [
+    "сестры́"
+   ],
+   "options": [
+    "сестру́",
+    "сестры́",
+    "сестра́",
+    "сестре́"
+   ]
+  },
+  {
+   "id": "q-gen-23",
+   "case": "gen",
+   "type": "fill",
+   "target": {
+    "entry": "w0314",
+    "lemma": "ма́ма",
+    "number": "sg",
+    "case": "gen"
+   },
+   "explanation": "Kepemilikan (milik siapa?) dinyatakan dengan Родительный. Bentuk Роди́тельный tunggal dari ма́ма: ма́мы.",
+   "prompt": {
+    "ru": "Э́то кни́га ___.",
+    "id": "Ini buku milik ibu. — (ма́ма)"
+   },
+   "answer": "ма́мы",
+   "accept": [
+    "ма́мы"
+   ]
+  },
+  {
+   "id": "q-gen-24",
+   "case": "gen",
+   "type": "pick_case",
+   "target": {
+    "entry": "w1460",
+    "lemma": "музе́й",
+    "number": "sg",
+    "case": "gen"
+   },
+   "explanation": "из (dari dalam) selalu diikuti Родительный. Bentuk Роди́тельный tunggal dari музе́й: музе́я.",
+   "prompt": {
+    "ru": "Он вы́шел из [музе́я].",
+    "id": "Dia keluar dari museum."
+   },
+   "answer": "gen",
+   "options": [
+    "nom",
+    "gen",
+    "dat",
+    "acc",
+    "ins",
+    "pre"
+   ]
+  },
+  {
+   "id": "q-dat-01",
+   "case": "dat",
+   "type": "mcq",
+   "target": {
+    "entry": "w0353",
+    "lemma": "брат",
+    "number": "sg",
+    "case": "dat"
+   },
+   "explanation": "позвонить кому? — penerima memakai Дательный. Bentuk Да́тельный tunggal dari брат: бра́ту.",
+   "prompt": {
+    "ru": "Я позвони́л ___.",
+    "id": "Saya menelepon saudara laki-laki. — (брат)"
+   },
+   "answer": "бра́ту",
+   "accept": [
+    "бра́ту"
+   ],
+   "options": [
+    "бра́та",
+    "бра́ту",
+    "бра́том",
+    "брат"
+   ]
+  },
+  {
+   "id": "q-dat-02",
+   "case": "dat",
+   "type": "fill",
+   "target": {
+    "entry": "w0529",
+    "lemma": "врач",
+    "number": "sg",
+    "case": "dat"
+   },
+   "explanation": "к (ke/menuju orang) selalu diikuti Дательный. Bentuk Да́тельный tunggal dari врач: врачу́.",
+   "prompt": {
+    "ru": "Я иду́ к ___.",
+    "id": "Saya pergi ke dokter. — (врач)"
+   },
+   "answer": "врачу́",
+   "accept": [
+    "врачу́"
+   ]
+  },
+  {
+   "id": "q-dat-03",
+   "case": "dat",
+   "type": "pick_case",
+   "target": {
+    "entry": "w1758",
+    "lemma": "парк",
+    "number": "sg",
+    "case": "dat"
+   },
+   "explanation": "по (sepanjang/di permukaan) diikuti Дательный. Bentuk Да́тельный tunggal dari парк: па́рку.",
+   "prompt": {
+    "ru": "Мы гуля́ли по [па́рку].",
+    "id": "Kami berjalan-jalan di taman."
+   },
+   "answer": "dat",
+   "options": [
+    "nom",
+    "gen",
+    "dat",
+    "acc",
+    "ins",
+    "pre"
+   ]
+  },
+  {
+   "id": "q-dat-04",
+   "case": "dat",
+   "type": "mcq",
+   "target": {
+    "entry": "w1101",
+    "lemma": "студе́нт",
+    "number": "sg",
+    "case": "dat"
+   },
+   "explanation": "дать кому? — penerima memakai Дательный. Bentuk Да́тельный tunggal dari студе́нт: студе́нту.",
+   "prompt": {
+    "ru": "Я дал кни́гу ___.",
+    "id": "Saya memberikan buku kepada mahasiswa. — (студе́нт)"
+   },
+   "answer": "студе́нту",
+   "accept": [
+    "студе́нту"
+   ],
+   "options": [
+    "студе́нтом",
+    "студе́нту",
+    "студе́нт",
+    "студе́нта"
+   ]
+  },
+  {
+   "id": "q-dat-05",
+   "case": "dat",
+   "type": "fill",
+   "target": {
+    "entry": "w0833",
+    "lemma": "сестра́",
+    "number": "sg",
+    "case": "dat"
+   },
+   "explanation": "Dengan нравиться, orang yang menyukai memakai Дательный. Bentuk Да́тельный tunggal dari сестра́: сестре́.",
+   "prompt": {
+    "ru": "___ нра́вится му́зыка.",
+    "id": "Saudara perempuan menyukai musik. — (сестра́)"
+   },
+   "answer": "сестре́",
+   "accept": [
+    "сестре́"
+   ]
+  },
+  {
+   "id": "q-dat-06",
+   "case": "dat",
+   "type": "pick_case",
+   "target": {
+    "entry": "w0314",
+    "lemma": "ма́ма",
+    "number": "sg",
+    "case": "dat"
+   },
+   "explanation": "позвонить кому? — penerima memakai Дательный. Bentuk Да́тельный tunggal dari ма́ма: ма́ме.",
+   "prompt": {
+    "ru": "Я позвони́л [ма́ме].",
+    "id": "Saya menelepon ibu."
+   },
+   "answer": "dat",
+   "options": [
+    "nom",
+    "gen",
+    "dat",
+    "acc",
+    "ins",
+    "pre"
+   ]
+  },
+  {
+   "id": "q-dat-07",
+   "case": "dat",
+   "type": "mcq",
+   "target": {
+    "entry": "w0097",
+    "lemma": "друг",
+    "number": "sg",
+    "case": "dat"
+   },
+   "explanation": "к (ke/menuju orang) selalu diikuti Дательный. Bentuk Да́тельный tunggal dari друг: дру́гу.",
+   "prompt": {
+    "ru": "Я иду́ к ___.",
+    "id": "Saya pergi ke teman. — (друг)"
+   },
+   "answer": "дру́гу",
+   "accept": [
+    "дру́гу"
+   ],
+   "options": [
+    "дру́гу",
+    "дру́га",
+    "дру́гом",
+    "друг"
+   ]
+  },
+  {
+   "id": "q-dat-08",
+   "case": "dat",
+   "type": "fill",
+   "target": {
+    "entry": "w0224",
+    "lemma": "у́лица",
+    "number": "sg",
+    "case": "dat"
+   },
+   "explanation": "по (sepanjang/di permukaan) diikuti Дательный. Bentuk Да́тельный tunggal dari у́лица: у́лице.",
+   "prompt": {
+    "ru": "Мы гуля́ли по ___.",
+    "id": "Kami berjalan-jalan di jalan. — (у́лица)"
+   },
+   "answer": "у́лице",
+   "accept": [
+    "у́лице"
+   ]
+  },
+  {
+   "id": "q-dat-09",
+   "case": "dat",
+   "type": "pick_case",
+   "target": {
+    "entry": "w0283",
+    "lemma": "сын",
+    "number": "sg",
+    "case": "dat"
+   },
+   "explanation": "дать кому? — penerima memakai Дательный. Bentuk Да́тельный tunggal dari сын: сы́ну.",
+   "prompt": {
+    "ru": "Я дал кни́гу [сы́ну].",
+    "id": "Saya memberikan buku kepada putra."
+   },
+   "answer": "dat",
+   "options": [
+    "nom",
+    "gen",
+    "dat",
+    "acc",
+    "ins",
+    "pre"
+   ]
+  },
+  {
+   "id": "q-dat-10",
+   "case": "dat",
+   "type": "mcq",
+   "target": {
+    "entry": "w0177",
+    "lemma": "оте́ц",
+    "number": "sg",
+    "case": "dat"
+   },
+   "explanation": "Dengan нравиться, orang yang menyukai memakai Дательный. Bentuk Да́тельный tunggal dari оте́ц: отцу́.",
+   "prompt": {
+    "ru": "___ нра́вится му́зыка.",
+    "id": "Ayah menyukai musik. — (оте́ц)"
+   },
+   "answer": "Отцу́",
+   "accept": [
+    "Отцу́"
+   ],
+   "options": [
+    "Отцу́",
+    "Оте́ц",
+    "Отца́",
+    "Отцо́м"
+   ]
+  },
+  {
+   "id": "q-dat-11",
+   "case": "dat",
+   "type": "fill",
+   "target": {
+    "entry": "w0097",
+    "lemma": "друг",
+    "number": "sg",
+    "case": "dat"
+   },
+   "explanation": "позвонить кому? — penerima memakai Дательный. Bentuk Да́тельный tunggal dari друг: дру́гу.",
+   "prompt": {
+    "ru": "Я позвони́л ___.",
+    "id": "Saya menelepon teman. — (друг)"
+   },
+   "answer": "дру́гу",
+   "accept": [
+    "дру́гу"
+   ]
+  },
+  {
+   "id": "q-dat-12",
+   "case": "dat",
+   "type": "pick_case",
+   "target": {
+    "entry": "w1043",
+    "lemma": "ба́бушка",
+    "number": "sg",
+    "case": "dat"
+   },
+   "explanation": "к (ke/menuju orang) selalu diikuti Дательный. Bentuk Да́тельный tunggal dari ба́бушка: ба́бушке.",
+   "prompt": {
+    "ru": "Я иду́ к [ба́бушке].",
+    "id": "Saya pergi ke nenek."
+   },
+   "answer": "dat",
+   "options": [
+    "nom",
+    "gen",
+    "dat",
+    "acc",
+    "ins",
+    "pre"
+   ]
+  },
+  {
+   "id": "q-dat-13",
+   "case": "dat",
+   "type": "mcq",
+   "target": {
+    "entry": "w0145",
+    "lemma": "го́род",
+    "number": "sg",
+    "case": "dat"
+   },
+   "explanation": "по (sepanjang/di permukaan) diikuti Дательный. Bentuk Да́тельный tunggal dari го́род: го́роду.",
+   "prompt": {
+    "ru": "Мы гуля́ли по ___.",
+    "id": "Kami berjalan-jalan di kota. — (го́род)"
+   },
+   "answer": "го́роду",
+   "accept": [
+    "го́роду"
+   ],
+   "options": [
+    "го́роду",
+    "го́рода",
+    "го́род",
+    "го́родом"
+   ]
+  },
+  {
+   "id": "q-dat-14",
+   "case": "dat",
+   "type": "fill",
+   "target": {
+    "entry": "w0804",
+    "lemma": "дочь",
+    "number": "sg",
+    "case": "dat"
+   },
+   "explanation": "дать кому? — penerima memakai Дательный. Bentuk Да́тельный tunggal dari дочь: до́чери.",
+   "prompt": {
+    "ru": "Я дал кни́гу ___.",
+    "id": "Saya memberikan buku kepada anak perempuan. — (дочь)"
+   },
+   "answer": "до́чери",
+   "accept": [
+    "до́чери"
+   ]
+  },
+  {
+   "id": "q-dat-15",
+   "case": "dat",
+   "type": "pick_case",
+   "target": {
+    "entry": "w0529",
+    "lemma": "врач",
+    "number": "sg",
+    "case": "dat"
+   },
+   "explanation": "позвонить кому? — penerima memakai Дательный. Bentuk Да́тельный tunggal dari врач: врачу́.",
+   "prompt": {
+    "ru": "Я позвони́л [врачу́].",
+    "id": "Saya menelepon dokter."
+   },
+   "answer": "dat",
+   "options": [
+    "nom",
+    "gen",
+    "dat",
+    "acc",
+    "ins",
+    "pre"
+   ]
+  },
+  {
+   "id": "q-dat-16",
+   "case": "dat",
+   "type": "mcq",
+   "target": {
+    "entry": "w0846",
+    "lemma": "сосе́д",
+    "number": "sg",
+    "case": "dat"
+   },
+   "explanation": "к (ke/menuju orang) selalu diikuti Дательный. Bentuk Да́тельный tunggal dari сосе́д: сосе́ду.",
+   "prompt": {
+    "ru": "Я иду́ к ___.",
+    "id": "Saya pergi ke tetangga. — (сосе́д)"
+   },
+   "answer": "сосе́ду",
+   "accept": [
+    "сосе́ду"
+   ],
+   "options": [
+    "сосе́ду",
+    "сосе́д",
+    "сосе́да",
+    "сосе́дом"
+   ]
+  },
+  {
+   "id": "q-dat-17",
+   "case": "dat",
+   "type": "fill",
+   "target": {
+    "entry": "w0280",
+    "lemma": "лес",
+    "number": "sg",
+    "case": "dat"
+   },
+   "explanation": "по (sepanjang/di permukaan) diikuti Дательный. Bentuk Да́тельный tunggal dari лес: ле́су.",
+   "prompt": {
+    "ru": "Мы гуля́ли по ___.",
+    "id": "Kami berjalan-jalan di hutan. — (лес)"
+   },
+   "answer": "ле́су",
+   "accept": [
+    "ле́су"
+   ]
+  },
+  {
+   "id": "q-dat-18",
+   "case": "dat",
+   "type": "pick_case",
+   "target": {
+    "entry": "w0177",
+    "lemma": "оте́ц",
+    "number": "sg",
+    "case": "dat"
+   },
+   "explanation": "дать кому? — penerima memakai Дательный. Bentuk Да́тельный tunggal dari оте́ц: отцу́.",
+   "prompt": {
+    "ru": "Я дал кни́гу [отцу́].",
+    "id": "Saya memberikan buku kepada ayah."
+   },
+   "answer": "dat",
+   "options": [
+    "nom",
+    "gen",
+    "dat",
+    "acc",
+    "ins",
+    "pre"
+   ]
+  },
+  {
+   "id": "q-dat-19",
+   "case": "dat",
+   "type": "mcq",
+   "target": {
+    "entry": "w0833",
+    "lemma": "сестра́",
+    "number": "sg",
+    "case": "dat"
+   },
+   "explanation": "позвонить кому? — penerima memakai Дательный. Bentuk Да́тельный tunggal dari сестра́: сестре́.",
+   "prompt": {
+    "ru": "Я позвони́л ___.",
+    "id": "Saya menelepon saudara perempuan. — (сестра́)"
+   },
+   "answer": "сестре́",
+   "accept": [
+    "сестре́"
+   ],
+   "options": [
+    "сестре́",
+    "сестры́",
+    "сестра́",
+    "сестру́"
+   ]
+  },
+  {
+   "id": "q-dat-20",
+   "case": "dat",
+   "type": "fill",
+   "target": {
+    "entry": "w0589",
+    "lemma": "дире́ктор",
+    "number": "sg",
+    "case": "dat"
+   },
+   "explanation": "к (ke/menuju orang) selalu diikuti Дательный. Bentuk Да́тельный tunggal dari дире́ктор: дире́ктору.",
+   "prompt": {
+    "ru": "Я иду́ к ___.",
+    "id": "Saya pergi ke direktur. — (дире́ктор)"
+   },
+   "answer": "дире́ктору",
+   "accept": [
+    "дире́ктору"
+   ]
+  },
+  {
+   "id": "q-dat-21",
+   "case": "dat",
+   "type": "pick_case",
+   "target": {
+    "entry": "w0929",
+    "lemma": "сад",
+    "number": "sg",
+    "case": "dat"
+   },
+   "explanation": "по (sepanjang/di permukaan) diikuti Дательный. Bentuk Да́тельный tunggal dari сад: са́ду.",
+   "prompt": {
+    "ru": "Мы гуля́ли по [са́ду].",
+    "id": "Kami berjalan-jalan di kebun."
+   },
+   "answer": "dat",
+   "options": [
+    "nom",
+    "gen",
+    "dat",
+    "acc",
+    "ins",
+    "pre"
+   ]
+  },
+  {
+   "id": "q-dat-22",
+   "case": "dat",
+   "type": "mcq",
+   "target": {
+    "entry": "w1869",
+    "lemma": "подру́га",
+    "number": "sg",
+    "case": "dat"
+   },
+   "explanation": "дать кому? — penerima memakai Дательный. Bentuk Да́тельный tunggal dari подру́га: подру́ге.",
+   "prompt": {
+    "ru": "Я дал кни́гу ___.",
+    "id": "Saya memberikan buku kepada teman perempuan. — (подру́га)"
+   },
+   "answer": "подру́ге",
+   "accept": [
+    "подру́ге"
+   ],
+   "options": [
+    "подру́гу",
+    "подру́ге",
+    "подру́ги",
+    "подру́га"
+   ]
+  },
+  {
+   "id": "q-dat-23",
+   "case": "dat",
+   "type": "fill",
+   "target": {
+    "entry": "w1043",
+    "lemma": "ба́бушка",
+    "number": "sg",
+    "case": "dat"
+   },
+   "explanation": "позвонить кому? — penerima memakai Дательный. Bentuk Да́тельный tunggal dari ба́бушка: ба́бушке.",
+   "prompt": {
+    "ru": "Я позвони́л ___.",
+    "id": "Saya menelepon nenek. — (ба́бушка)"
+   },
+   "answer": "ба́бушке",
+   "accept": [
+    "ба́бушке"
+   ]
+  },
+  {
+   "id": "q-dat-24",
+   "case": "dat",
+   "type": "pick_case",
+   "target": {
+    "entry": "w0408",
+    "lemma": "бе́рег",
+    "number": "sg",
+    "case": "dat"
+   },
+   "explanation": "по (sepanjang/di permukaan) diikuti Дательный. Bentuk Да́тельный tunggal dari бе́рег: бе́регу.",
+   "prompt": {
+    "ru": "Мы гуля́ли по [бе́регу].",
+    "id": "Kami berjalan-jalan di tepi."
+   },
+   "answer": "dat",
+   "options": [
+    "nom",
+    "gen",
+    "dat",
+    "acc",
+    "ins",
+    "pre"
+   ]
+  },
+  {
+   "id": "q-acc-01",
+   "case": "acc",
+   "type": "mcq",
+   "target": {
+    "entry": "w0237",
+    "lemma": "кни́га",
+    "number": "sg",
+    "case": "acc"
+   },
+   "explanation": "Objek langsung memakai Винительный. Bentuk Вини́тельный tunggal dari кни́га: кни́гу.",
+   "prompt": {
+    "ru": "Я чита́ю ___.",
+    "id": "Saya sedang membaca buku. — (кни́га)"
+   },
+   "answer": "кни́гу",
+   "accept": [
+    "кни́гу"
+   ],
+   "options": [
+    "кни́гу",
+    "кни́га",
+    "кни́ги",
+    "кни́ге"
+   ]
+  },
+  {
+   "id": "q-acc-02",
+   "case": "acc",
+   "type": "fill",
+   "target": {
+    "entry": "w0353",
+    "lemma": "брат",
+    "number": "sg",
+    "case": "acc"
+   },
+   "explanation": "Objek langsung makhluk hidup: maskulin = bentuk Родительный, feminin berakhiran -у/-ю. Bentuk Вини́тельный tunggal dari брат: бра́та.",
+   "prompt": {
+    "ru": "Я ви́жу ___.",
+    "id": "Saya melihat saudara laki-laki. — (брат)"
+   },
+   "answer": "бра́та",
+   "accept": [
+    "бра́та"
+   ]
+  },
+  {
+   "id": "q-acc-03",
+   "case": "acc",
+   "type": "pick_case",
+   "target": {
+    "entry": "w0382",
+    "lemma": "шко́ла",
+    "number": "sg",
+    "case": "acc"
+   },
+   "explanation": "в + Винительный menyatakan arah (ke mana?). Bentuk Вини́тельный tunggal dari шко́ла: шко́лу.",
+   "prompt": {
+    "ru": "Мы идём в [шко́лу].",
+    "id": "Kami pergi ke sekolah."
+   },
+   "answer": "acc",
+   "options": [
+    "nom",
+    "gen",
+    "dat",
+    "acc",
+    "ins",
+    "pre"
+   ]
+  },
+  {
+   "id": "q-acc-04",
+   "case": "acc",
+   "type": "mcq",
+   "target": {
+    "entry": "w1371",
+    "lemma": "авто́бус",
+    "number": "sg",
+    "case": "acc"
+   },
+   "explanation": "ждать kata benda tertentu → objek dalam Винительный. Bentuk Вини́тельный tunggal dari авто́бус: авто́бус.",
+   "prompt": {
+    "ru": "Я жду ___.",
+    "id": "Saya menunggu bus. — (авто́бус)"
+   },
+   "answer": "авто́бус",
+   "accept": [
+    "авто́бус"
+   ],
+   "options": [
+    "авто́бусом",
+    "авто́буса",
+    "авто́бус",
+    "авто́бусу"
+   ]
+  },
+  {
+   "id": "q-acc-05",
+   "case": "acc",
+   "type": "fill",
+   "target": {
+    "entry": "w0397",
+    "lemma": "неде́ля",
+    "number": "sg",
+    "case": "acc"
+   },
+   "explanation": "через (dalam waktu …) diikuti Винительный. Bentuk Вини́тельный tunggal dari неде́ля: неде́лю.",
+   "prompt": {
+    "ru": "Я верну́сь че́рез ___.",
+    "id": "Saya akan kembali dalam satu minggu. — (неде́ля)"
+   },
+   "answer": "неде́лю",
+   "accept": [
+    "неде́лю"
+   ]
+  },
+  {
+   "id": "q-acc-06",
+   "case": "acc",
+   "type": "pick_case",
+   "target": {
+    "entry": "w0167",
+    "lemma": "маши́на",
+    "number": "sg",
+    "case": "acc"
+   },
+   "explanation": "Objek langsung memakai Винительный. Bentuk Вини́тельный tunggal dari маши́на: маши́ну.",
+   "prompt": {
+    "ru": "Он купи́л [маши́ну].",
+    "id": "Dia membeli mobil."
+   },
+   "answer": "acc",
+   "options": [
+    "nom",
+    "gen",
+    "dat",
+    "acc",
+    "ins",
+    "pre"
+   ]
+  },
+  {
+   "id": "q-acc-07",
+   "case": "acc",
+   "type": "mcq",
+   "target": {
+    "entry": "w0415",
+    "lemma": "газе́та",
+    "number": "sg",
+    "case": "acc"
+   },
+   "explanation": "Objek langsung memakai Винительный. Bentuk Вини́тельный tunggal dari газе́та: газе́ту.",
+   "prompt": {
+    "ru": "Я чита́ю ___.",
+    "id": "Saya sedang membaca surat kabar. — (газе́та)"
+   },
+   "answer": "газе́ту",
+   "accept": [
+    "газе́ту"
+   ],
+   "options": [
+    "газе́та",
+    "газе́ты",
+    "газе́ту",
+    "газе́те"
+   ]
+  },
+  {
+   "id": "q-acc-08",
+   "case": "acc",
+   "type": "fill",
+   "target": {
+    "entry": "w0833",
+    "lemma": "сестра́",
+    "number": "sg",
+    "case": "acc"
+   },
+   "explanation": "Objek langsung makhluk hidup: maskulin = bentuk Родительный, feminin berakhiran -у/-ю. Bentuk Вини́тельный tunggal dari сестра́: сестру́.",
+   "prompt": {
+    "ru": "Я ви́жу ___.",
+    "id": "Saya melihat saudara perempuan. — (сестра́)"
+   },
+   "answer": "сестру́",
+   "accept": [
+    "сестру́"
+   ]
+  },
+  {
+   "id": "q-acc-09",
+   "case": "acc",
+   "type": "pick_case",
+   "target": {
+    "entry": "w1758",
+    "lemma": "парк",
+    "number": "sg",
+    "case": "acc"
+   },
+   "explanation": "в + Винительный menyatakan arah (ke mana?). Bentuk Вини́тельный tunggal dari парк: парк.",
+   "prompt": {
+    "ru": "Мы идём в [парк].",
+    "id": "Kami pergi ke taman."
+   },
+   "answer": "acc",
+   "options": [
+    "nom",
+    "gen",
+    "dat",
+    "acc",
+    "ins",
+    "pre"
+   ]
+  },
+  {
+   "id": "q-acc-10",
+   "case": "acc",
+   "type": "mcq",
+   "target": {
+    "entry": "w0830",
+    "lemma": "по́езд",
+    "number": "sg",
+    "case": "acc"
+   },
+   "explanation": "ждать kata benda tertentu → objek dalam Винительный. Bentuk Вини́тельный tunggal dari по́езд: по́езд.",
+   "prompt": {
+    "ru": "Я жду ___.",
+    "id": "Saya menunggu kereta api. — (по́езд)"
+   },
+   "answer": "по́езд",
+   "accept": [
+    "по́езд"
+   ],
+   "options": [
+    "по́ездом",
+    "по́езду",
+    "по́езд",
+    "по́езда"
+   ]
+  },
+  {
+   "id": "q-acc-11",
+   "case": "acc",
+   "type": "fill",
+   "target": {
+    "entry": "w0304",
+    "lemma": "ме́сяц",
+    "number": "sg",
+    "case": "acc"
+   },
+   "explanation": "через (dalam waktu …) diikuti Винительный. Bentuk Вини́тельный tunggal dari ме́сяц: ме́сяц.",
+   "prompt": {
+    "ru": "Я верну́сь че́рез ___.",
+    "id": "Saya akan kembali dalam satu bulan. — (ме́сяц)"
+   },
+   "answer": "ме́сяц",
+   "accept": [
+    "ме́сяц"
+   ]
+  },
+  {
+   "id": "q-acc-12",
+   "case": "acc",
+   "type": "pick_case",
+   "target": {
+    "entry": "w0679",
+    "lemma": "хлеб",
+    "number": "sg",
+    "case": "acc"
+   },
+   "explanation": "Objek langsung memakai Винительный. Bentuk Вини́тельный tunggal dari хлеб: хлеб.",
+   "prompt": {
+    "ru": "Он купи́л [хлеб].",
+    "id": "Dia membeli roti."
+   },
+   "answer": "acc",
+   "options": [
+    "nom",
+    "gen",
+    "dat",
+    "acc",
+    "ins",
+    "pre"
+   ]
+  },
+  {
+   "id": "q-acc-13",
+   "case": "acc",
+   "type": "mcq",
+   "target": {
+    "entry": "w0324",
+    "lemma": "письмо́",
+    "number": "sg",
+    "case": "acc"
+   },
+   "explanation": "Objek langsung memakai Винительный. Bentuk Вини́тельный tunggal dari письмо́: письмо́.",
+   "prompt": {
+    "ru": "Я чита́ю ___.",
+    "id": "Saya sedang membaca surat. — (письмо́)"
+   },
+   "answer": "письмо́",
+   "accept": [
+    "письмо́"
+   ],
+   "options": [
+    "письмо́м",
+    "письму́",
+    "письмо́",
+    "письма́"
+   ]
+  },
+  {
+   "id": "q-acc-14",
+   "case": "acc",
+   "type": "fill",
+   "target": {
+    "entry": "w0097",
+    "lemma": "друг",
+    "number": "sg",
+    "case": "acc"
+   },
+   "explanation": "Objek langsung makhluk hidup: maskulin = bentuk Родительный, feminin berakhiran -у/-ю. Bentuk Вини́тельный tunggal dari друг: дру́га.",
+   "prompt": {
+    "ru": "Я ви́жу ___.",
+    "id": "Saya melihat teman. — (друг)"
+   },
+   "answer": "дру́га",
+   "accept": [
+    "дру́га"
+   ]
+  },
+  {
+   "id": "q-acc-15",
+   "case": "acc",
+   "type": "pick_case",
+   "target": {
+    "entry": "w0777",
+    "lemma": "магази́н",
+    "number": "sg",
+    "case": "acc"
+   },
+   "explanation": "в + Винительный menyatakan arah (ke mana?). Bentuk Вини́тельный tunggal dari магази́н: магази́н.",
+   "prompt": {
+    "ru": "Мы идём в [магази́н].",
+    "id": "Kami pergi ke toko."
+   },
+   "answer": "acc",
+   "options": [
+    "nom",
+    "gen",
+    "dat",
+    "acc",
+    "ins",
+    "pre"
+   ]
+  },
+  {
+   "id": "q-acc-16",
+   "case": "acc",
+   "type": "mcq",
+   "target": {
+    "entry": "w0314",
+    "lemma": "ма́ма",
+    "number": "sg",
+    "case": "acc"
+   },
+   "explanation": "ждать kata benda tertentu → objek dalam Винительный. Bentuk Вини́тельный tunggal dari ма́ма: ма́му.",
+   "prompt": {
+    "ru": "Я жду ___.",
+    "id": "Saya menunggu ibu. — (ма́ма)"
+   },
+   "answer": "ма́му",
+   "accept": [
+    "ма́му"
+   ],
+   "options": [
+    "ма́мы",
+    "ма́ма",
+    "ма́му",
+    "ма́ме"
+   ]
+  },
+  {
+   "id": "q-acc-17",
+   "case": "acc",
+   "type": "fill",
+   "target": {
+    "entry": "w1141",
+    "lemma": "журна́л",
+    "number": "sg",
+    "case": "acc"
+   },
+   "explanation": "Objek langsung memakai Винительный. Bentuk Вини́тельный tunggal dari журна́л: журна́л.",
+   "prompt": {
+    "ru": "Я чита́ю ___.",
+    "id": "Saya sedang membaca majalah. — (журна́л)"
+   },
+   "answer": "журна́л",
+   "accept": [
+    "журна́л"
+   ]
+  },
+  {
+   "id": "q-acc-18",
+   "case": "acc",
+   "type": "pick_case",
+   "target": {
+    "entry": "w1422",
+    "lemma": "ко́шка",
+    "number": "sg",
+    "case": "acc"
+   },
+   "explanation": "Objek langsung makhluk hidup: maskulin = bentuk Родительный, feminin berakhiran -у/-ю. Bentuk Вини́тельный tunggal dari ко́шка: ко́шку.",
+   "prompt": {
+    "ru": "Я ви́жу [ко́шку].",
+    "id": "Saya melihat kucing."
+   },
+   "answer": "acc",
+   "options": [
+    "nom",
+    "gen",
+    "dat",
+    "acc",
+    "ins",
+    "pre"
+   ]
+  },
+  {
+   "id": "q-acc-19",
+   "case": "acc",
+   "type": "mcq",
+   "target": {
+    "entry": "w1057",
+    "lemma": "теа́тр",
+    "number": "sg",
+    "case": "acc"
+   },
+   "explanation": "в + Винительный menyatakan arah (ke mana?). Bentuk Вини́тельный tunggal dari теа́тр: теа́тр.",
+   "prompt": {
+    "ru": "Мы идём в ___.",
+    "id": "Kami pergi ke teater. — (теа́тр)"
+   },
+   "answer": "теа́тр",
+   "accept": [
+    "теа́тр"
+   ],
+   "options": [
+    "теа́тру",
+    "теа́тра",
+    "теа́тром",
+    "теа́тр"
+   ]
+  },
+  {
+   "id": "q-acc-20",
+   "case": "acc",
+   "type": "fill",
+   "target": {
+    "entry": "w1869",
+    "lemma": "подру́га",
+    "number": "sg",
+    "case": "acc"
+   },
+   "explanation": "ждать kata benda tertentu → objek dalam Винительный. Bentuk Вини́тельный tunggal dari подру́га: подру́гу.",
+   "prompt": {
+    "ru": "Я жду ___.",
+    "id": "Saya menunggu teman perempuan. — (подру́га)"
+   },
+   "answer": "подру́гу",
+   "accept": [
+    "подру́гу"
+   ]
+  },
+  {
+   "id": "q-acc-21",
+   "case": "acc",
+   "type": "pick_case",
+   "target": {
+    "entry": "w0467",
+    "lemma": "соба́ка",
+    "number": "sg",
+    "case": "acc"
+   },
+   "explanation": "Objek langsung makhluk hidup: maskulin = bentuk Родительный, feminin berakhiran -у/-ю. Bentuk Вини́тельный tunggal dari соба́ка: соба́ку.",
+   "prompt": {
+    "ru": "Я ви́жу [соба́ку].",
+    "id": "Saya melihat anjing."
+   },
+   "answer": "acc",
+   "options": [
+    "nom",
+    "gen",
+    "dat",
+    "acc",
+    "ins",
+    "pre"
+   ]
+  },
+  {
+   "id": "q-acc-22",
+   "case": "acc",
+   "type": "mcq",
+   "target": {
+    "entry": "w1460",
+    "lemma": "музе́й",
+    "number": "sg",
+    "case": "acc"
+   },
+   "explanation": "в + Винительный menyatakan arah (ke mana?). Bentuk Вини́тельный tunggal dari музе́й: музе́й.",
+   "prompt": {
+    "ru": "Мы идём в ___.",
+    "id": "Kami pergi ke museum. — (музе́й)"
+   },
+   "answer": "музе́й",
+   "accept": [
+    "музе́й"
+   ],
+   "options": [
+    "музе́й",
+    "музе́ю",
+    "музе́я",
+    "музе́ем"
+   ]
+  },
+  {
+   "id": "q-acc-23",
+   "case": "acc",
+   "type": "fill",
+   "target": {
+    "entry": "w0177",
+    "lemma": "оте́ц",
+    "number": "sg",
+    "case": "acc"
+   },
+   "explanation": "Objek langsung makhluk hidup: maskulin = bentuk Родительный, feminin berakhiran -у/-ю. Bentuk Вини́тельный tunggal dari оте́ц: отца́.",
+   "prompt": {
+    "ru": "Я ви́жу ___.",
+    "id": "Saya melihat ayah. — (оте́ц)"
+   },
+   "answer": "отца́",
+   "accept": [
+    "отца́"
+   ]
+  },
+  {
+   "id": "q-acc-24",
+   "case": "acc",
+   "type": "pick_case",
+   "target": {
+    "entry": "w1645",
+    "lemma": "университе́т",
+    "number": "sg",
+    "case": "acc"
+   },
+   "explanation": "в + Винительный menyatakan arah (ke mana?). Bentuk Вини́тельный tunggal dari университе́т: университе́т.",
+   "prompt": {
+    "ru": "Мы идём в [университе́т].",
+    "id": "Kami pergi ke universitas."
+   },
+   "answer": "acc",
+   "options": [
+    "nom",
+    "gen",
+    "dat",
+    "acc",
+    "ins",
+    "pre"
+   ]
+  },
+  {
+   "id": "q-ins-01",
+   "case": "ins",
+   "type": "mcq",
+   "target": {
+    "entry": "w1530",
+    "lemma": "ру́чка",
+    "number": "sg",
+    "case": "ins"
+   },
+   "explanation": "Alat (dengan apa?) dinyatakan dengan Творительный tanpa preposisi. Bentuk Твори́тельный tunggal dari ру́чка: ру́чкой.",
+   "prompt": {
+    "ru": "Я пишу́ ___.",
+    "id": "Saya menulis dengan pena. — (ру́чка)"
+   },
+   "answer": "ру́чкой",
+   "accept": [
+    "ру́чкой",
+    "ру́чкою"
+   ],
+   "options": [
+    "ру́чке",
+    "ру́чка",
+    "ру́чкой",
+    "ру́чки"
+   ]
+  },
+  {
+   "id": "q-ins-02",
+   "case": "ins",
+   "type": "fill",
+   "target": {
+    "entry": "w1097",
+    "lemma": "нож",
+    "number": "sg",
+    "case": "ins"
+   },
+   "explanation": "Alat (dengan apa?) dinyatakan dengan Творительный tanpa preposisi. Bentuk Твори́тельный tunggal dari нож: ножо́м.",
+   "prompt": {
+    "ru": "Он ре́жет хлеб ___.",
+    "id": "Dia memotong roti dengan pisau. — (нож)"
+   },
+   "answer": "ножо́м",
+   "accept": [
+    "ножо́м"
+   ]
+  },
+  {
+   "id": "q-ins-03",
+   "case": "ins",
+   "type": "pick_case",
+   "target": {
+    "entry": "w0097",
+    "lemma": "друг",
+    "number": "sg",
+    "case": "ins"
+   },
+   "explanation": "с (bersama) diikuti Творительный. Bentuk Твори́тельный tunggal dari друг: дру́гом.",
+   "prompt": {
+    "ru": "Я гуля́ю с [дру́гом].",
+    "id": "Saya berjalan-jalan bersama teman."
+   },
+   "answer": "ins",
+   "options": [
+    "nom",
+    "gen",
+    "dat",
+    "acc",
+    "ins",
+    "pre"
+   ]
+  },
+  {
+   "id": "q-ins-04",
+   "case": "ins",
+   "type": "mcq",
+   "target": {
+    "entry": "w0529",
+    "lemma": "врач",
+    "number": "sg",
+    "case": "ins"
+   },
+   "explanation": "стать кем? — profesi/peran memakai Творительный. Bentuk Твори́тельный tunggal dari врач: врачо́м.",
+   "prompt": {
+    "ru": "Он стал ___.",
+    "id": "Dia menjadi dokter. — (врач)"
+   },
+   "answer": "врачо́м",
+   "accept": [
+    "врачо́м"
+   ],
+   "options": [
+    "врача́",
+    "врачу́",
+    "врач",
+    "врачо́м"
+   ]
+  },
+  {
+   "id": "q-ins-05",
+   "case": "ins",
+   "type": "fill",
+   "target": {
+    "entry": "w0145",
+    "lemma": "го́род",
+    "number": "sg",
+    "case": "ins"
+   },
+   "explanation": "над (di atas) diikuti Творительный. Bentuk Твори́тельный tunggal dari го́род: го́родом.",
+   "prompt": {
+    "ru": "Самолёт лети́т над ___.",
+    "id": "Pesawat terbang di atas kota. — (го́род)"
+   },
+   "answer": "го́родом",
+   "accept": [
+    "го́родом"
+   ]
+  },
+  {
+   "id": "q-ins-06",
+   "case": "ins",
+   "type": "pick_case",
+   "target": {
+    "entry": "w0166",
+    "lemma": "стол",
+    "number": "sg",
+    "case": "ins"
+   },
+   "explanation": "под untuk tempat (di mana?) diikuti Творительный. Bentuk Твори́тельный tunggal dari стол: столо́м.",
+   "prompt": {
+    "ru": "Ко́шка сиди́т под [столо́м].",
+    "id": "Kucing duduk di bawah meja."
+   },
+   "answer": "ins",
+   "options": [
+    "nom",
+    "gen",
+    "dat",
+    "acc",
+    "ins",
+    "pre"
+   ]
+  },
+  {
+   "id": "q-ins-07",
+   "case": "ins",
+   "type": "mcq",
+   "target": {
+    "entry": "w1653",
+    "lemma": "молоко́",
+    "number": "sg",
+    "case": "ins"
+   },
+   "explanation": "с (dengan) diikuti Творительный. Bentuk Твори́тельный tunggal dari молоко́: молоко́м.",
+   "prompt": {
+    "ru": "Я пью чай с ___.",
+    "id": "Saya minum teh dengan susu. — (молоко́)"
+   },
+   "answer": "молоко́м",
+   "accept": [
+    "молоко́м"
+   ],
+   "options": [
+    "молока́",
+    "молоко́м",
+    "молоко́",
+    "молоку́"
+   ]
+  },
+  {
+   "id": "q-ins-08",
+   "case": "ins",
+   "type": "fill",
+   "target": {
+    "entry": "w0467",
+    "lemma": "соба́ка",
+    "number": "sg",
+    "case": "ins"
+   },
+   "explanation": "с (bersama) diikuti Творительный. Bentuk Твори́тельный tunggal dari соба́ка: соба́кой.",
+   "prompt": {
+    "ru": "Я гуля́ю с ___.",
+    "id": "Saya berjalan-jalan bersama anjing. — (соба́ка)"
+   },
+   "answer": "соба́кой",
+   "accept": [
+    "соба́кой",
+    "соба́кою"
+   ]
+  },
+  {
+   "id": "q-ins-09",
+   "case": "ins",
+   "type": "pick_case",
+   "target": {
+    "entry": "w0971",
+    "lemma": "учи́тель",
+    "number": "sg",
+    "case": "ins"
+   },
+   "explanation": "стать кем? — profesi/peran memakai Творительный. Bentuk Твори́тельный tunggal dari учи́тель: учи́телем.",
+   "prompt": {
+    "ru": "Он стал [учи́телем].",
+    "id": "Dia menjadi guru."
+   },
+   "answer": "ins",
+   "options": [
+    "nom",
+    "gen",
+    "dat",
+    "acc",
+    "ins",
+    "pre"
+   ]
+  },
+  {
+   "id": "q-ins-10",
+   "case": "ins",
+   "type": "mcq",
+   "target": {
+    "entry": "w0280",
+    "lemma": "лес",
+    "number": "sg",
+    "case": "ins"
+   },
+   "explanation": "над (di atas) diikuti Творительный. Bentuk Твори́тельный tunggal dari лес: ле́сом.",
+   "prompt": {
+    "ru": "Самолёт лети́т над ___.",
+    "id": "Pesawat terbang di atas hutan. — (лес)"
+   },
+   "answer": "ле́сом",
+   "accept": [
+    "ле́сом"
+   ],
+   "options": [
+    "ле́сом",
+    "ле́са",
+    "лес",
+    "ле́су"
+   ]
+  },
+  {
+   "id": "q-ins-11",
+   "case": "ins",
+   "type": "fill",
+   "target": {
+    "entry": "w0908",
+    "lemma": "стул",
+    "number": "sg",
+    "case": "ins"
+   },
+   "explanation": "под untuk tempat (di mana?) diikuti Творительный. Bentuk Твори́тельный tunggal dari стул: сту́лом.",
+   "prompt": {
+    "ru": "Ко́шка сиди́т под ___.",
+    "id": "Kucing duduk di bawah kursi. — (стул)"
+   },
+   "answer": "сту́лом",
+   "accept": [
+    "сту́лом"
+   ]
+  },
+  {
+   "id": "q-ins-12",
+   "case": "ins",
+   "type": "pick_case",
+   "target": {
+    "entry": "w0679",
+    "lemma": "хлеб",
+    "number": "sg",
+    "case": "ins"
+   },
+   "explanation": "с (dengan) diikuti Творительный. Bentuk Твори́тельный tunggal dari хлеб: хле́бом.",
+   "prompt": {
+    "ru": "Я пью чай с [хле́бом].",
+    "id": "Saya minum teh dengan roti."
+   },
+   "answer": "ins",
+   "options": [
+    "nom",
+    "gen",
+    "dat",
+    "acc",
+    "ins",
+    "pre"
+   ]
+  },
+  {
+   "id": "q-ins-13",
+   "case": "ins",
+   "type": "mcq",
+   "target": {
+    "entry": "w0833",
+    "lemma": "сестра́",
+    "number": "sg",
+    "case": "ins"
+   },
+   "explanation": "с (bersama) diikuti Творительный. Bentuk Твори́тельный tunggal dari сестра́: сестро́й.",
+   "prompt": {
+    "ru": "Я гуля́ю с ___.",
+    "id": "Saya berjalan-jalan bersama saudara perempuan. — (сестра́)"
+   },
+   "answer": "сестро́й",
+   "accept": [
+    "сестро́й",
+    "сестро́ю"
+   ],
+   "options": [
+    "сестро́й",
+    "сестре́",
+    "сестра́",
+    "сестры́"
+   ]
+  },
+  {
+   "id": "q-ins-14",
+   "case": "ins",
+   "type": "fill",
+   "target": {
+    "entry": "w0548",
+    "lemma": "писа́тель",
+    "number": "sg",
+    "case": "ins"
+   },
+   "explanation": "стать кем? — profesi/peran memakai Творительный. Bentuk Твори́тельный tunggal dari писа́тель: писа́телем.",
+   "prompt": {
+    "ru": "Он стал ___.",
+    "id": "Dia menjadi penulis. — (писа́тель)"
+   },
+   "answer": "писа́телем",
+   "accept": [
+    "писа́телем"
+   ]
+  },
+  {
+   "id": "q-ins-15",
+   "case": "ins",
+   "type": "pick_case",
+   "target": {
+    "entry": "w0526",
+    "lemma": "мо́ре",
+    "number": "sg",
+    "case": "ins"
+   },
+   "explanation": "над (di atas) diikuti Творительный. Bentuk Твори́тельный tunggal dari мо́ре: мо́рем.",
+   "prompt": {
+    "ru": "Самолёт лети́т над [мо́рем].",
+    "id": "Pesawat terbang di atas laut."
+   },
+   "answer": "ins",
+   "options": [
+    "nom",
+    "gen",
+    "dat",
+    "acc",
+    "ins",
+    "pre"
+   ]
+  },
+  {
+   "id": "q-ins-16",
+   "case": "ins",
+   "type": "mcq",
+   "target": {
+    "entry": "w0217",
+    "lemma": "окно́",
+    "number": "sg",
+    "case": "ins"
+   },
+   "explanation": "под untuk tempat (di mana?) diikuti Творительный. Bentuk Твори́тельный tunggal dari окно́: окно́м.",
+   "prompt": {
+    "ru": "Ко́шка сиди́т под ___.",
+    "id": "Kucing duduk di bawah jendela. — (окно́)"
+   },
+   "answer": "окно́м",
+   "accept": [
+    "окно́м"
+   ],
+   "options": [
+    "окно́м",
+    "окна́",
+    "окно́",
+    "окну́"
+   ]
+  },
+  {
+   "id": "q-ins-17",
+   "case": "ins",
+   "type": "fill",
+   "target": {
+    "entry": "w0314",
+    "lemma": "ма́ма",
+    "number": "sg",
+    "case": "ins"
+   },
+   "explanation": "с (bersama) diikuti Творительный. Bentuk Твори́тельный tunggal dari ма́ма: ма́мой.",
+   "prompt": {
+    "ru": "Я гуля́ю с ___.",
+    "id": "Saya berjalan-jalan bersama ibu. — (ма́ма)"
+   },
+   "answer": "ма́мой",
+   "accept": [
+    "ма́мой",
+    "ма́мою"
+   ]
+  },
+  {
+   "id": "q-ins-18",
+   "case": "ins",
+   "type": "pick_case",
+   "target": {
+    "entry": "w1111",
+    "lemma": "инжене́р",
+    "number": "sg",
+    "case": "ins"
+   },
+   "explanation": "стать кем? — profesi/peran memakai Творительный. Bentuk Твори́тельный tunggal dari инжене́р: инжене́ром.",
+   "prompt": {
+    "ru": "Он стал [инжене́ром].",
+    "id": "Dia menjadi insinyur."
+   },
+   "answer": "ins",
+   "options": [
+    "nom",
+    "gen",
+    "dat",
+    "acc",
+    "ins",
+    "pre"
+   ]
+  },
+  {
+   "id": "q-ins-19",
+   "case": "ins",
+   "type": "mcq",
+   "target": {
+    "entry": "w1537",
+    "lemma": "о́зеро",
+    "number": "sg",
+    "case": "ins"
+   },
+   "explanation": "над (di atas) diikuti Творительный. Bentuk Твори́тельный tunggal dari о́зеро: о́зером.",
+   "prompt": {
+    "ru": "Самолёт лети́т над ___.",
+    "id": "Pesawat terbang di atas danau. — (о́зеро)"
+   },
+   "answer": "о́зером",
+   "accept": [
+    "о́зером"
+   ],
+   "options": [
+    "о́зера",
+    "о́зеро",
+    "о́зером",
+    "о́зеру"
+   ]
+  },
+  {
+   "id": "q-ins-20",
+   "case": "ins",
+   "type": "fill",
+   "target": {
+    "entry": "w0167",
+    "lemma": "маши́на",
+    "number": "sg",
+    "case": "ins"
+   },
+   "explanation": "под untuk tempat (di mana?) diikuti Творительный. Bentuk Твори́тельный tunggal dari маши́на: маши́ной.",
+   "prompt": {
+    "ru": "Ко́шка сиди́т под ___.",
+    "id": "Kucing duduk di bawah mobil. — (маши́на)"
+   },
+   "answer": "маши́ной",
+   "accept": [
+    "маши́ной",
+    "маши́ною"
+   ]
+  },
+  {
+   "id": "q-ins-21",
+   "case": "ins",
+   "type": "pick_case",
+   "target": {
+    "entry": "w0353",
+    "lemma": "брат",
+    "number": "sg",
+    "case": "ins"
+   },
+   "explanation": "с (bersama) diikuti Творительный. Bentuk Твори́тельный tunggal dari брат: бра́том.",
+   "prompt": {
+    "ru": "Я гуля́ю с [бра́том].",
+    "id": "Saya berjalan-jalan bersama saudara laki-laki."
+   },
+   "answer": "ins",
+   "options": [
+    "nom",
+    "gen",
+    "dat",
+    "acc",
+    "ins",
+    "pre"
+   ]
+  },
+  {
+   "id": "q-ins-22",
+   "case": "ins",
+   "type": "mcq",
+   "target": {
+    "entry": "w0589",
+    "lemma": "дире́ктор",
+    "number": "sg",
+    "case": "ins"
+   },
+   "explanation": "стать кем? — profesi/peran memakai Творительный. Bentuk Твори́тельный tunggal dari дире́ктор: дире́ктором.",
+   "prompt": {
+    "ru": "Он стал ___.",
+    "id": "Dia menjadi direktur. — (дире́ктор)"
+   },
+   "answer": "дире́ктором",
+   "accept": [
+    "дире́ктором"
+   ],
+   "options": [
+    "дире́ктору",
+    "дире́ктор",
+    "дире́ктором",
+    "дире́ктора"
+   ]
+  },
+  {
+   "id": "q-ins-23",
+   "case": "ins",
+   "type": "fill",
+   "target": {
+    "entry": "w0521",
+    "lemma": "гора́",
+    "number": "sg",
+    "case": "ins"
+   },
+   "explanation": "над (di atas) diikuti Творительный. Bentuk Твори́тельный tunggal dari гора́: горо́й.",
+   "prompt": {
+    "ru": "Самолёт лети́т над ___.",
+    "id": "Pesawat terbang di atas gunung. — (гора́)"
+   },
+   "answer": "горо́й",
+   "accept": [
+    "горо́й",
+    "горо́ю"
+   ]
+  },
+  {
+   "id": "q-ins-24",
+   "case": "ins",
+   "type": "pick_case",
+   "target": {
+    "entry": "w1869",
+    "lemma": "подру́га",
+    "number": "sg",
+    "case": "ins"
+   },
+   "explanation": "с (bersama) diikuti Творительный. Bentuk Твори́тельный tunggal dari подру́га: подру́гой.",
+   "prompt": {
+    "ru": "Я гуля́ю с [подру́гой].",
+    "id": "Saya berjalan-jalan bersama teman perempuan."
+   },
+   "answer": "ins",
+   "options": [
+    "nom",
+    "gen",
+    "dat",
+    "acc",
+    "ins",
+    "pre"
+   ]
+  },
+  {
+   "id": "q-pre-01",
+   "case": "pre",
+   "type": "mcq",
+   "target": {
+    "entry": "w0145",
+    "lemma": "го́род",
+    "number": "sg",
+    "case": "pre"
+   },
+   "explanation": "в untuk tempat (di mana?) diikuti Предложный. Bentuk Предло́жный tunggal dari го́род: го́роде.",
+   "prompt": {
+    "ru": "Я живу́ в ___.",
+    "id": "Saya tinggal di kota. — (го́род)"
+   },
+   "answer": "го́роде",
+   "accept": [
+    "го́роде"
+   ],
+   "options": [
+    "го́рода",
+    "го́род",
+    "го́роде",
+    "го́роду"
+   ]
+  },
+  {
+   "id": "q-pre-02",
+   "case": "pre",
+   "type": "fill",
+   "target": {
+    "entry": "w0237",
+    "lemma": "кни́га",
+    "number": "sg",
+    "case": "pre"
+   },
+   "explanation": "о (tentang) diikuti Предложный. Bentuk Предло́жный tunggal dari кни́га: кни́ге.",
+   "prompt": {
+    "ru": "Мы говори́м о ___.",
+    "id": "Kami membicarakan buku. — (кни́га)"
+   },
+   "answer": "кни́ге",
+   "accept": [
+    "кни́ге"
+   ]
+  },
+  {
+   "id": "q-pre-03",
+   "case": "pre",
+   "type": "pick_case",
+   "target": {
+    "entry": "w0166",
+    "lemma": "стол",
+    "number": "sg",
+    "case": "pre"
+   },
+   "explanation": "на untuk tempat (di atas) diikuti Предложный. Bentuk Предло́жный tunggal dari стол: столе́.",
+   "prompt": {
+    "ru": "Кни́га лежи́т на [столе́].",
+    "id": "Buku itu ada di atas meja."
+   },
+   "answer": "pre",
+   "options": [
+    "nom",
+    "gen",
+    "dat",
+    "acc",
+    "ins",
+    "pre"
+   ]
+  },
+  {
+   "id": "q-pre-04",
+   "case": "pre",
+   "type": "mcq",
+   "target": {
+    "entry": "w0875",
+    "lemma": "заво́д",
+    "number": "sg",
+    "case": "pre"
+   },
+   "explanation": "на untuk tempat kerja seperti завод/станция diikuti Предложный. Bentuk Предло́жный tunggal dari заво́д: заво́де.",
+   "prompt": {
+    "ru": "Он рабо́тает на ___.",
+    "id": "Dia bekerja di pabrik. — (заво́д)"
+   },
+   "answer": "заво́де",
+   "accept": [
+    "заво́де"
+   ],
+   "options": [
+    "заво́д",
+    "заво́де",
+    "заво́ду",
+    "заво́да"
+   ]
+  },
+  {
+   "id": "q-pre-05",
+   "case": "pre",
+   "type": "fill",
+   "target": {
+    "entry": "w1057",
+    "lemma": "теа́тр",
+    "number": "sg",
+    "case": "pre"
+   },
+   "explanation": "в untuk tempat (di mana?) diikuti Предложный. Bentuk Предло́жный tunggal dari теа́тр: теа́тре.",
+   "prompt": {
+    "ru": "Мы бы́ли в ___.",
+    "id": "Kami berada di teater. — (теа́тр)"
+   },
+   "answer": "теа́тре",
+   "accept": [
+    "теа́тре"
+   ]
+  },
+  {
+   "id": "q-pre-06",
+   "case": "pre",
+   "type": "pick_case",
+   "target": {
+    "entry": "w0314",
+    "lemma": "ма́ма",
+    "number": "sg",
+    "case": "pre"
+   },
+   "explanation": "о (tentang) diikuti Предложный. Bentuk Предло́жный tunggal dari ма́ма: ма́ме.",
+   "prompt": {
+    "ru": "Я ду́маю о [ма́ме].",
+    "id": "Saya memikirkan ibu."
+   },
+   "answer": "pre",
+   "options": [
+    "nom",
+    "gen",
+    "dat",
+    "acc",
+    "ins",
+    "pre"
+   ]
+  },
+  {
+   "id": "q-pre-07",
+   "case": "pre",
+   "type": "mcq",
+   "target": {
+    "entry": "w0526",
+    "lemma": "мо́ре",
+    "number": "sg",
+    "case": "pre"
+   },
+   "explanation": "на + Предложный untuk tempat terbuka (laut, danau). Bentuk Предло́жный tunggal dari мо́ре: мо́ре.",
+   "prompt": {
+    "ru": "Мы отдыха́ли на ___.",
+    "id": "Kami berlibur di laut. — (мо́ре)"
+   },
+   "answer": "мо́ре",
+   "accept": [
+    "мо́ре"
+   ],
+   "options": [
+    "мо́ря",
+    "мо́рем",
+    "мо́ре",
+    "мо́рю"
+   ]
+  },
+  {
+   "id": "q-pre-08",
+   "case": "pre",
+   "type": "fill",
+   "target": {
+    "entry": "w0100",
+    "lemma": "дом",
+    "number": "sg",
+    "case": "pre"
+   },
+   "explanation": "в untuk tempat (di mana?) diikuti Предложный. Bentuk Предло́жный tunggal dari дом: до́ме.",
+   "prompt": {
+    "ru": "Я живу́ в ___.",
+    "id": "Saya tinggal di rumah. — (дом)"
+   },
+   "answer": "до́ме",
+   "accept": [
+    "до́ме"
+   ]
+  },
+  {
+   "id": "q-pre-09",
+   "case": "pre",
+   "type": "pick_case",
+   "target": {
+    "entry": "w1259",
+    "lemma": "фильм",
+    "number": "sg",
+    "case": "pre"
+   },
+   "explanation": "о (tentang) diikuti Предложный. Bentuk Предло́жный tunggal dari фильм: фи́льме.",
+   "prompt": {
+    "ru": "Мы говори́м о [фи́льме].",
+    "id": "Kami membicarakan film."
+   },
+   "answer": "pre",
+   "options": [
+    "nom",
+    "gen",
+    "dat",
+    "acc",
+    "ins",
+    "pre"
+   ]
+  },
+  {
+   "id": "q-pre-10",
+   "case": "pre",
+   "type": "mcq",
+   "target": {
+    "entry": "w0908",
+    "lemma": "стул",
+    "number": "sg",
+    "case": "pre"
+   },
+   "explanation": "на untuk tempat (di atas) diikuti Предложный. Bentuk Предло́жный tunggal dari стул: сту́ле.",
+   "prompt": {
+    "ru": "Кни́га лежи́т на ___.",
+    "id": "Buku itu ada di atas kursi. — (стул)"
+   },
+   "answer": "сту́ле",
+   "accept": [
+    "сту́ле"
+   ],
+   "options": [
+    "стул",
+    "сту́ле",
+    "сту́ла",
+    "сту́лу"
+   ]
+  },
+  {
+   "id": "q-pre-11",
+   "case": "pre",
+   "type": "fill",
+   "target": {
+    "entry": "w0884",
+    "lemma": "ста́нция",
+    "number": "sg",
+    "case": "pre"
+   },
+   "explanation": "на untuk tempat kerja seperti завод/станция diikuti Предложный. Bentuk Предло́жный tunggal dari ста́нция: ста́нции.",
+   "prompt": {
+    "ru": "Он рабо́тает на ___.",
+    "id": "Dia bekerja di stasiun. — (ста́нция)"
+   },
+   "answer": "ста́нции",
+   "accept": [
+    "ста́нции"
+   ]
+  },
+  {
+   "id": "q-pre-12",
+   "case": "pre",
+   "type": "pick_case",
+   "target": {
+    "entry": "w1460",
+    "lemma": "музе́й",
+    "number": "sg",
+    "case": "pre"
+   },
+   "explanation": "в untuk tempat (di mana?) diikuti Предложный. Bentuk Предло́жный tunggal dari музе́й: музе́е.",
+   "prompt": {
+    "ru": "Мы бы́ли в [музе́е].",
+    "id": "Kami berada di museum."
+   },
+   "answer": "pre",
+   "options": [
+    "nom",
+    "gen",
+    "dat",
+    "acc",
+    "ins",
+    "pre"
+   ]
+  },
+  {
+   "id": "q-pre-13",
+   "case": "pre",
+   "type": "mcq",
+   "target": {
+    "entry": "w0833",
+    "lemma": "сестра́",
+    "number": "sg",
+    "case": "pre"
+   },
+   "explanation": "о (tentang) diikuti Предложный. Bentuk Предло́жный tunggal dari сестра́: сестре́.",
+   "prompt": {
+    "ru": "Я ду́маю о ___.",
+    "id": "Saya memikirkan saudara perempuan. — (сестра́)"
+   },
+   "answer": "сестре́",
+   "accept": [
+    "сестре́"
+   ],
+   "options": [
+    "сестра́",
+    "сестру́",
+    "сестре́",
+    "сестры́"
+   ]
+  },
+  {
+   "id": "q-pre-14",
+   "case": "pre",
+   "type": "fill",
+   "target": {
+    "entry": "w1537",
+    "lemma": "о́зеро",
+    "number": "sg",
+    "case": "pre"
+   },
+   "explanation": "на + Предложный untuk tempat terbuka (laut, danau). Bentuk Предло́жный tunggal dari о́зеро: о́зере.",
+   "prompt": {
+    "ru": "Мы отдыха́ли на ___.",
+    "id": "Kami berlibur di danau. — (о́зеро)"
+   },
+   "answer": "о́зере",
+   "accept": [
+    "о́зере"
+   ]
+  },
+  {
+   "id": "q-pre-15",
+   "case": "pre",
+   "type": "pick_case",
+   "target": {
+    "entry": "w0222",
+    "lemma": "Москва́",
+    "number": "sg",
+    "case": "pre"
+   },
+   "explanation": "в untuk tempat (di mana?) diikuti Предложный. Bentuk Предло́жный tunggal dari Москва́: Москве́.",
+   "prompt": {
+    "ru": "Я живу́ в [Москве́].",
+    "id": "Saya tinggal di Moskwa."
+   },
+   "answer": "pre",
+   "options": [
+    "nom",
+    "gen",
+    "dat",
+    "acc",
+    "ins",
+    "pre"
+   ]
+  },
+  {
+   "id": "q-pre-16",
+   "case": "pre",
+   "type": "mcq",
+   "target": {
+    "entry": "w0133",
+    "lemma": "рабо́та",
+    "number": "sg",
+    "case": "pre"
+   },
+   "explanation": "о (tentang) diikuti Предложный. Bentuk Предло́жный tunggal dari рабо́та: рабо́те.",
+   "prompt": {
+    "ru": "Мы говори́м о ___.",
+    "id": "Kami membicarakan pekerjaan. — (рабо́та)"
+   },
+   "answer": "рабо́те",
+   "accept": [
+    "рабо́те"
+   ],
+   "options": [
+    "рабо́ту",
+    "рабо́ты",
+    "рабо́та",
+    "рабо́те"
+   ]
+  },
+  {
+   "id": "q-pre-17",
+   "case": "pre",
+   "type": "fill",
+   "target": {
+    "entry": "w0217",
+    "lemma": "окно́",
+    "number": "sg",
+    "case": "pre"
+   },
+   "explanation": "на untuk tempat (di atas) diikuti Предложный. Bentuk Предло́жный tunggal dari окно́: окне́.",
+   "prompt": {
+    "ru": "Кни́га лежи́т на ___.",
+    "id": "Buku itu ada di atas jendela. — (окно́)"
+   },
+   "answer": "окне́",
+   "accept": [
+    "окне́"
+   ]
+  },
+  {
+   "id": "q-pre-18",
+   "case": "pre",
+   "type": "pick_case",
+   "target": {
+    "entry": "w1760",
+    "lemma": "вокза́л",
+    "number": "sg",
+    "case": "pre"
+   },
+   "explanation": "на untuk tempat kerja seperti завод/станция diikuti Предложный. Bentuk Предло́жный tunggal dari вокза́л: вокза́ле.",
+   "prompt": {
+    "ru": "Он рабо́тает на [вокза́ле].",
+    "id": "Dia bekerja di stasiun."
+   },
+   "answer": "pre",
+   "options": [
+    "nom",
+    "gen",
+    "dat",
+    "acc",
+    "ins",
+    "pre"
+   ]
+  },
+  {
+   "id": "q-pre-19",
+   "case": "pre",
+   "type": "mcq",
+   "target": {
+    "entry": "w1645",
+    "lemma": "университе́т",
+    "number": "sg",
+    "case": "pre"
+   },
+   "explanation": "в untuk tempat (di mana?) diikuti Предложный. Bentuk Предло́жный tunggal dari университе́т: университе́те.",
+   "prompt": {
+    "ru": "Мы бы́ли в ___.",
+    "id": "Kami berada di universitas. — (университе́т)"
+   },
+   "answer": "университе́те",
+   "accept": [
+    "университе́те"
+   ],
+   "options": [
+    "университе́та",
+    "университе́т",
+    "университе́те",
+    "университе́ту"
+   ]
+  },
+  {
+   "id": "q-pre-20",
+   "case": "pre",
+   "type": "fill",
+   "target": {
+    "entry": "w0283",
+    "lemma": "сын",
+    "number": "sg",
+    "case": "pre"
+   },
+   "explanation": "о (tentang) diikuti Предложный. Bentuk Предло́жный tunggal dari сын: сы́не.",
+   "prompt": {
+    "ru": "Я ду́маю о ___.",
+    "id": "Saya memikirkan putra. — (сын)"
+   },
+   "answer": "сы́не",
+   "accept": [
+    "сы́не"
+   ]
+  },
+  {
+   "id": "q-pre-21",
+   "case": "pre",
+   "type": "pick_case",
+   "target": {
+    "entry": "w0620",
+    "lemma": "дере́вня",
+    "number": "sg",
+    "case": "pre"
+   },
+   "explanation": "в untuk tempat (di mana?) diikuti Предложный. Bentuk Предло́жный tunggal dari дере́вня: дере́вне.",
+   "prompt": {
+    "ru": "Я живу́ в [дере́вне].",
+    "id": "Saya tinggal di desa."
+   },
+   "answer": "pre",
+   "options": [
+    "nom",
+    "gen",
+    "dat",
+    "acc",
+    "ins",
+    "pre"
+   ]
+  },
+  {
+   "id": "q-pre-22",
+   "case": "pre",
+   "type": "mcq",
+   "target": {
+    "entry": "w0353",
+    "lemma": "брат",
+    "number": "sg",
+    "case": "pre"
+   },
+   "explanation": "о (tentang) diikuti Предложный. Bentuk Предло́жный tunggal dari брат: бра́те.",
+   "prompt": {
+    "ru": "Мы говори́м о ___.",
+    "id": "Kami membicarakan saudara laki-laki. — (брат)"
+   },
+   "answer": "бра́те",
+   "accept": [
+    "бра́те"
+   ],
+   "options": [
+    "бра́ту",
+    "бра́те",
+    "брат",
+    "бра́та"
+   ]
+  },
+  {
+   "id": "q-pre-23",
+   "case": "pre",
+   "type": "fill",
+   "target": {
+    "entry": "w0354",
+    "lemma": "кварти́ра",
+    "number": "sg",
+    "case": "pre"
+   },
+   "explanation": "в untuk tempat (di mana?) diikuti Предложный. Bentuk Предло́жный tunggal dari кварти́ра: кварти́ре.",
+   "prompt": {
+    "ru": "Я живу́ в ___.",
+    "id": "Saya tinggal di apartemen. — (кварти́ра)"
+   },
+   "answer": "кварти́ре",
+   "accept": [
+    "кварти́ре"
+   ]
+  },
+  {
+   "id": "q-pre-24",
+   "case": "pre",
+   "type": "pick_case",
+   "target": {
+    "entry": "w0145",
+    "lemma": "го́род",
+    "number": "sg",
+    "case": "pre"
+   },
+   "explanation": "о (tentang) diikuti Предложный. Bentuk Предло́жный tunggal dari го́род: го́роде.",
+   "prompt": {
+    "ru": "Мы говори́м о [го́роде].",
+    "id": "Kami membicarakan kota."
+   },
+   "answer": "pre",
+   "options": [
+    "nom",
+    "gen",
+    "dat",
+    "acc",
+    "ins",
+    "pre"
+   ]
+  }
+ ]
+}
