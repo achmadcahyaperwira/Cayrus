@@ -4,16 +4,16 @@
   "pos": {
    "pron": 19,
    "adj": 283,
-   "verb": 458,
-   "part": 33,
-   "conj": 39,
-   "noun": 776,
+   "verb": 462,
+   "part": 32,
+   "conj": 38,
+   "noun": 775,
    "adv": 160,
    "num": 20,
    "pred": 5,
-   "other": 2,
    "intj": 7,
-   "prep": 39
+   "prep": 39,
+   "other": 1
   }
  },
  "entries": [
@@ -1062,74 +1062,22 @@
     32
    ],
    "lemma": "мочь",
-   "pos": "noun",
+   "pos": "verb",
    "service": false,
    "flags": [],
-   "gender": "f",
-   "animate": false,
+   "gender": null,
+   "animate": null,
    "indeclinable": false,
-   "decl": {
-    "type": "noun",
-    "number": "both",
-    "sg": {
-     "nom": [
-      "мочь",
-      "v"
-     ],
-     "gen": [
-      "мо́чи",
-      "v"
-     ],
-     "dat": [
-      "мо́чи",
-      "v"
-     ],
-     "acc": [
-      "мочь",
-      "v"
-     ],
-     "ins": [
-      "мо́чью",
-      "v"
-     ],
-     "pre": [
-      "мо́чи",
-      "v"
-     ]
-    },
-    "pl": {
-     "nom": [
-      "мо́чи",
-      "v"
-     ],
-     "gen": [
-      "мо́чей",
-      "v"
-     ],
-     "dat": [
-      "мо́чам",
-      "v"
-     ],
-     "acc": [
-      "мо́чи",
-      "v"
-     ],
-     "ins": [
-      "мо́чами",
-      "v"
-     ],
-     "pre": [
-      "мо́чах",
-      "v"
-     ]
-    }
+   "decl": null,
+   "verbRef": {
+    "entry": "v003",
+    "pair": "p003"
    },
-   "verbRef": null,
    "accented": [
     "мочь",
     "v"
    ],
-   "ref_en": "power, might"
+   "ref_en": "be able, can"
   },
   {
    "id": "w0034",
@@ -9270,13 +9218,68 @@
     204
    ],
    "lemma": "правда",
-   "pos": "part",
+   "pos": "noun",
    "service": false,
    "flags": [],
-   "gender": null,
-   "animate": null,
-   "indeclinable": true,
-   "decl": null,
+   "gender": "f",
+   "animate": false,
+   "indeclinable": false,
+   "decl": {
+    "type": "noun",
+    "number": "both",
+    "sg": {
+     "nom": [
+      "пра́вда",
+      "v"
+     ],
+     "gen": [
+      "пра́вды",
+      "v"
+     ],
+     "dat": [
+      "пра́вде",
+      "v"
+     ],
+     "acc": [
+      "пра́вду",
+      "v"
+     ],
+     "ins": [
+      "пра́вдой, пра́вдою",
+      "v"
+     ],
+     "pre": [
+      "пра́вде",
+      "v"
+     ]
+    },
+    "pl": {
+     "nom": [
+      "пра́вды",
+      "v"
+     ],
+     "gen": [
+      "правд",
+      "v"
+     ],
+     "dat": [
+      "пра́вдам",
+      "v"
+     ],
+     "acc": [
+      "пра́вды",
+      "v"
+     ],
+     "ins": [
+      "пра́вдами",
+      "v"
+     ],
+     "pre": [
+      "пра́вдах",
+      "v"
+     ]
+    }
+   },
    "verbRef": null,
    "accented": [
     "пра́вда",
@@ -43076,16 +43079,19 @@
     756
    ],
    "lemma": "придтись",
-   "pos": "other",
+   "pos": "verb",
    "service": false,
    "flags": [
     "ejaan_janggal"
    ],
    "gender": null,
    "animate": null,
-   "indeclinable": true,
+   "indeclinable": false,
    "decl": null,
-   "verbRef": null,
+   "verbRef": {
+    "entry": "v177",
+    "pair": "p109"
+   },
    "accented": [
     "придти́сь",
     "v"
@@ -81015,74 +81021,22 @@
     1341
    ],
    "lemma": "пропасть",
-   "pos": "noun",
+   "pos": "verb",
    "service": false,
    "flags": [],
-   "gender": "f",
-   "animate": false,
+   "gender": null,
+   "animate": null,
    "indeclinable": false,
-   "decl": {
-    "type": "noun",
-    "number": "both",
-    "sg": {
-     "nom": [
-      "про́пасть",
-      "v"
-     ],
-     "gen": [
-      "про́пасти",
-      "v"
-     ],
-     "dat": [
-      "про́пасти",
-      "v"
-     ],
-     "acc": [
-      "про́пасть",
-      "v"
-     ],
-     "ins": [
-      "про́пастью",
-      "v"
-     ],
-     "pre": [
-      "про́пасти",
-      "v"
-     ]
-    },
-    "pl": {
-     "nom": [
-      "про́пасти",
-      "v"
-     ],
-     "gen": [
-      "про́пастей, пропасте́й",
-      "v"
-     ],
-     "dat": [
-      "про́пастям, пропастя́м",
-      "v"
-     ],
-     "acc": [
-      "про́пасти",
-      "v"
-     ],
-     "ins": [
-      "про́пастями, пропастя́ми",
-      "v"
-     ],
-     "pre": [
-      "про́пастях",
-      "v"
-     ]
-    }
+   "decl": null,
+   "verbRef": {
+    "entry": "v317",
+    "pair": "p244"
    },
-   "verbRef": null,
    "accented": [
-    "про́пасть",
+    "пропа́сть",
     "v"
    ],
-   "ref_en": "precipice, abyss, chasm; lots, tons"
+   "ref_en": "get lost; disappear, vanish"
   },
   {
    "id": "w1342",
@@ -83051,14 +83005,17 @@
     1377
    ],
    "lemma": "признаться",
-   "pos": "conj",
+   "pos": "verb",
    "service": false,
    "flags": [],
    "gender": null,
    "animate": null,
-   "indeclinable": true,
+   "indeclinable": false,
    "decl": null,
-   "verbRef": null,
+   "verbRef": {
+    "entry": "v331",
+    "pair": "p256"
+   },
    "accented": [
     "призна́ться",
     "v"

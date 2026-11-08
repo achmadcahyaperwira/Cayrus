@@ -1,0 +1,139 @@
+# id	terjemahan	contoh RU	contoh ID	catatan
+w0004	dia (laki-laki); ia (benda maskulin)	Он живёт в Москве.	Dia tinggal di Moskwa.
+w0006	saya, aku	Я знаю этого человека.	Saya kenal orang ini.
+w0008	itu (yang jauh), yang itu	Тот дом очень старый.	Rumah itu sangat tua.
+w0012	seluruh, semua, sepanjang	Он работал весь день.	Dia bekerja sepanjang hari.
+w0013	ini, itu (penunjuk)	Это моя книга.	Ini buku saya.
+w0015	dia (perempuan); ia (benda feminin)	Она читает книгу.	Dia (perempuan) sedang membaca buku.
+w0018	mereka	Они живут в деревне.	Mereka tinggal di desa.
+w0022	kami, kita	Мы идём домой.	Kami sedang pulang ke rumah.
+w0024	kamu, engkau	Ты меня слышишь?	Apakah kamu mendengarku?
+w0025	kalian; Anda	Вы говорите по-русски?	Apakah Anda berbicara bahasa Rusia?
+w0026	begitu, demikian, seperti ini	Не говори так громко.	Jangan bicara sekeras itu.
+w0030	ini (yang dekat)	Этот вопрос очень важный.	Pertanyaan ini sangat penting.
+w0031	yang (penghubung); yang mana	Это человек, который мне помог.	Ini orang yang menolong saya.
+w0034	orang, manusia	Этот человек живёт рядом.	Orang ini tinggal di dekat sini.
+w0035	satu; sendirian	У меня один брат.	Saya punya satu saudara laki-laki.
+w0038	seperti itu, sedemikian	Я никогда не видел такой красивый город.	Saya belum pernah melihat kota seindah itu.
+w0040	diri sendiri	Он думает только о себе.	Dia hanya memikirkan dirinya sendiri.
+w0042	apa, yang mana, jenis apa	Какой сегодня день?	Hari ini hari apa?
+w0046	siapa	Кто это сказал?	Siapa yang mengatakan itu?
+w0049	tahun	Мы не виделись целый год.	Kami tidak bertemu selama setahun penuh.
+w0055	milikku, -ku	Это мой друг.	Ini temanku.
+w0056	waktu; kala (tata bahasa)	У меня нет времени.	Saya tidak punya waktu.
+w0057	tangan; lengan	Он взял её за руку.	Dia memegang tangannya.
+w0058	paling (pembentuk superlatif); itu juga	Это самый большой город в стране.	Ini kota terbesar di negeri ini.
+w0062	besar; penting	У них большой дом.	Mereka punya rumah besar.
+w0063	milik kami, -kami, -kita	Наш дом стоит у реки.	Rumah kami berdiri di tepi sungai.
+w0065	lain, yang lain	Дай мне другую книгу.	Berikan aku buku yang lain.
+w0066	milik sendiri (posesif refleksif)	Каждый любит свою мать.	Setiap orang mencintai ibunya sendiri.
+w0067	urusan, perkara, pekerjaan	У меня важное дело.	Saya punya urusan penting.
+w0069	di mana	Где ты живёшь?	Di mana kamu tinggal?
+w0072	sendiri (dengan tenaga sendiri)	Я сделал это сам.	Saya melakukannya sendiri.
+w0074	kali; sekali	Я был там только один раз.	Saya ke sana hanya sekali.
+w0075	dua	У меня два брата.	Saya punya dua saudara laki-laki.
+w0077	di sana	Там никого нет.	Di sana tidak ada siapa-siapa.
+w0078	mata	У неё голубые глаза.	Matanya biru.
+w0079	pertama	Это мой первый день на работе.	Ini hari pertama saya bekerja.
+w0080	hari; siang	Это был хороший день.	Itu hari yang menyenangkan.
+w0081	kehidupan, hidup	Жизнь в деревне спокойная.	Kehidupan di desa tenang.
+w0083	di sini; saat itu	Я тут живу уже год.	Saya sudah setahun tinggal di sini.
+w0084	tidak ada apa pun	Ничто не может его остановить.	Tidak ada yang bisa menghentikannya.
+w0085	kemudian, nanti	Сначала поешь, потом иди гулять.	Makan dulu, lalu pergi jalan-jalan.
+w0087	sangat	Мне очень нравится этот фильм.	Saya sangat suka film ini.
+w0092	kepala	У меня болит голова.	Kepala saya sakit.
+w0095	sekarang (setelah ada perubahan)	Теперь я всё понимаю.	Sekarang saya mengerti semuanya.
+w0097	teman, sahabat	Он мой лучший друг.	Dia sahabat terbaikku.
+w0098	sekarang, saat ini; sebentar lagi	Сейчас я занят.	Sekarang saya sibuk.
+w0100	rumah	Мы живём в старом доме.	Kami tinggal di rumah tua.
+w0101	juga	Я тоже хочу пойти.	Saya juga ingin pergi.
+w0104	kata; ucapan	Я не понял это слово.	Saya tidak mengerti kata ini.
+w0106	tempat	Это место свободно?	Apakah tempat ini kosong?
+w0108	di sini	Здесь очень красиво.	Di sini sangat indah.
+w0110	wajah, muka; orang (resmi)	У неё доброе лицо.	Wajahnya ramah.
+w0111	waktu itu; kalau begitu	Тогда я был молодым.	Waktu itu saya masih muda.
+w0112	apa; bahwa	Что ты делаешь?	Apa yang sedang kamu lakukan?
+w0113	semestinya; (bentuk pendek) harus	Я должен идти.	Saya harus pergi.
+w0115	baru	Я купил новую машину.	Saya membeli mobil baru.
+w0116	setiap	Каждый день я хожу на работу.	Setiap hari saya pergi bekerja.
+w0117	baik, bagus	Это хороший вопрос.	Itu pertanyaan yang bagus.
+w0119	mengapa, kenapa	Почему ты молчишь?	Kenapa kamu diam saja?
+w0120	karena itu; (потому что) karena	Я не пришёл, потому что был болен.	Saya tidak datang karena sakit.
+w0121	sisi, pihak, arah	Он посмотрел в другую сторону.	Dia menoleh ke arah lain.
+w0124	hanya, sekadar; dengan mudah	Я просто хотел помочь.	Saya hanya ingin membantu.
+w0128	kaki; tungkai	У меня болит нога.	Kaki saya sakit.
+w0131	tiba-tiba	Вдруг погас свет.	Tiba-tiba lampu padam.
+w0132	tidak seorang pun	Никто не пришёл.	Tidak ada yang datang.
+w0133	pekerjaan, kerja	Я ищу работу.	Saya sedang mencari pekerjaan.
+w0135	milik Anda, milik kalian	Это ваша сумка?	Apakah ini tas Anda?
+w0136	yang diperlukan	Он нашёл нужную книгу.	Dia menemukan buku yang diperlukan.
+w0141	pintu	Закрой дверь, пожалуйста.	Tolong tutup pintunya.
+w0143	tiga	У нас три комнаты.	Kami punya tiga kamar.
+w0144	akhir, ujung	В конце улицы стоит школа.	Di ujung jalan ada sekolah.
+w0145	kota	Я живу в большом городе.	Saya tinggal di kota besar.
+w0146	beberapa	Я жду уже несколько минут.	Saya sudah menunggu beberapa menit.
+w0148	suara	У неё красивый голос.	Suaranya indah.
+w0149	jam; satu jam	Я ждал тебя целый час.	Saya menunggumu satu jam penuh.
+w0150	selama, sementara; dah (salam)	Пока я читал, она спала.	Selama saya membaca, dia tidur.
+w0152	terakhir; terbaru	Это последний поезд.	Ini kereta terakhir.
+w0153	lebih	Это более важный вопрос.	Ini pertanyaan yang lebih penting.
+w0154	tanah; bumi; daratan	Земля круглая.	Bumi itu bulat.
+w0155	baik, bagus; baiklah	Ты хорошо говоришь по-русски.	Kamu berbicara bahasa Rusia dengan baik.
+w0157	kekuatan, tenaga	У него большая сила.	Dia punya tenaga yang besar.
+w0158	air	Дай мне стакан воды.	Beri aku segelas air.
+w0159	kedua	Мы живём на втором этаже.	Kami tinggal di lantai dua.
+w0161	selalu	Он всегда приходит вовремя.	Dia selalu datang tepat waktu.
+w0163	kejadian; kasus; kesempatan	Это был странный случай.	Itu kejadian yang aneh.
+w0164	ke mana	Куда ты идёшь?	Kamu mau ke mana?
+w0166	meja	Книга лежит на столе.	Buku itu ada di atas meja.
+w0167	mobil; mesin	У отца новая машина.	Ayah punya mobil baru.
+w0168	dunia; perdamaian	Мы хотим жить в мире.	Kami ingin hidup dalam damai.
+w0169	malam	Спокойной ночи!	Selamat tidur!
+w0170	perempuan, wanita	Эта женщина работает в школе.	Wanita ini bekerja di sekolah.
+w0172	segera, langsung	Он сразу всё понял.	Dia langsung memahami semuanya.
+w0173	sama sekali; sepenuhnya	Я совсем забыл!	Saya benar-benar lupa!
+w0174	anak (kecil)	Ребёнок спит.	Anak itu sedang tidur.
+w0176	rupa, penampilan; pemandangan; aspek (kata kerja)	Из окна прекрасный вид.	Dari jendela pemandangannya indah.
+w0177	ayah, bapak	Мой отец работает врачом.	Ayah saya bekerja sebagai dokter.
+w0178	pertanyaan; masalah	У меня есть вопрос.	Saya punya pertanyaan.
+w0182	barisan, deret; sejumlah	Мы сидели в первом ряду.	Kami duduk di barisan pertama.
+w0183	hampir	Я почти закончил.	Saya hampir selesai.
+w0184	lagi, sekali lagi	Он снова опоздал.	Dia terlambat lagi.
+w0185	tua; lama	Это старый друг.	Itu teman lama.
+w0186	negara, negeri	Россия — большая страна.	Rusia adalah negara yang besar.
+w0187	milikmu, -mu	Это твой телефон?	Apakah ini teleponmu?
+w0190	banyak	У него много друзей.	Dia punya banyak teman.
+w0191	perang	Война закончилась давно.	Perang sudah lama berakhir.
+w0193	uang	У меня нет денег.	Saya tidak punya uang.
+w0196	putih	На ней белое платье.	Dia memakai gaun putih.
+w0197	utama, pokok	Это главная улица города.	Ini jalan utama kota.
+w0198	menit; sebentar	Подожди минуту.	Tunggu sebentar.
+w0200	kawan, rekan	Он мой товарищ по работе.	Dia rekan kerja saya.
+w0201	lagi (berulang)	Опять идёт дождь.	Hujan turun lagi.
+w0204	kebenaran; benar, memang	Скажи мне правду.	Katakan yang sebenarnya padaku.
+w0207	tidak pernah	Я никогда не был в Москве.	Saya belum pernah ke Moskwa.
+w0209	bagian	Большая часть работы сделана.	Sebagian besar pekerjaan sudah selesai.
+w0212	jalan; perjalanan	Эта дорога ведёт в город.	Jalan ini menuju ke kota.
+w0213	cahaya; lampu; dunia	Включи свет, пожалуйста.	Tolong nyalakan lampunya.
+w0214	istri	Моя жена работает врачом.	Istri saya bekerja sebagai dokter.
+w0215	sama sekali tidak ada, tidak satu pun	У меня нет никаких вопросов.	Saya sama sekali tidak punya pertanyaan.
+w0217	jendela	Открой окно.	Buka jendelanya.
+w0218	Rusia	Я хочу поехать в Россию.	Saya ingin pergi ke Rusia.
+w0219	ibu	Мать готовит обед.	Ibu sedang memasak makan siang.
+w0222	Moskwa	Москва — столица России.	Moskwa adalah ibu kota Rusia.
+w0224	jalan (di kota)	Мы живём на этой улице.	Kami tinggal di jalan ini.
+w0226	secara umum; sama sekali	Я вообще не люблю кофе.	Saya sama sekali tidak suka kopi.
+w0227	sebagian, beberapa (tertentu)	Некоторые люди любят зиму.	Sebagian orang menyukai musim dingin.
+w0228	jauh	Он приехал из далёкой страны.	Dia datang dari negeri yang jauh.
+w0229	kecil	У нас маленькая квартира.	Kami punya apartemen kecil.
+w0231	kamar, ruangan	В комнате тихо.	Di kamar itu sepi.
+w0232	pagi	Доброе утро!	Selamat pagi!
+w0234	sore, petang	Мы встретимся вечером.	Kita bertemu nanti petang.
+w0235	hari ini	Сегодня холодно.	Hari ini dingin.
+w0236	jiwa; hati	У него добрая душа.	Hatinya baik.
+w0237	buku	Я читаю интересную книгу.	Saya sedang membaca buku yang menarik.
+w0238	bahu	Он положил руку мне на плечо.	Dia meletakkan tangannya di bahuku.
+w0239	bersama-sama	Мы работаем вместе.	Kami bekerja bersama.
+w0241	sedikit; hampir	Я чуть не упал.	Saya hampir jatuh.
+w0242	lantai; jenis kelamin	Книга упала на пол.	Buku itu jatuh ke lantai.
+w0244	berapa	Сколько это стоит?	Berapa harganya?

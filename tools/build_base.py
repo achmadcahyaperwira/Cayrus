@@ -268,7 +268,7 @@ ODD_SPELLING = {"придтись": "ejaan tidak baku; bentuk baku прийти�
                 "серьезно": "ejaan tanpa ё: серьёзно", "насчет": "ejaan tanpa ё: насчёт",
                 "пошлый": "arti 'vulgar'; periksa apakah maksudnya прошлый (sudah ada #269)",
                 "кой": "kata arkais (кой = какой)"}
-FORCE_POS = {("знать", 569): "noun", ("мало", None): "adv", ("что", None): "pron", ("хотеться", None): "verb"}
+FORCE_POS = {("знать", 569): "noun", ("правда", None): "noun", ("мало", None): "adv", ("что", None): "pron", ("хотеться", None): "verb"}
 
 entries = {}
 order = []
@@ -422,6 +422,8 @@ for i, key in enumerate(order):
             if norm(p.normal_form) == norm(lem):
                 pos = POSMAP.get(p.tag.POS)
                 break
+    if norm(lem) in verb_lemmas and key != "знать#2":
+        pos = "verb"
     if pos is None:
         pos = "noun" if norm(lem) in T["nouns"] else "adj" if norm(lem) in T["adjectives"] else "other"
     if e["service"] and pos not in ("pron", "verb"):

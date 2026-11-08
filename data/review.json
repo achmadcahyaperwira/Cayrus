@@ -1,0 +1,7530 @@
+[
+{
+"ref": "собственный",
+"field": "lemma",
+"value": "собственный",
+"alt": "собстве- нный",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "действительно",
+"field": "lemma",
+"value": "действительно",
+"alt": "действи- тельно",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "рассказывать",
+"field": "lemma",
+"value": "рассказывать",
+"alt": "рассказы- вать",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "происходить",
+"field": "lemma",
+"value": "происходить",
+"alt": "происхо- дить",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "единственный",
+"field": "lemma",
+"value": "единственный",
+"alt": "единст- венный",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "необходимый",
+"field": "lemma",
+"value": "необходимый",
+"alt": "необхо- димый",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "представлять",
+"field": "lemma",
+"value": "представлять",
+"alt": "предста- влять",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "существовать",
+"field": "lemma",
+"value": "существовать",
+"alt": "существо- вать",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "почувствовать",
+"field": "lemma",
+"value": "почувствовать",
+"alt": "почувст- вовать",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "государственный",
+"field": "lemma",
+"value": "государственный",
+"alt": "государс- твенный",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "возвращаться",
+"field": "lemma",
+"value": "возвращаться",
+"alt": "возвраща ться",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "правительство",
+"field": "lemma",
+"value": "правительство",
+"alt": "правите- льство",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "разговаривать",
+"field": "lemma",
+"value": "разговаривать",
+"alt": "разговари- вать",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "удовольствие",
+"field": "lemma",
+"value": "удовольствие",
+"alt": "удовольст -вие",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "председатель",
+"field": "lemma",
+"value": "председатель",
+"alt": "председа- тель",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "деятельность",
+"field": "lemma",
+"value": "деятельность",
+"alt": "деятель- ность",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "пространство",
+"field": "lemma",
+"value": "пространство",
+"alt": "простран- ство",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "производство",
+"field": "lemma",
+"value": "производство",
+"alt": "производ -ство",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "обстоятельство",
+"field": "lemma",
+"value": "обстоятельство",
+"alt": "обстояте- льство",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "представитель",
+"field": "lemma",
+"value": "представитель",
+"alt": "предста- витель",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "одновременно",
+"field": "lemma",
+"value": "одновременно",
+"alt": "одновре- менно",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "нормальный",
+"field": "lemma",
+"value": "нормальный",
+"alt": "нормаль- ный",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "направление",
+"field": "lemma",
+"value": "направление",
+"alt": "направле -ние",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "пользоваться",
+"field": "lemma",
+"value": "пользоваться",
+"alt": "пользова -ться",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "общественный",
+"field": "lemma",
+"value": "общественный",
+"alt": "обществе -нный",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "предприятие",
+"field": "lemma",
+"value": "предприятие",
+"alt": "предприя тие",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "понравиться",
+"field": "lemma",
+"value": "понравиться",
+"alt": "понрави- ться",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "руководитель",
+"field": "lemma",
+"value": "руководитель",
+"alt": "руководи -тель",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "образование",
+"field": "lemma",
+"value": "образование",
+"alt": "образова- ние",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "определенный",
+"field": "lemma",
+"value": "определённый",
+"alt": "определё -нный",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "усмехнуться",
+"field": "lemma",
+"value": "усмехнуться",
+"alt": "усмехну- ться",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "автомобиль",
+"field": "lemma",
+"value": "автомобиль",
+"alt": "автомо- биль",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "человечество",
+"field": "lemma",
+"value": "человечество",
+"alt": "челове- чество",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "национальный",
+"field": "lemma",
+"value": "национальный",
+"alt": "национа- льный",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "предложение",
+"field": "lemma",
+"value": "предложение",
+"alt": "предложе -ние",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "международный",
+"field": "lemma",
+"value": "международный",
+"alt": "междуна- родный",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "здравствовать",
+"field": "lemma",
+"value": "здравствовать",
+"alt": "здравст- вовать",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "руководство",
+"field": "lemma",
+"value": "руководство",
+"alt": "руковод- ство",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "воспоминание",
+"field": "lemma",
+"value": "воспоминание",
+"alt": "воспоми- нание",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "практически",
+"field": "lemma",
+"value": "практически",
+"alt": "практиче- ски",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "существование",
+"field": "lemma",
+"value": "существование",
+"alt": "существо- вание",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "принадлежать",
+"field": "lemma",
+"value": "принадлежать",
+"alt": "принадле -жать",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "преступление",
+"field": "lemma",
+"value": "преступление",
+"alt": "преступ- ление",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "иностранный",
+"field": "lemma",
+"value": "иностранный",
+"alt": "иностра- нный",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "родственник",
+"field": "lemma",
+"value": "родственник",
+"alt": "родствен- ник",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "представление",
+"field": "lemma",
+"value": "представление",
+"alt": "предста- вление",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "неожиданный",
+"field": "lemma",
+"value": "неожиданный",
+"alt": "неожидан- ный",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "превратиться",
+"field": "lemma",
+"value": "превратиться",
+"alt": "преврати- ться",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "познакомиться",
+"field": "lemma",
+"value": "познакомиться",
+"alt": "познакоми -ться",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "необходимость",
+"field": "lemma",
+"value": "необходимость",
+"alt": "необходи- мость",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "сумасшедший",
+"field": "lemma",
+"value": "сумасшедший",
+"alt": "сумасшед- ший",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "интересовать",
+"field": "lemma",
+"value": "интересовать",
+"alt": "интересо- вать",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "соответствующий",
+"field": "lemma",
+"value": "соответствующий",
+"alt": "соответст- вующий",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "официальный",
+"field": "lemma",
+"value": "официальный",
+"alt": "официаль -ный",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "обыкновенный",
+"field": "lemma",
+"value": "обыкновенный",
+"alt": "обыкнове- нный",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "значительный",
+"field": "lemma",
+"value": "значительный",
+"alt": "значитель -ный",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "приближаться",
+"field": "lemma",
+"value": "приближаться",
+"alt": "приближа- ться",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "сомневаться",
+"field": "lemma",
+"value": "сомневаться",
+"alt": "сомнева- ться",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "замечательный",
+"field": "lemma",
+"value": "замечательный",
+"alt": "замечате- льный",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "исследование",
+"field": "lemma",
+"value": "исследование",
+"alt": "исследо- вание",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "любопытство",
+"field": "lemma",
+"value": "любопытство",
+"alt": "любопыт- ство",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "продолжаться",
+"field": "lemma",
+"value": "продолжаться",
+"alt": "продолжа- ться",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "строительство",
+"field": "lemma",
+"value": "строительство",
+"alt": "строитель -ство",
+"reason": "kata terpotong tanda hubung di PDF, disambung otomatis",
+"kind": "check"
+},
+{
+"ref": "v030",
+"field": "pair",
+"value": "работать/отработать",
+"alt": "отрабатывать, поработать, сработать",
+"reason": "pasangan aspek di file berbeda dengan OpenRussian",
+"kind": "uncertain"
+},
+{
+"ref": "v039",
+"field": "pair",
+"value": "искать/найти",
+"alt": "находить, поискать",
+"reason": "pasangan aspek di file berbeda dengan OpenRussian",
+"kind": "uncertain"
+},
+{
+"ref": "v046",
+"field": "pair",
+"value": "ходить/пойти",
+"alt": "сходить",
+"reason": "pasangan aspek di file berbeda dengan OpenRussian",
+"kind": "uncertain"
+},
+{
+"ref": "v085",
+"field": "pair",
+"value": "играть/поиграть",
+"alt": "сыграть",
+"reason": "pasangan aspek di file berbeda dengan OpenRussian",
+"kind": "uncertain"
+},
+{
+"ref": "v096",
+"field": "pair",
+"value": "искать/найти",
+"alt": "находить, поискать",
+"reason": "pasangan aspek di file berbeda dengan OpenRussian",
+"kind": "uncertain"
+},
+{
+"ref": "v102",
+"field": "pair",
+"value": "приезжать/приехать",
+"alt": "ехать/поехать",
+"reason": "file menulis ехать/поехать",
+"kind": "check"
+},
+{
+"ref": "v125",
+"field": "pair",
+"value": "проходить/пройти",
+"alt": "происходить/произойти",
+"reason": "file menulis происходить/произойти",
+"kind": "check"
+},
+{
+"ref": "v132",
+"field": "pair",
+"value": "ipf_only",
+"alt": "",
+"reason": "kolom pasangan aspek kosong di file; aspek dari OpenRussian",
+"kind": "check"
+},
+{
+"ref": "v177",
+"field": "pair",
+"value": "приходиться/прийтись",
+"alt": "приходиться/прийтись",
+"reason": "ejaan tidak baku dari прийтись",
+"kind": "check"
+},
+{
+"ref": "v182",
+"field": "pair",
+"value": "протягивать/протянуть",
+"alt": "протянуть/протягивать",
+"reason": "urutan НСВ/СВ di file terbalik",
+"kind": "check"
+},
+{
+"ref": "v186",
+"field": "pair",
+"value": "взглядывать/взглянуть",
+"alt": "взглянуть/взглядывать",
+"reason": "urutan НСВ/СВ di file terbalik",
+"kind": "check"
+},
+{
+"ref": "v201",
+"field": "pair",
+"value": "нести/понести",
+"alt": "нести/понесит",
+"reason": "salah ketik di file diperbaiki",
+"kind": "check"
+},
+{
+"ref": "v215",
+"field": "pair",
+"value": "носить/понести",
+"alt": "износить, наносить, нести, относить, сносить",
+"reason": "pasangan aspek di file berbeda dengan OpenRussian",
+"kind": "uncertain"
+},
+{
+"ref": "v229",
+"field": "pair",
+"value": "кричать/закричать",
+"alt": "крикнуть",
+"reason": "pasangan aspek di file berbeda dengan OpenRussian",
+"kind": "uncertain"
+},
+{
+"ref": "v345",
+"field": "pair",
+"value": "болеть/заболеть",
+"alt": "заболевать",
+"reason": "pasangan aspek di file berbeda dengan OpenRussian",
+"kind": "uncertain"
+},
+{
+"ref": "v394",
+"field": "pair",
+"value": "готовиться/приготовиться",
+"alt": "готовить/приготовить",
+"reason": "file menulis готовить/приготовить",
+"kind": "uncertain"
+},
+{
+"ref": "v419",
+"field": "pair",
+"value": "успокаиваться/успокоиться",
+"alt": "успокоиться/успокаиваться",
+"reason": "urutan НСВ/СВ di file terbalik",
+"kind": "check"
+},
+{
+"ref": "v421",
+"field": "pair",
+"value": "летать/полететь",
+"alt": "лететь, полетать",
+"reason": "pasangan aspek di file berbeda dengan OpenRussian",
+"kind": "uncertain"
+},
+{
+"ref": "v444",
+"field": "pair",
+"value": "тянуться/вытянуться",
+"alt": "вытягиваться, потянуться, протянуться",
+"reason": "pasangan aspek di file berbeda dengan OpenRussian",
+"kind": "uncertain"
+},
+{
+"ref": "v461",
+"field": "pair",
+"value": "сомневаться/засомневаться",
+"alt": "усомниться",
+"reason": "pasangan aspek di file berbeda dengan OpenRussian",
+"kind": "uncertain"
+},
+{
+"ref": "v468",
+"field": "pair",
+"value": "костить/скостить",
+"alt": "раскостить, скащивать",
+"reason": "pasangan aspek di file berbeda dengan OpenRussian",
+"kind": "uncertain"
+},
+{
+"ref": "w0004",
+"field": "decl.afterPrep.gen",
+"value": "него",
+"alt": "",
+"reason": "kata ganti: satu sumber (pymorphy3); aksen tidak bisa dipastikan → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0004",
+"field": "decl.afterPrep.dat",
+"value": "нему",
+"alt": "",
+"reason": "kata ganti: satu sumber (pymorphy3); aksen tidak bisa dipastikan → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0004",
+"field": "decl.afterPrep.acc",
+"value": "него",
+"alt": "",
+"reason": "kata ganti: satu sumber (pymorphy3); aksen tidak bisa dipastikan → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0006",
+"field": "decl.forms.ins",
+"value": "мной, мною",
+"alt": "",
+"reason": "kata ganti: satu sumber (pymorphy3); aksen tidak bisa dipastikan → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0008",
+"field": "decl.f.ins",
+"value": "той",
+"alt": "то́ю",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0012",
+"field": "decl.f.ins",
+"value": "всей",
+"alt": "все́ю",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0015",
+"field": "decl.afterPrep.ins",
+"value": "ней, нею",
+"alt": "",
+"reason": "kata ganti: satu sumber (pymorphy3); aksen tidak bisa dipastikan → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0015",
+"field": "decl.forms.ins",
+"value": "ей, ею",
+"alt": "",
+"reason": "kata ganti: satu sumber (pymorphy3); aksen tidak bisa dipastikan → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0018",
+"field": "decl.afterPrep.ins",
+"value": "ними",
+"alt": "",
+"reason": "kata ganti: satu sumber (pymorphy3); aksen tidak bisa dipastikan → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0018",
+"field": "decl.forms.ins",
+"value": "ими",
+"alt": "",
+"reason": "kata ganti: satu sumber (pymorphy3); aksen tidak bisa dipastikan → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0022",
+"field": "decl.forms.ins",
+"value": "нами",
+"alt": "",
+"reason": "kata ganti: satu sumber (pymorphy3); aksen tidak bisa dipastikan → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0024",
+"field": "decl.forms.ins",
+"value": "тобой, тобою",
+"alt": "",
+"reason": "kata ganti: satu sumber (pymorphy3); aksen tidak bisa dipastikan → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0025",
+"field": "decl.forms.ins",
+"value": "вами",
+"alt": "",
+"reason": "kata ganti: satu sumber (pymorphy3); aksen tidak bisa dipastikan → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0035",
+"field": "decl.m.nom",
+"value": "оди́н",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0035",
+"field": "decl.m.gen",
+"value": "одного",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0035",
+"field": "decl.m.dat",
+"value": "одному",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0035",
+"field": "decl.m.acc.anim",
+"value": "одного",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0035",
+"field": "decl.m.acc.inan",
+"value": "оди́н",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0035",
+"field": "decl.m.ins",
+"value": "одним",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0035",
+"field": "decl.m.pre",
+"value": "одном",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0035",
+"field": "decl.n.nom",
+"value": "одно",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0035",
+"field": "decl.n.gen",
+"value": "одного",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0035",
+"field": "decl.n.dat",
+"value": "одному",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0035",
+"field": "decl.n.acc",
+"value": "одно",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0035",
+"field": "decl.n.ins",
+"value": "одним",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0035",
+"field": "decl.n.pre",
+"value": "одном",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0035",
+"field": "decl.f.nom",
+"value": "одна",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0035",
+"field": "decl.f.gen",
+"value": "одной",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0035",
+"field": "decl.f.dat",
+"value": "одной",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0035",
+"field": "decl.f.acc",
+"value": "одну",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0035",
+"field": "decl.f.ins",
+"value": "одной, одною",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0035",
+"field": "decl.f.pre",
+"value": "одной",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0035",
+"field": "decl.pl.nom",
+"value": "одни",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0035",
+"field": "decl.pl.gen",
+"value": "одних",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0035",
+"field": "decl.pl.dat",
+"value": "одним",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0035",
+"field": "decl.pl.acc.anim",
+"value": "одних",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0035",
+"field": "decl.pl.acc.inan",
+"value": "одни",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0035",
+"field": "decl.pl.ins",
+"value": "одними",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0035",
+"field": "decl.pl.pre",
+"value": "одних",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0040",
+"field": "decl.forms.ins",
+"value": "собой, собою",
+"alt": "",
+"reason": "kata ganti: satu sumber (pymorphy3); aksen tidak bisa dipastikan → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0046",
+"field": "decl.forms.gen",
+"value": "кого",
+"alt": "",
+"reason": "kata ganti: satu sumber (pymorphy3); aksen tidak bisa dipastikan → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0046",
+"field": "decl.forms.acc",
+"value": "кого",
+"alt": "",
+"reason": "kata ganti: satu sumber (pymorphy3); aksen tidak bisa dipastikan → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0049",
+"field": "decl.sg.pre",
+"value": "году́",
+"alt": "годе",
+"reason": "OpenRussian dan pymorphy3 berbeda → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0063",
+"field": "decl.m.nom",
+"value": "наш",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0063",
+"field": "decl.m.gen",
+"value": "нашего",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0063",
+"field": "decl.m.dat",
+"value": "нашему",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0063",
+"field": "decl.m.acc.anim",
+"value": "нашего",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0063",
+"field": "decl.m.acc.inan",
+"value": "наш",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0063",
+"field": "decl.m.ins",
+"value": "нашим",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0063",
+"field": "decl.m.pre",
+"value": "нашем",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0063",
+"field": "decl.n.nom",
+"value": "наше",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0063",
+"field": "decl.n.gen",
+"value": "нашего",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0063",
+"field": "decl.n.dat",
+"value": "нашему",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0063",
+"field": "decl.n.acc",
+"value": "наше",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0063",
+"field": "decl.n.ins",
+"value": "нашим",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0063",
+"field": "decl.n.pre",
+"value": "нашем",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0063",
+"field": "decl.f.nom",
+"value": "наша",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0063",
+"field": "decl.f.gen",
+"value": "наше́й",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0063",
+"field": "decl.f.dat",
+"value": "наше́й",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0063",
+"field": "decl.f.acc",
+"value": "нашу",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0063",
+"field": "decl.f.ins",
+"value": "наше́й",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0063",
+"field": "decl.f.pre",
+"value": "наше́й",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0063",
+"field": "decl.pl.nom",
+"value": "наши",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0063",
+"field": "decl.pl.gen",
+"value": "наших",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0063",
+"field": "decl.pl.dat",
+"value": "нашим",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0063",
+"field": "decl.pl.acc.anim",
+"value": "наших",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0063",
+"field": "decl.pl.acc.inan",
+"value": "наши",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0063",
+"field": "decl.pl.ins",
+"value": "нашими",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0063",
+"field": "decl.pl.pre",
+"value": "наших",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0072",
+"field": "decl.f.ins",
+"value": "само́й",
+"alt": "самою́",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0074",
+"field": "decl.sg.gen",
+"value": "ра́за",
+"alt": "ра́зу",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0112",
+"field": "decl.forms.dat",
+"value": "чему",
+"alt": "",
+"reason": "kata ganti: satu sumber (pymorphy3); aksen tidak bisa dipastikan → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0113",
+"field": "decl.f.ins",
+"value": "до́лжной",
+"alt": "(до́лжною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0115",
+"field": "decl.n.acc",
+"value": "но́вое",
+"alt": "но́вого",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0132",
+"field": "decl.forms.ins",
+"value": "никем",
+"alt": "",
+"reason": "kata ganti: satu sumber (pymorphy3); aksen tidak bisa dipastikan → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0135",
+"field": "decl.m.nom",
+"value": "ваш",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0135",
+"field": "decl.m.gen",
+"value": "вашего",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0135",
+"field": "decl.m.dat",
+"value": "вашему",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0135",
+"field": "decl.m.acc.anim",
+"value": "вашего",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0135",
+"field": "decl.m.acc.inan",
+"value": "ваш",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0135",
+"field": "decl.m.ins",
+"value": "вашим",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0135",
+"field": "decl.m.pre",
+"value": "вашем",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0135",
+"field": "decl.n.nom",
+"value": "ваше",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0135",
+"field": "decl.n.gen",
+"value": "вашего",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0135",
+"field": "decl.n.dat",
+"value": "вашему",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0135",
+"field": "decl.n.acc",
+"value": "ваше",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0135",
+"field": "decl.n.ins",
+"value": "вашим",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0135",
+"field": "decl.n.pre",
+"value": "вашем",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0135",
+"field": "decl.f.nom",
+"value": "ваша",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0135",
+"field": "decl.f.gen",
+"value": "вашей",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0135",
+"field": "decl.f.dat",
+"value": "вашей",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0135",
+"field": "decl.f.acc",
+"value": "вашу",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0135",
+"field": "decl.f.ins",
+"value": "вашей",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0135",
+"field": "decl.f.pre",
+"value": "вашей",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0135",
+"field": "decl.pl.nom",
+"value": "ваши",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0135",
+"field": "decl.pl.gen",
+"value": "ваших",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0135",
+"field": "decl.pl.dat",
+"value": "вашим",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0135",
+"field": "decl.pl.acc.anim",
+"value": "ваших",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0135",
+"field": "decl.pl.acc.inan",
+"value": "ваши",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0135",
+"field": "decl.pl.ins",
+"value": "вашими",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0135",
+"field": "decl.pl.pre",
+"value": "ваших",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0136",
+"field": "decl.f.ins",
+"value": "ну́жной",
+"alt": "(ну́жною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0143",
+"field": "decl.forms.ins",
+"value": "тремя",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0148",
+"field": "decl.sg.gen",
+"value": "го́лоса",
+"alt": "го́лосу",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0149",
+"field": "decl.sg.pre",
+"value": "ча́се",
+"alt": "часу́",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0152",
+"field": "decl.f.ins",
+"value": "после́дней",
+"alt": "(после́днею)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0159",
+"field": "decl.f.ins",
+"value": "второ́й",
+"alt": "второ́ю",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0176",
+"field": "decl.sg.gen",
+"value": "ви́да",
+"alt": "ви́ду",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0182",
+"field": "decl.sg.pre",
+"value": "ряду́",
+"alt": "ряде",
+"reason": "OpenRussian dan pymorphy3 berbeda → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0193",
+"field": "decl.pl.nom",
+"value": "де́ньги",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0193",
+"field": "decl.pl.gen",
+"value": "де́нег",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0193",
+"field": "decl.pl.dat",
+"value": "деньга́м",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0193",
+"field": "decl.pl.acc",
+"value": "де́ньги",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0193",
+"field": "decl.pl.ins",
+"value": "деньга́ми",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0193",
+"field": "decl.pl.pre",
+"value": "деньга́х",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0197",
+"field": "decl.f.ins",
+"value": "гла́вной",
+"alt": "(гла́вною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0213",
+"field": "decl.pl.nom",
+"value": "све́ты",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0213",
+"field": "decl.pl.gen",
+"value": "све́тов",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0213",
+"field": "decl.pl.dat",
+"value": "све́там",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0213",
+"field": "decl.pl.acc",
+"value": "све́ты",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0213",
+"field": "decl.pl.ins",
+"value": "све́тами",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0213",
+"field": "decl.pl.pre",
+"value": "све́тах",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0215",
+"field": "decl.f.ins",
+"value": "никако́й",
+"alt": "никако́ю",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0218",
+"field": "decl.sg.ins",
+"value": "Росси́ей",
+"alt": "Росси́ею",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0219",
+"field": "decl.pl.ins",
+"value": "матеря́ми",
+"alt": "матерьми́",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0229",
+"field": "decl.f.ins",
+"value": "ма́ленькой",
+"alt": "(ма́ленькою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0242",
+"field": "decl.sg.acc",
+"value": "пол",
+"alt": "пола",
+"reason": "OpenRussian dan pymorphy3 berbeda → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0242",
+"field": "decl.sg.pre",
+"value": "полу́",
+"alt": "поле",
+"reason": "OpenRussian dan pymorphy3 berbeda → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0242",
+"field": "decl.pl.acc",
+"value": "полы́",
+"alt": "полов",
+"reason": "OpenRussian dan pymorphy3 berbeda → dibetulkan manual, status g",
+"kind": "resolved_g"
+},
+{
+"ref": "w0249",
+"field": "accented",
+"value": "зачем",
+"alt": "",
+"reason": "lema tanpa tanda aksen di OpenRussian",
+"kind": "uncertain"
+},
+{
+"ref": "w0251",
+"field": "decl.f.ins",
+"value": "по́лной",
+"alt": "(по́лною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0253",
+"field": "decl.f.ins",
+"value": "любо́й",
+"alt": "любо́ю",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0258",
+"field": "decl.f.ins",
+"value": "изве́стной",
+"alt": "(изве́стною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0278",
+"field": "decl.f.ins",
+"value": "похо́жей",
+"alt": "(похо́жею)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0280",
+"field": "decl.sg.pre",
+"value": "ле́се",
+"alt": "лесу́",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0281",
+"field": "decl.forms.gen",
+"value": "пяти",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w0281",
+"field": "decl.forms.dat",
+"value": "пяти",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w0281",
+"field": "decl.forms.ins",
+"value": "пятью",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w0281",
+"field": "decl.forms.pre",
+"value": "пяти",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w0287",
+"field": "decl.f.ins",
+"value": "кра́сной",
+"alt": "(кра́сною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0289",
+"field": "decl.afterPrep.gen",
+"value": "него",
+"alt": "",
+"reason": "kata ganti: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w0289",
+"field": "decl.afterPrep.dat",
+"value": "нему",
+"alt": "",
+"reason": "kata ganti: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w0289",
+"field": "decl.afterPrep.acc",
+"value": "него",
+"alt": "",
+"reason": "kata ganti: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w0294",
+"field": "decl.f.ins",
+"value": "высо́кой",
+"alt": "(высо́кою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0300",
+"field": "decl.f.ins",
+"value": "ра́нней",
+"alt": "(ра́ннею)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0308",
+"field": "decl.f.ins",
+"value": "огро́мной",
+"alt": "(огро́мною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0310",
+"field": "decl.f.ins",
+"value": "настоя́щей",
+"alt": "(настоя́щею)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0344",
+"field": "decl.mn.gen",
+"value": "обоих, обо́его",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w0344",
+"field": "decl.mn.dat",
+"value": "обоим",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w0344",
+"field": "decl.mn.acc",
+"value": "о́ба, обоих",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w0344",
+"field": "decl.mn.ins",
+"value": "обоими",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w0344",
+"field": "decl.mn.pre",
+"value": "обоих",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w0344",
+"field": "decl.f.nom",
+"value": "обе",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w0344",
+"field": "decl.f.gen",
+"value": "обеих",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w0344",
+"field": "decl.f.dat",
+"value": "обеим",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w0344",
+"field": "decl.f.acc",
+"value": "обе, обеих",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w0344",
+"field": "decl.f.ins",
+"value": "обеими",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w0344",
+"field": "decl.f.pre",
+"value": "обеих",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w0345",
+"field": "decl.f.ins",
+"value": "со́бственной",
+"alt": "(со́бственною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0345",
+"field": "short.n",
+"value": "со́бственна",
+"alt": "собственно",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0345",
+"field": "short.f",
+"value": "со́бственно",
+"alt": "собственна",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0351",
+"field": "decl.f.ins",
+"value": "ра́зной",
+"alt": "(ра́зною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0357",
+"field": "decl.forms.ins",
+"value": "четырьмя",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w0376",
+"field": "decl.f.ins",
+"value": "вели́кой",
+"alt": "(вели́кою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0376",
+"field": "short.m",
+"value": "вели́к",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0376",
+"field": "short.n",
+"value": "велико́",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0376",
+"field": "short.f",
+"value": "велика́",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0376",
+"field": "short.pl",
+"value": "велики́",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0389",
+"field": "decl.f.ins",
+"value": "тяжёлой",
+"alt": "(тяжёлою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0403",
+"field": "decl.forms.gen",
+"value": "десяти",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w0403",
+"field": "decl.forms.dat",
+"value": "десяти",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w0403",
+"field": "decl.forms.ins",
+"value": "десятью",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w0403",
+"field": "decl.forms.pre",
+"value": "десяти",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w0405",
+"field": "decl.f.ins",
+"value": "гото́вой",
+"alt": "(гото́вою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0407",
+"field": "decl.forms.gen",
+"value": "двадцати",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w0407",
+"field": "decl.forms.dat",
+"value": "двадцати",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w0407",
+"field": "decl.forms.ins",
+"value": "двадцатью",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w0407",
+"field": "decl.forms.pre",
+"value": "двадцати",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w0414",
+"field": "decl.f.ins",
+"value": "ли́чной",
+"alt": "(ли́чною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0416",
+"field": "decl.f.ins",
+"value": "дли́нной",
+"alt": "(дли́нною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0427",
+"field": "decl.f.ins",
+"value": "си́льной",
+"alt": "(си́льною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0433",
+"field": "decl.sg.gen",
+"value": "но́са",
+"alt": "но́су",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0439",
+"field": "decl.f.ins",
+"value": "ино́й",
+"alt": "ино́ю",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0442",
+"field": "decl.f.ins",
+"value": "ско́рой",
+"alt": "(ско́рою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0445",
+"field": "decl.f.ins",
+"value": "просто́й",
+"alt": "(просто́ю)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0447",
+"field": "decl.sg.pre",
+"value": "угле́",
+"alt": "углу́",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0451",
+"field": "decl.sg.gen",
+"value": "гру́ди",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w0451",
+"field": "decl.sg.dat",
+"value": "гру́ди",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w0451",
+"field": "decl.sg.acc",
+"value": "грудь",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w0451",
+"field": "decl.sg.ins",
+"value": "грудью",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w0451",
+"field": "decl.sg.pre",
+"value": "гру́ди",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w0451",
+"field": "decl.pl.dat",
+"value": "грудям",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w0451",
+"field": "decl.pl.acc",
+"value": "гру́ди",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w0451",
+"field": "decl.pl.ins",
+"value": "грудями",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w0451",
+"field": "decl.pl.pre",
+"value": "грудях",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w0452",
+"field": "decl.f.ins",
+"value": "вое́нной",
+"alt": "(вое́нною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0457",
+"field": "decl.sg.pre",
+"value": "сне́ге",
+"alt": "снегу́",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0462",
+"field": "lemma",
+"value": "кой",
+"alt": "",
+"reason": "kata arkais (кой = какой)",
+"kind": "uncertain"
+},
+{
+"ref": "w0462",
+"field": "decl.f.ins",
+"value": "ко́ей",
+"alt": "ко́ею",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0485",
+"field": "decl.pl.nom",
+"value": "ве́тра, ветры",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w0485",
+"field": "decl.pl.gen",
+"value": "ветров",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w0485",
+"field": "decl.pl.dat",
+"value": "ветрам",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w0485",
+"field": "decl.pl.acc",
+"value": "ве́тра, ветры",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w0485",
+"field": "decl.pl.ins",
+"value": "ветрами",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w0485",
+"field": "decl.pl.pre",
+"value": "ветрах",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w0490",
+"field": "decl.m.nom",
+"value": "лу́чший",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0490",
+"field": "decl.m.gen",
+"value": "лу́чшего",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0490",
+"field": "decl.m.dat",
+"value": "лу́чшему",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0490",
+"field": "decl.m.acc.anim",
+"value": "лу́чшего",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0490",
+"field": "decl.m.acc.inan",
+"value": "лу́чший",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0490",
+"field": "decl.m.ins",
+"value": "лу́чшим",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0490",
+"field": "decl.m.pre",
+"value": "лу́чшем",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0490",
+"field": "decl.n.nom",
+"value": "лу́чшее",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0490",
+"field": "decl.n.gen",
+"value": "лу́чшего",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0490",
+"field": "decl.n.dat",
+"value": "лу́чшему",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0490",
+"field": "decl.n.acc",
+"value": "лу́чшее",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0490",
+"field": "decl.n.ins",
+"value": "лу́чшим",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0490",
+"field": "decl.n.pre",
+"value": "лу́чшем",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0490",
+"field": "decl.f.nom",
+"value": "лу́чшая",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0490",
+"field": "decl.f.gen",
+"value": "лу́чшей",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0490",
+"field": "decl.f.dat",
+"value": "лу́чшей",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0490",
+"field": "decl.f.acc",
+"value": "лу́чшую",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0490",
+"field": "decl.f.ins",
+"value": "лу́чшей, (лу́чшею)",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0490",
+"field": "decl.f.pre",
+"value": "лу́чшей",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0490",
+"field": "decl.pl.nom",
+"value": "лу́чшие",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0490",
+"field": "decl.pl.gen",
+"value": "лу́чших",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0490",
+"field": "decl.pl.dat",
+"value": "лу́чшим",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0490",
+"field": "decl.pl.acc.anim",
+"value": "лу́чших",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0490",
+"field": "decl.pl.acc.inan",
+"value": "лу́чшие",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0490",
+"field": "decl.pl.ins",
+"value": "лу́чшими",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0490",
+"field": "decl.pl.pre",
+"value": "лу́чших",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0496",
+"field": "decl.f.ins",
+"value": "стра́нной",
+"alt": "(стра́нною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0497",
+"field": "decl.f.ins",
+"value": "стра́шной",
+"alt": "(стра́шною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0499",
+"field": "decl.f.ins",
+"value": "еди́нственной",
+"alt": "(еди́нственною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0504",
+"field": "decl.f.ins",
+"value": "коро́ткой",
+"alt": "(коро́ткою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0506",
+"field": "decl.f.ins",
+"value": "да́нной",
+"alt": "да́нною",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0506",
+"field": "short.m",
+"value": "дан",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0506",
+"field": "short.n",
+"value": "да́но, дано́",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0506",
+"field": "short.f",
+"value": "да́на, дана́",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0506",
+"field": "short.pl",
+"value": "да́ны, даны́",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0507",
+"field": "decl.f.ins",
+"value": "необходи́мой",
+"alt": "(необходи́мою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0510",
+"field": "decl.sg.gen",
+"value": "кра́я",
+"alt": "кра́ю",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0524",
+"field": "decl.f.ins",
+"value": "тёмной",
+"alt": "(тёмною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0528",
+"field": "decl.f.ins",
+"value": "се́рой",
+"alt": "(се́рою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0533",
+"field": "decl.f.ins",
+"value": "основно́й",
+"alt": "(основно́ю)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0547",
+"field": "decl.f.ins",
+"value": "бы́вшей",
+"alt": "(бы́вшею)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0556",
+"field": "decl.f.ins",
+"value": "подо́бной",
+"alt": "(подо́бною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0557",
+"field": "decl.f.ins",
+"value": "широ́кой",
+"alt": "(широ́кою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0564",
+"field": "decl.m.nom",
+"value": "пре́жний",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w0564",
+"field": "decl.m.gen",
+"value": "прежнего",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w0564",
+"field": "decl.m.dat",
+"value": "прежнему",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w0564",
+"field": "decl.m.acc.anim",
+"value": "прежнего",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w0564",
+"field": "decl.m.acc.inan",
+"value": "пре́жний",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w0564",
+"field": "decl.m.ins",
+"value": "прежним",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w0564",
+"field": "decl.m.pre",
+"value": "прежнем",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w0564",
+"field": "decl.n.nom",
+"value": "прежнее",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w0564",
+"field": "decl.n.gen",
+"value": "прежнего",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w0564",
+"field": "decl.n.dat",
+"value": "прежнему",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w0564",
+"field": "decl.n.acc",
+"value": "прежнее",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w0564",
+"field": "decl.n.ins",
+"value": "прежним",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w0564",
+"field": "decl.n.pre",
+"value": "прежнем",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w0564",
+"field": "decl.f.nom",
+"value": "прежняя",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w0564",
+"field": "decl.f.gen",
+"value": "прежней",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w0564",
+"field": "decl.f.dat",
+"value": "прежней",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w0564",
+"field": "decl.f.acc",
+"value": "прежнюю",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w0564",
+"field": "decl.f.ins",
+"value": "прежней, прежнею",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w0564",
+"field": "decl.f.pre",
+"value": "прежней",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w0564",
+"field": "decl.pl.nom",
+"value": "прежние",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w0564",
+"field": "decl.pl.gen",
+"value": "прежних",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w0564",
+"field": "decl.pl.dat",
+"value": "прежним",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w0564",
+"field": "decl.pl.acc.anim",
+"value": "прежних",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w0564",
+"field": "decl.pl.acc.inan",
+"value": "прежние",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w0564",
+"field": "decl.pl.ins",
+"value": "прежними",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w0564",
+"field": "decl.pl.pre",
+"value": "прежних",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w0566",
+"field": "decl.f.ins",
+"value": "небольшо́й",
+"alt": "(небольшо́ю)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0578",
+"field": "decl.f.ins",
+"value": "осо́бой",
+"alt": "(осо́бою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0578",
+"field": "short.m",
+"value": "осо́б",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0578",
+"field": "short.n",
+"value": "осо́бо",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0578",
+"field": "short.f",
+"value": "осо́ба",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0578",
+"field": "short.pl",
+"value": "осо́бы",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0584",
+"field": "decl.f.ins",
+"value": "краси́вой",
+"alt": "(краси́вою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0594",
+"field": "decl.f.ins",
+"value": "бли́зкой",
+"alt": "(бли́зкою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0595",
+"field": "decl.f.ins",
+"value": "чи́стой",
+"alt": "(чи́стою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0604",
+"field": "decl.sg.gen",
+"value": "ду́ха",
+"alt": "ду́ху",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0611",
+"field": "decl.f.ins",
+"value": "чужо́й",
+"alt": "(чужо́ю)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0613",
+"field": "decl.sg.nom",
+"value": "сча́стье",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0613",
+"field": "decl.sg.gen",
+"value": "сча́стья",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0613",
+"field": "decl.sg.dat",
+"value": "сча́стью",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0613",
+"field": "decl.sg.acc",
+"value": "сча́стье",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0613",
+"field": "decl.sg.ins",
+"value": "сча́стьем",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0613",
+"field": "decl.sg.pre",
+"value": "сча́стье",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0613",
+"field": "decl.pl.nom",
+"value": "сча́стья",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0613",
+"field": "decl.pl.gen",
+"value": "сча́стий",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0613",
+"field": "decl.pl.dat",
+"value": "сча́стьям",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0613",
+"field": "decl.pl.acc",
+"value": "сча́стья",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0613",
+"field": "decl.pl.ins",
+"value": "сча́стьями",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0613",
+"field": "decl.pl.pre",
+"value": "сча́стьях",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0615",
+"field": "decl.f.ins",
+"value": "ста́ршей",
+"alt": "(ста́ршею)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0626",
+"field": "decl.f.ins",
+"value": "то́лстой",
+"alt": "(то́лстою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0628",
+"field": "decl.f.ins",
+"value": "пра́вой",
+"alt": "(пра́вою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0644",
+"field": "decl.f.ins",
+"value": "госуда́рственной",
+"alt": "(госуда́рственною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0645",
+"field": "decl.sg.acc",
+"value": "рабо́чего",
+"alt": "рабо́чий",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0645",
+"field": "decl.pl.acc",
+"value": "рабо́чих",
+"alt": "рабо́чие",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0649",
+"field": "decl.f.ins",
+"value": "кру́пной",
+"alt": "(кру́пною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0650",
+"field": "decl.f.ins",
+"value": "откры́той",
+"alt": "(откры́тою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0660",
+"field": "decl.forms.gen",
+"value": "двоих",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w0660",
+"field": "decl.forms.acc",
+"value": "дво́е, двоих",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w0660",
+"field": "decl.forms.ins",
+"value": "двоими",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w0660",
+"field": "decl.forms.pre",
+"value": "двоих",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w0672",
+"field": "decl.sg.pre",
+"value": "бо́е",
+"alt": "бою́",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0675",
+"field": "decl.f.ins",
+"value": "родно́й",
+"alt": "(родно́ю)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0676",
+"field": "decl.f.ins",
+"value": "жёлтой",
+"alt": "(жёлтою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0677",
+"field": "decl.sg.acc",
+"value": "член",
+"alt": "члена",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0677",
+"field": "decl.pl.acc",
+"value": "чле́ны",
+"alt": "членов",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0683",
+"field": "decl.f.ins",
+"value": "обы́чной",
+"alt": "(обы́чною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0685",
+"field": "decl.f.ins",
+"value": "ва́жной",
+"alt": "(ва́жною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0692",
+"field": "decl.f.ins",
+"value": "желе́зной",
+"alt": "(желе́зною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0698",
+"field": "decl.f.ins",
+"value": "остально́й",
+"alt": "остально́ю",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0719",
+"field": "decl.sg.gen",
+"value": "ро́да",
+"alt": "ро́ду",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0728",
+"field": "decl.f.ins",
+"value": "неме́цкой",
+"alt": "(неме́цкою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0731",
+"field": "decl.f.ins",
+"value": "ча́стой",
+"alt": "(ча́стою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0732",
+"field": "decl.f.ins",
+"value": "по́здней",
+"alt": "(по́зднею)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0734",
+"field": "decl.forms.nom",
+"value": "сорок",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w0734",
+"field": "decl.forms.acc",
+"value": "сорок",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w0742",
+"field": "decl.forms.gen",
+"value": "шести",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w0742",
+"field": "decl.forms.dat",
+"value": "шести",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w0742",
+"field": "decl.forms.ins",
+"value": "шестью",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w0742",
+"field": "decl.forms.pre",
+"value": "шести",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w0744",
+"field": "decl.forms.gen",
+"value": "тридцати",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w0744",
+"field": "decl.forms.dat",
+"value": "тридцати",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w0744",
+"field": "decl.forms.ins",
+"value": "тридцатью",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w0744",
+"field": "decl.forms.pre",
+"value": "тридцати",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w0756",
+"field": "lemma",
+"value": "придтись",
+"alt": "",
+"reason": "ejaan tidak baku; bentuk baku прийтись",
+"kind": "uncertain"
+},
+{
+"ref": "w0758",
+"field": "decl.f.ins",
+"value": "уве́ренной",
+"alt": "(уве́ренною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0758",
+"field": "short.n",
+"value": "уве́рено",
+"alt": "уверенно",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0758",
+"field": "short.f",
+"value": "уве́рена",
+"alt": "уверенна",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0758",
+"field": "short.pl",
+"value": "уве́рены",
+"alt": "уверенны",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0767",
+"field": "decl.f.ins",
+"value": "то́нкой",
+"alt": "(то́нкою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0769",
+"field": "decl.f.ins",
+"value": "вну́тренней",
+"alt": "(вну́треннею)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0772",
+"field": "decl.f.ins",
+"value": "ве́рной",
+"alt": "(ве́рною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0779",
+"field": "decl.f.ins",
+"value": "америка́нской",
+"alt": "(америка́нскою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0811",
+"field": "decl.f.ins",
+"value": "бы́строй",
+"alt": "(бы́строю)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0814",
+"field": "decl.f.ins",
+"value": "свя́занной",
+"alt": "(свя́занною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0820",
+"field": "decl.f.ins",
+"value": "до́лгой",
+"alt": "(до́лгою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0824",
+"field": "decl.f.ins",
+"value": "ти́хой",
+"alt": "(ти́хою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0825",
+"field": "decl.f.ins",
+"value": "глубо́кой",
+"alt": "(глубо́кою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0828",
+"field": "decl.f.ins",
+"value": "при́шлой",
+"alt": "(при́шлою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0829",
+"field": "decl.pl.acc",
+"value": "звёзды",
+"alt": "звёзд",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0859",
+"field": "decl.f.ins",
+"value": "ми́лой",
+"alt": "(ми́лою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0860",
+"field": "decl.f.ins",
+"value": "сла́бой",
+"alt": "(сла́бою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0866",
+"field": "decl.pl.acc",
+"value": "те́ней",
+"alt": "тени",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0873",
+"field": "decl.f.ins",
+"value": "голубо́й",
+"alt": "(голубо́ю)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0877",
+"field": "decl.pl.nom",
+"value": "лета́",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0877",
+"field": "decl.pl.gen",
+"value": "лет",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0877",
+"field": "decl.pl.dat",
+"value": "лета́м",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0877",
+"field": "decl.pl.acc",
+"value": "лета́",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0877",
+"field": "decl.pl.ins",
+"value": "лета́ми",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0877",
+"field": "decl.pl.pre",
+"value": "лета́х",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0881",
+"field": "decl.f.ins",
+"value": "ме́лкой",
+"alt": "(ме́лкою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0888",
+"field": "decl.f.ins",
+"value": "де́тской",
+"alt": "(де́тскою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0897",
+"field": "decl.f.ins",
+"value": "весёлой",
+"alt": "(весёлою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0904",
+"field": "decl.sg.nom",
+"value": "бок",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w0904",
+"field": "decl.sg.gen",
+"value": "бока",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w0904",
+"field": "decl.sg.dat",
+"value": "боку",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w0904",
+"field": "decl.sg.acc",
+"value": "бок",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w0904",
+"field": "decl.sg.ins",
+"value": "бо́ком",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w0904",
+"field": "decl.sg.pre",
+"value": "боке",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w0904",
+"field": "decl.pl.nom",
+"value": "бока",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w0904",
+"field": "decl.pl.gen",
+"value": "боков",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w0904",
+"field": "decl.pl.dat",
+"value": "бокам",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w0904",
+"field": "decl.pl.acc",
+"value": "бока",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w0904",
+"field": "decl.pl.ins",
+"value": "боками",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w0904",
+"field": "decl.pl.pre",
+"value": "боках",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w0908",
+"field": "decl.pl.nom",
+"value": "сту́лья",
+"alt": "стулы",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0908",
+"field": "decl.pl.gen",
+"value": "сту́льев",
+"alt": "стулов",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0908",
+"field": "decl.pl.dat",
+"value": "сту́льям",
+"alt": "стулам",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0908",
+"field": "decl.pl.acc",
+"value": "сту́лья",
+"alt": "стулы",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0908",
+"field": "decl.pl.ins",
+"value": "сту́льями",
+"alt": "стулами",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0908",
+"field": "decl.pl.pre",
+"value": "сту́льях",
+"alt": "стулах",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0911",
+"field": "decl.f.ins",
+"value": "совреме́нной",
+"alt": "(совреме́нною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0919",
+"field": "decl.f.ins",
+"value": "спосо́бной",
+"alt": "(спосо́бною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0929",
+"field": "decl.sg.pre",
+"value": "са́де",
+"alt": "саду́",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0932",
+"field": "decl.f.ins",
+"value": "о́строй",
+"alt": "(о́строю)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0935",
+"field": "decl.f.ins",
+"value": "свобо́дной",
+"alt": "(свобо́дною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0943",
+"field": "decl.sg.gen",
+"value": "ды́ма",
+"alt": "ды́му",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0944",
+"field": "decl.m.nom",
+"value": "вы́сший",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0944",
+"field": "decl.m.gen",
+"value": "вы́сшего",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0944",
+"field": "decl.m.dat",
+"value": "вы́сшему",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0944",
+"field": "decl.m.acc.anim",
+"value": "вы́сшего",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0944",
+"field": "decl.m.acc.inan",
+"value": "вы́сший",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0944",
+"field": "decl.m.ins",
+"value": "вы́сшим",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0944",
+"field": "decl.m.pre",
+"value": "вы́сшем",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0944",
+"field": "decl.n.nom",
+"value": "вы́сшее",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0944",
+"field": "decl.n.gen",
+"value": "вы́сшего",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0944",
+"field": "decl.n.dat",
+"value": "вы́сшему",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0944",
+"field": "decl.n.acc",
+"value": "вы́сшее",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0944",
+"field": "decl.n.ins",
+"value": "вы́сшим",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0944",
+"field": "decl.n.pre",
+"value": "вы́сшем",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0944",
+"field": "decl.f.nom",
+"value": "вы́сшая",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0944",
+"field": "decl.f.gen",
+"value": "вы́сшей",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0944",
+"field": "decl.f.dat",
+"value": "вы́сшей",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0944",
+"field": "decl.f.acc",
+"value": "вы́сшую",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0944",
+"field": "decl.f.ins",
+"value": "вы́сшей, вы́сшею",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0944",
+"field": "decl.f.pre",
+"value": "вы́сшей",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0944",
+"field": "decl.pl.nom",
+"value": "вы́сшие",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0944",
+"field": "decl.pl.gen",
+"value": "вы́сших",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0944",
+"field": "decl.pl.dat",
+"value": "вы́сшим",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0944",
+"field": "decl.pl.acc.anim",
+"value": "вы́сших",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0944",
+"field": "decl.pl.acc.inan",
+"value": "вы́сшие",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0944",
+"field": "decl.pl.ins",
+"value": "вы́сшими",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0944",
+"field": "decl.pl.pre",
+"value": "вы́сших",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0944",
+"field": "short.m",
+"value": "высш",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0944",
+"field": "short.n",
+"value": "вы́сше",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0944",
+"field": "short.f",
+"value": "вы́сша",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0944",
+"field": "short.pl",
+"value": "вы́сши",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w0951",
+"field": "decl.f.ins",
+"value": "прямо́й",
+"alt": "(прямо́ю)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0957",
+"field": "decl.f.ins",
+"value": "ночно́й",
+"alt": "(ночно́ю)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0965",
+"field": "decl.f.ins",
+"value": "сухо́й",
+"alt": "(сухо́ю)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0968",
+"field": "decl.forms.gen",
+"value": "семи",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w0968",
+"field": "decl.forms.dat",
+"value": "семи",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w0968",
+"field": "decl.forms.ins",
+"value": "семью",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w0968",
+"field": "decl.forms.pre",
+"value": "семи",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w0980",
+"field": "decl.f.ins",
+"value": "очередно́й",
+"alt": "(очередно́ю)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w0980",
+"field": "short.pl",
+"value": "очередны́",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1005",
+"field": "decl.f.ins",
+"value": "све́жей",
+"alt": "(све́жею)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1009",
+"field": "decl.f.ins",
+"value": "боево́й",
+"alt": "(боево́ю)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1010",
+"field": "decl.f.ins",
+"value": "споко́йной",
+"alt": "(споко́йною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1012",
+"field": "decl.f.ins",
+"value": "здоро́вой",
+"alt": "(здоро́вою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1014",
+"field": "decl.sg.acc",
+"value": "кула́к",
+"alt": "кулака",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1014",
+"field": "decl.pl.acc",
+"value": "кулаки́",
+"alt": "кулаков",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1020",
+"field": "decl.f.ins",
+"value": "дорого́й",
+"alt": "(дорого́ю)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1024",
+"field": "decl.f.ins",
+"value": "кра́йней",
+"alt": "(кра́йнею)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1026",
+"field": "decl.f.ins",
+"value": "интере́сной",
+"alt": "(интере́сною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1035",
+"field": "decl.f.ins",
+"value": "мирово́й",
+"alt": "(мирово́ю)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1035",
+"field": "short.pl",
+"value": "мировы́",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1045",
+"field": "decl.sg.pre",
+"value": "рте",
+"alt": "рту",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1047",
+"field": "decl.f.ins",
+"value": "ма́лой",
+"alt": "(ма́лою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1047",
+"field": "short.m",
+"value": "мал",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1047",
+"field": "short.n",
+"value": "мало́",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1047",
+"field": "short.f",
+"value": "мала́",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1047",
+"field": "short.pl",
+"value": "малы́",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1056",
+"field": "decl.f.ins",
+"value": "у́зкой",
+"alt": "(у́зкою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1069",
+"field": "decl.f.ins",
+"value": "вся́кой",
+"alt": "вся́кою",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1070",
+"field": "decl.f.ins",
+"value": "у́мной",
+"alt": "(у́мною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1071",
+"field": "decl.forms.gen",
+"value": "троих",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w1071",
+"field": "decl.forms.acc",
+"value": "тро́е, троих",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w1071",
+"field": "decl.forms.ins",
+"value": "троими",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w1071",
+"field": "decl.forms.pre",
+"value": "троих",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w1079",
+"field": "decl.f.ins",
+"value": "винова́той",
+"alt": "(винова́тою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1083",
+"field": "decl.f.ins",
+"value": "четвёртой",
+"alt": "(четвёртою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1085",
+"field": "decl.sg.ins",
+"value": "Герма́нией",
+"alt": "Герма́ниею",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1113",
+"field": "decl.f.ins",
+"value": "живо́тной",
+"alt": "(живо́тною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1117",
+"field": "decl.pl.nom",
+"value": "пы́ли",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1117",
+"field": "decl.pl.gen",
+"value": "пы́лей",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1117",
+"field": "decl.pl.dat",
+"value": "пы́лям",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1117",
+"field": "decl.pl.acc",
+"value": "пы́ли",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1117",
+"field": "decl.pl.ins",
+"value": "пы́лями",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1117",
+"field": "decl.pl.pre",
+"value": "пы́лях",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1122",
+"field": "decl.f.ins",
+"value": "разли́чной",
+"alt": "(разли́чною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1129",
+"field": "decl.sg.pre",
+"value": "чёрте",
+"alt": "о черте́",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1139",
+"field": "decl.f.ins",
+"value": "знамени́той",
+"alt": "(знамени́тою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1140",
+"field": "decl.f.ins",
+"value": "норма́льной",
+"alt": "(норма́льною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1153",
+"field": "decl.f.ins",
+"value": "ре́дкой",
+"alt": "(ре́дкою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1154",
+"field": "decl.f.ins",
+"value": "мя́гкой",
+"alt": "(мя́гкою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1156",
+"field": "decl.f.ins",
+"value": "городско́й",
+"alt": "(городско́ю)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1157",
+"field": "decl.f.ins",
+"value": "социа́льной",
+"alt": "(социа́льною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1167",
+"field": "decl.forms.gen",
+"value": "восьми",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w1167",
+"field": "decl.forms.dat",
+"value": "восьми",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w1167",
+"field": "decl.forms.ins",
+"value": "восемью, восьмью",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w1167",
+"field": "decl.forms.pre",
+"value": "восьми",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w1168",
+"field": "lemma",
+"value": "пошлый",
+"alt": "",
+"reason": "arti 'vulgar'; periksa apakah maksudnya прошлый (sudah ada #269)",
+"kind": "uncertain"
+},
+{
+"ref": "w1168",
+"field": "decl.f.ins",
+"value": "по́шлой",
+"alt": "(по́шлою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1173",
+"field": "decl.f.ins",
+"value": "отде́льной",
+"alt": "(отде́льною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1182",
+"field": "decl.f.ins",
+"value": "го́лой",
+"alt": "(го́лою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1183",
+"field": "decl.f.ins",
+"value": "кру́глой",
+"alt": "(кру́глою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1194",
+"field": "decl.f.ins",
+"value": "све́тлой",
+"alt": "(све́тлою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1195",
+"field": "decl.f.ins",
+"value": "деревя́нной",
+"alt": "(деревя́нною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1195",
+"field": "short.m",
+"value": "деревя́нен",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1195",
+"field": "short.n",
+"value": "деревя́нно",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1195",
+"field": "short.f",
+"value": "деревя́нна",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1195",
+"field": "short.pl",
+"value": "деревя́нны",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1202",
+"field": "decl.forms.gen",
+"value": "пятидесяти",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w1202",
+"field": "decl.forms.dat",
+"value": "пятидесяти",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w1202",
+"field": "decl.forms.ins",
+"value": "пятьюдесятью",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w1202",
+"field": "decl.forms.pre",
+"value": "пятидесяти",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w1206",
+"field": "decl.f.ins",
+"value": "ли́шней",
+"alt": "(ли́шнею)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1214",
+"field": "decl.f.ins",
+"value": "англи́йской",
+"alt": "(англи́йскою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1226",
+"field": "decl.f.ins",
+"value": "ны́нешней",
+"alt": "(ны́нешнею)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1236",
+"field": "decl.f.ins",
+"value": "нау́чной",
+"alt": "(нау́чною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1243",
+"field": "decl.m.nom",
+"value": "ближа́йший",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1243",
+"field": "decl.m.gen",
+"value": "ближа́йшего",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1243",
+"field": "decl.m.dat",
+"value": "ближа́йшему",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1243",
+"field": "decl.m.acc.anim",
+"value": "ближа́йшего",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1243",
+"field": "decl.m.acc.inan",
+"value": "ближа́йший",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1243",
+"field": "decl.m.ins",
+"value": "ближа́йшим",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1243",
+"field": "decl.m.pre",
+"value": "ближа́йшем",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1243",
+"field": "decl.n.nom",
+"value": "ближа́йшее",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1243",
+"field": "decl.n.gen",
+"value": "ближа́йшего",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1243",
+"field": "decl.n.dat",
+"value": "ближа́йшему",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1243",
+"field": "decl.n.acc",
+"value": "ближа́йшее",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1243",
+"field": "decl.n.ins",
+"value": "ближа́йшим",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1243",
+"field": "decl.n.pre",
+"value": "ближа́йшем",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1243",
+"field": "decl.f.nom",
+"value": "ближа́йшая",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1243",
+"field": "decl.f.gen",
+"value": "ближа́йшей",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1243",
+"field": "decl.f.dat",
+"value": "ближа́йшей",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1243",
+"field": "decl.f.acc",
+"value": "ближа́йшую",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1243",
+"field": "decl.f.ins",
+"value": "ближа́йшей, ближа́йшею",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1243",
+"field": "decl.f.pre",
+"value": "ближа́йшей",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1243",
+"field": "decl.pl.nom",
+"value": "ближа́йшие",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1243",
+"field": "decl.pl.gen",
+"value": "ближа́йших",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1243",
+"field": "decl.pl.dat",
+"value": "ближа́йшим",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1243",
+"field": "decl.pl.acc.anim",
+"value": "ближа́йших",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1243",
+"field": "decl.pl.acc.inan",
+"value": "ближа́йшие",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1243",
+"field": "decl.pl.ins",
+"value": "ближа́йшими",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1243",
+"field": "decl.pl.pre",
+"value": "ближа́йших",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1246",
+"field": "decl.f.ins",
+"value": "я́ркой",
+"alt": "(я́ркою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1250",
+"field": "decl.pl.acc",
+"value": "существа́",
+"alt": "существ",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1252",
+"field": "decl.f.ins",
+"value": "сосе́дней",
+"alt": "(сосе́днею)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1255",
+"field": "decl.pl.nom",
+"value": "Аме́рики",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1255",
+"field": "decl.pl.gen",
+"value": "Аме́рик",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1255",
+"field": "decl.pl.dat",
+"value": "Аме́рикам",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1255",
+"field": "decl.pl.acc",
+"value": "Аме́рики",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1255",
+"field": "decl.pl.ins",
+"value": "Аме́риками",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1255",
+"field": "decl.pl.pre",
+"value": "Аме́риках",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1266",
+"field": "decl.f.ins",
+"value": "пя́той",
+"alt": "(пя́тою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1271",
+"field": "decl.f.ins",
+"value": "определённой",
+"alt": "(определённою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1277",
+"field": "decl.f.ins",
+"value": "возмо́жной",
+"alt": "(возмо́жною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1284",
+"field": "decl.sg.acc",
+"value": "уча́стка",
+"alt": "участок",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1284",
+"field": "decl.pl.acc",
+"value": "уча́стков",
+"alt": "участки",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1286",
+"field": "decl.f.ins",
+"value": "техни́ческой",
+"alt": "(техни́ческою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1287",
+"field": "decl.f.ins",
+"value": "ви́димой",
+"alt": "(ви́димою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1292",
+"field": "decl.f.ins",
+"value": "злой",
+"alt": "(зло́ю)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1294",
+"field": "decl.f.ins",
+"value": "ди́кой",
+"alt": "(ди́кою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1295",
+"field": "decl.f.ins",
+"value": "наро́дной",
+"alt": "(наро́дною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1301",
+"field": "decl.sg.pre",
+"value": "мо́сте",
+"alt": "мосту́",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1310",
+"field": "decl.f.ins",
+"value": "морско́й",
+"alt": "(морско́ю)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1313",
+"field": "decl.f.ins",
+"value": "сло́жной",
+"alt": "(сло́жною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1314",
+"field": "decl.pl.nom",
+"value": "мя́са",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1314",
+"field": "decl.pl.gen",
+"value": "мяс",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1314",
+"field": "decl.pl.dat",
+"value": "мя́сам",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1314",
+"field": "decl.pl.acc",
+"value": "мя́са",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1314",
+"field": "decl.pl.ins",
+"value": "мя́сами",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1314",
+"field": "decl.pl.pre",
+"value": "мя́сах",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1322",
+"field": "decl.f.ins",
+"value": "да́льней",
+"alt": "(да́льнею)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1322",
+"field": "short.m",
+"value": "да́лен",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1332",
+"field": "decl.f.ins",
+"value": "реа́льной",
+"alt": "(реа́льною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1337",
+"field": "decl.f.ins",
+"value": "национа́льной",
+"alt": "(национа́льною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1339",
+"field": "decl.f.ins",
+"value": "я́сной",
+"alt": "(я́сною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1344",
+"field": "decl.sg.gen",
+"value": "песка́",
+"alt": "песку́",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1347",
+"field": "decl.f.ins",
+"value": "пья́ной",
+"alt": "(пья́ною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1350",
+"field": "decl.f.ins",
+"value": "вне́шней",
+"alt": "(вне́шнею)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1350",
+"field": "short.m",
+"value": "вне́шен",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1350",
+"field": "short.n",
+"value": "вне́шня",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1350",
+"field": "short.f",
+"value": "вне́шне",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1350",
+"field": "short.pl",
+"value": "вне́шни",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1366",
+"field": "decl.f.ins",
+"value": "за́дней",
+"alt": "(за́днею)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1372",
+"field": "short.m",
+"value": "рад",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1372",
+"field": "short.n",
+"value": "ра́до",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1372",
+"field": "short.f",
+"value": "ра́да",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1372",
+"field": "short.pl",
+"value": "ра́ды",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1373",
+"field": "decl.f.ins",
+"value": "ле́тней",
+"alt": "(ле́тнею)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1381",
+"field": "decl.f.ins",
+"value": "опа́сной",
+"alt": "(опа́сною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1382",
+"field": "decl.pl.acc",
+"value": "же́ртвы",
+"alt": "жертв",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1388",
+"field": "decl.f.ins",
+"value": "се́верной",
+"alt": "(се́верною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1391",
+"field": "decl.f.ins",
+"value": "бе́дной",
+"alt": "(бе́дною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1398",
+"field": "decl.f.ins",
+"value": "междунаро́дной",
+"alt": "(междунаро́дною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1401",
+"field": "decl.mn.gen",
+"value": "полутора",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w1401",
+"field": "decl.mn.dat",
+"value": "полутора",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w1401",
+"field": "decl.mn.ins",
+"value": "полутора",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w1401",
+"field": "decl.mn.pre",
+"value": "полутора",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w1401",
+"field": "decl.f.nom",
+"value": "полторы",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w1401",
+"field": "decl.f.gen",
+"value": "полутора",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w1401",
+"field": "decl.f.dat",
+"value": "полутора",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w1401",
+"field": "decl.f.acc",
+"value": "полторы",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w1401",
+"field": "decl.f.ins",
+"value": "полутора",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w1401",
+"field": "decl.f.pre",
+"value": "полутора",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w1402",
+"field": "decl.f.ins",
+"value": "при́нятой",
+"alt": "(при́нятою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1419",
+"field": "decl.f.ins",
+"value": "закры́той",
+"alt": "(закры́тою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1423",
+"field": "accented",
+"value": "установить",
+"alt": "",
+"reason": "lema tanpa tanda aksen di OpenRussian",
+"kind": "uncertain"
+},
+{
+"ref": "w1429",
+"field": "decl.f.ins",
+"value": "еди́ной",
+"alt": "(еди́ною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1435",
+"field": "decl.forms.gen",
+"value": "пятнадцати",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w1435",
+"field": "decl.forms.dat",
+"value": "пятнадцати",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w1435",
+"field": "decl.forms.ins",
+"value": "пятнадцатью",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w1435",
+"field": "decl.forms.pre",
+"value": "пятнадцати",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w1437",
+"field": "decl.f.ins",
+"value": "тру́дной",
+"alt": "(тру́дною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1442",
+"field": "decl.sg.gen",
+"value": "тума́на",
+"alt": "тума́ну",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1443",
+"field": "decl.f.ins",
+"value": "дре́вней",
+"alt": "(дре́внею)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1450",
+"field": "decl.f.ins",
+"value": "густо́й",
+"alt": "(густо́ю)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1452",
+"field": "decl.f.ins",
+"value": "ве́чной",
+"alt": "(ве́чною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1458",
+"field": "decl.pl.dat",
+"value": "церквя́м",
+"alt": "церква́м",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1458",
+"field": "decl.pl.ins",
+"value": "церквя́ми",
+"alt": "церква́ми",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1458",
+"field": "decl.pl.pre",
+"value": "церква́х, о церквя́х",
+"alt": "церквях",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1466",
+"field": "decl.f.ins",
+"value": "про́чей",
+"alt": "(про́чею)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1468",
+"field": "decl.f.ins",
+"value": "поло́женной",
+"alt": "(поло́женною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1470",
+"field": "decl.f.ins",
+"value": "ни́зкой",
+"alt": "(ни́зкою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1485",
+"field": "decl.pl.acc.inan",
+"value": "взро́слые, взрослейшие",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w1485",
+"field": "short.m",
+"value": "взросл",
+"alt": "взро́сел",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1509",
+"field": "decl.f.ins",
+"value": "ро́зовой",
+"alt": "(ро́зовою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1512",
+"field": "decl.f.ins",
+"value": "дальне́йшей",
+"alt": "(дальне́йшею)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1513",
+"field": "decl.pl.acc",
+"value": "моро́зы",
+"alt": "морозов",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1522",
+"field": "decl.sg.nom",
+"value": "остально́е",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1522",
+"field": "decl.sg.gen",
+"value": "остально́го",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1522",
+"field": "decl.sg.dat",
+"value": "остально́му",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1522",
+"field": "decl.sg.acc",
+"value": "остально́е",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1522",
+"field": "decl.sg.ins",
+"value": "остальны́м",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1522",
+"field": "decl.sg.pre",
+"value": "остально́м",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1522",
+"field": "decl.pl.nom",
+"value": "остальны́е",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1522",
+"field": "decl.pl.gen",
+"value": "остальны́х",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1522",
+"field": "decl.pl.dat",
+"value": "остальны́м",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1522",
+"field": "decl.pl.acc",
+"value": "остальны́е",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1522",
+"field": "decl.pl.ins",
+"value": "остальны́ми",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1522",
+"field": "decl.pl.pre",
+"value": "остальны́х",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1529",
+"field": "lemma",
+"value": "честной",
+"alt": "",
+"reason": "kemungkinan maksudnya честный",
+"kind": "uncertain"
+},
+{
+"ref": "w1529",
+"field": "decl.m.nom",
+"value": "че́стной",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w1529",
+"field": "decl.m.gen",
+"value": "че́стного",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w1529",
+"field": "decl.m.dat",
+"value": "че́стному",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w1529",
+"field": "decl.m.acc.anim",
+"value": "че́стного",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w1529",
+"field": "decl.m.acc.inan",
+"value": "че́стной",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w1529",
+"field": "decl.m.ins",
+"value": "че́стным",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w1529",
+"field": "decl.m.pre",
+"value": "че́стном",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w1529",
+"field": "decl.n.nom",
+"value": "че́стное",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w1529",
+"field": "decl.n.gen",
+"value": "че́стного",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w1529",
+"field": "decl.n.dat",
+"value": "че́стному",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w1529",
+"field": "decl.n.acc",
+"value": "че́стное",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w1529",
+"field": "decl.n.ins",
+"value": "че́стным",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w1529",
+"field": "decl.n.pre",
+"value": "че́стном",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w1529",
+"field": "decl.f.nom",
+"value": "че́стная",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w1529",
+"field": "decl.f.gen",
+"value": "че́стной",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w1529",
+"field": "decl.f.dat",
+"value": "че́стной",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w1529",
+"field": "decl.f.acc",
+"value": "че́стную",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w1529",
+"field": "decl.f.ins",
+"value": "че́стной, честною",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w1529",
+"field": "decl.f.pre",
+"value": "че́стной",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w1529",
+"field": "decl.pl.nom",
+"value": "че́стные",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w1529",
+"field": "decl.pl.gen",
+"value": "че́стных",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w1529",
+"field": "decl.pl.dat",
+"value": "че́стным",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w1529",
+"field": "decl.pl.acc.anim",
+"value": "че́стных",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w1529",
+"field": "decl.pl.acc.inan",
+"value": "че́стные",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w1529",
+"field": "decl.pl.ins",
+"value": "че́стными",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w1529",
+"field": "decl.pl.pre",
+"value": "че́стных",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w1547",
+"field": "decl.f.ins",
+"value": "ве́рхней",
+"alt": "(ве́рхнею)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1551",
+"field": "lemma",
+"value": "серьезно",
+"alt": "",
+"reason": "ejaan tanpa ё: серьёзно",
+"kind": "uncertain"
+},
+{
+"ref": "w1554",
+"field": "decl.pl.nom",
+"value": "го́ря",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1554",
+"field": "decl.pl.gen",
+"value": "горь",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1554",
+"field": "decl.pl.dat",
+"value": "го́рям",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1554",
+"field": "decl.pl.acc",
+"value": "го́ря",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1554",
+"field": "decl.pl.ins",
+"value": "го́рями",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1554",
+"field": "decl.pl.pre",
+"value": "го́рях",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1565",
+"field": "decl.sg.nom",
+"value": "шофёр, шофёр",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w1565",
+"field": "decl.sg.gen",
+"value": "шофёра, шофера",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w1565",
+"field": "decl.sg.dat",
+"value": "шофёру, шоферу",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w1565",
+"field": "decl.sg.acc",
+"value": "шофёра, шофера",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w1565",
+"field": "decl.sg.ins",
+"value": "шофёром, шофером",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w1565",
+"field": "decl.sg.pre",
+"value": "шофёре, шофере",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w1565",
+"field": "decl.pl.nom",
+"value": "шофёры",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w1565",
+"field": "decl.pl.gen",
+"value": "шофёров, шоферов",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w1565",
+"field": "decl.pl.dat",
+"value": "шофёрам, шоферам",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w1565",
+"field": "decl.pl.acc",
+"value": "шофёров, шоферов",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w1565",
+"field": "decl.pl.ins",
+"value": "шофёрами, шоферами",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w1565",
+"field": "decl.pl.pre",
+"value": "шофёрах, шоферах",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w1588",
+"field": "decl.sg.gen",
+"value": "полка́",
+"alt": "полку́",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1588",
+"field": "decl.sg.pre",
+"value": "полку́",
+"alt": "полке",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1615",
+"field": "decl.f.ins",
+"value": "не́рвной",
+"alt": "(не́рвною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1632",
+"field": "decl.f.ins",
+"value": "ни́жней",
+"alt": "(ни́жнею)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1632",
+"field": "short.m",
+"value": "—",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1635",
+"field": "decl.f.ins",
+"value": "неожи́данной",
+"alt": "(неожи́данною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1636",
+"field": "decl.f.ins",
+"value": "за́нятой",
+"alt": "(за́нятою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1644",
+"field": "decl.f.ins",
+"value": "мо́щной",
+"alt": "(мо́щною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1651",
+"field": "decl.f.ins",
+"value": "дово́льной",
+"alt": "(дово́льною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1652",
+"field": "lemma",
+"value": "твердый",
+"alt": "",
+"reason": "ejaan tanpa ё: твёрдый",
+"kind": "uncertain"
+},
+{
+"ref": "w1652",
+"field": "decl.f.ins",
+"value": "твёрдой",
+"alt": "(твёрдою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1657",
+"field": "decl.f.ins",
+"value": "вы́нужденной",
+"alt": "(вы́нужденною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1657",
+"field": "short.n",
+"value": "вы́нуждено",
+"alt": "вынужденно",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1657",
+"field": "short.f",
+"value": "вы́нуждена",
+"alt": "вынужденна",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1657",
+"field": "short.pl",
+"value": "вы́нуждены",
+"alt": "вынужденны",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1667",
+"field": "decl.f.ins",
+"value": "бо́льшей",
+"alt": "(бо́льшею)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1671",
+"field": "decl.f.ins",
+"value": "оде́той",
+"alt": "(оде́тою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1678",
+"field": "decl.f.ins",
+"value": "со́лнечной",
+"alt": "(со́лнечною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1680",
+"field": "short.m",
+"value": "дома́шен",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1701",
+"field": "decl.f.ins",
+"value": "бле́дной",
+"alt": "(бле́дною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1718",
+"field": "decl.f.ins",
+"value": "обя́занной",
+"alt": "(обя́занною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1746",
+"field": "decl.f.ins",
+"value": "свято́й",
+"alt": "(свято́ю)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1759",
+"field": "decl.f.ins",
+"value": "физи́ческой",
+"alt": "(физи́ческою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1761",
+"field": "decl.f.ins",
+"value": "несча́стной",
+"alt": "(несча́стною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1763",
+"field": "decl.f.ins",
+"value": "глухо́й",
+"alt": "(глухо́ю)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1767",
+"field": "decl.sg.pre",
+"value": "бо́рте",
+"alt": "борту́",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1768",
+"field": "decl.f.ins",
+"value": "сумасше́дшей",
+"alt": "(сумасше́дшею)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1771",
+"field": "decl.f.ins",
+"value": "уби́той",
+"alt": "(уби́тою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1773",
+"field": "decl.f.ins",
+"value": "осо́бенной",
+"alt": "(осо́бенною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1773",
+"field": "short.m",
+"value": "осо́бенен",
+"alt": "особен",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1782",
+"field": "decl.f.ins",
+"value": "соотве́тствующей",
+"alt": "(соотве́тствующею)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1783",
+"field": "decl.f.ins",
+"value": "ча́стной",
+"alt": "(ча́стною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1785",
+"field": "decl.f.ins",
+"value": "официа́льной",
+"alt": "(официа́льною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1792",
+"field": "decl.f.ins",
+"value": "обыкнове́нной",
+"alt": "(обыкнове́нною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1797",
+"field": "decl.f.ins",
+"value": "пожило́й",
+"alt": "(пожило́ю)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1800",
+"field": "lemma",
+"value": "лед",
+"alt": "",
+"reason": "ejaan tanpa ё: лёд",
+"kind": "uncertain"
+},
+{
+"ref": "w1800",
+"field": "decl.sg.pre",
+"value": "льде",
+"alt": "льду",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1809",
+"field": "decl.f.ins",
+"value": "значи́тельной",
+"alt": "(значи́тельною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1817",
+"field": "decl.f.ins",
+"value": "согла́сной",
+"alt": "(согла́сною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1819",
+"field": "decl.f.ins",
+"value": "седо́й",
+"alt": "(седо́ю)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1822",
+"field": "decl.f.ins",
+"value": "блестя́щей",
+"alt": "(блестя́щею)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1825",
+"field": "decl.f.ins",
+"value": "непоня́тной",
+"alt": "(непоня́тною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1831",
+"field": "decl.f.ins",
+"value": "восто́чной",
+"alt": "(восто́чною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1843",
+"field": "decl.f.ins",
+"value": "стро́гой",
+"alt": "(стро́гою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1843",
+"field": "short.pl",
+"value": "стро́ги строги́",
+"alt": "строги",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1846",
+"field": "decl.f.ins",
+"value": "гражда́нской",
+"alt": "(гражда́нскою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1851",
+"field": "decl.sg.nom",
+"value": "по́лчаса, получа́с",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w1851",
+"field": "decl.sg.gen",
+"value": "получа́са",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w1851",
+"field": "decl.sg.dat",
+"value": "получа́су",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w1851",
+"field": "decl.sg.acc",
+"value": "по́лчаса, получа́с",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w1851",
+"field": "decl.sg.ins",
+"value": "получа́сом",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w1851",
+"field": "decl.sg.pre",
+"value": "получа́се",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w1851",
+"field": "decl.pl.nom",
+"value": "по́лчаса, получа́сы",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w1851",
+"field": "decl.pl.gen",
+"value": "получа́сов",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w1851",
+"field": "decl.pl.dat",
+"value": "получа́сам",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w1851",
+"field": "decl.pl.acc",
+"value": "по́лчаса, получа́сы",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w1851",
+"field": "decl.pl.ins",
+"value": "получа́сами",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w1851",
+"field": "decl.pl.pre",
+"value": "получа́сах",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "w1854",
+"field": "decl.forms.gen",
+"value": "двенадцати",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w1854",
+"field": "decl.forms.dat",
+"value": "двенадцати",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w1854",
+"field": "decl.forms.ins",
+"value": "двенадцатью",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w1854",
+"field": "decl.forms.pre",
+"value": "двенадцати",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w1864",
+"field": "lemma",
+"value": "столовый",
+"alt": "",
+"reason": "kemungkinan maksudnya столовая (ruang makan)",
+"kind": "uncertain"
+},
+{
+"ref": "w1864",
+"field": "decl.f.ins",
+"value": "столо́вой",
+"alt": "(столо́вою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1864",
+"field": "short.m",
+"value": "столо́в",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1864",
+"field": "short.n",
+"value": "столо́во",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1864",
+"field": "short.f",
+"value": "столо́ва",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1864",
+"field": "short.pl",
+"value": "столо́вы",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1865",
+"field": "decl.f.ins",
+"value": "сты́дной",
+"alt": "(сты́дною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1872",
+"field": "decl.f.ins",
+"value": "замеча́тельной",
+"alt": "(замеча́тельною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1873",
+"field": "decl.f.ins",
+"value": "вре́менной",
+"alt": "(вре́менною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1896",
+"field": "decl.f.ins",
+"value": "ю́ной",
+"alt": "(ю́ною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1904",
+"field": "decl.f.ins",
+"value": "печа́льной",
+"alt": "(печа́льною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1914",
+"field": "decl.f.ins",
+"value": "лесно́й",
+"alt": "(лесно́ю)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1915",
+"field": "decl.f.ins",
+"value": "есте́ственной",
+"alt": "(есте́ственною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1927",
+"field": "decl.forms.gen",
+"value": "девяти",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w1927",
+"field": "decl.forms.dat",
+"value": "девяти",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w1927",
+"field": "decl.forms.pre",
+"value": "девяти",
+"alt": "",
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "w1937",
+"field": "decl.f.ins",
+"value": "пере́дней",
+"alt": "(пере́днею)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1938",
+"field": "decl.pl.nom",
+"value": "севера́",
+"alt": "северы",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1938",
+"field": "decl.pl.acc",
+"value": "севера́",
+"alt": "северы",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "w1942",
+"field": "decl.f.ins",
+"value": "ю́жной",
+"alt": "(ю́жною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1950",
+"field": "decl.f.ins",
+"value": "семе́йной",
+"alt": "(семе́йною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1964",
+"field": "decl.f.ins",
+"value": "одино́кой",
+"alt": "(одино́кою)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "w1976",
+"field": "decl.f.ins",
+"value": "привы́чной",
+"alt": "(привы́чною)",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "ws053",
+"field": "decl.forms.dat",
+"value": "нечему",
+"alt": "",
+"reason": "kata ganti: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "ws053",
+"field": "decl.forms.ins",
+"value": "нечем",
+"alt": "",
+"reason": "kata ganti: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
+"kind": "uncertain"
+},
+{
+"ref": "ws102",
+"field": "lemma",
+"value": "насчет",
+"alt": "",
+"reason": "ejaan tanpa ё: насчёт",
+"kind": "uncertain"
+},
+{
+"ref": "p001.ipf",
+"field": "pres.1sg",
+"value": "есть",
+"alt": "есмь",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p001.ipf",
+"field": "pres.2sg",
+"value": "есть",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p001.ipf",
+"field": "pres.1pl",
+"value": "есть",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p001.ipf",
+"field": "pres.2pl",
+"value": "есть",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p082.pf",
+"field": "imp.sg",
+"value": "приезжа́й",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p082.pf",
+"field": "imp.pl",
+"value": "приезжа́йте",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p112.pf",
+"field": "fut.1sg",
+"value": "хвачу́",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p112.pf",
+"field": "fut.2sg",
+"value": "хва́тишь",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p112.pf",
+"field": "fut.3sg",
+"value": "хва́тит",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p112.pf",
+"field": "fut.1pl",
+"value": "хва́тим",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p112.pf",
+"field": "fut.2pl",
+"value": "хва́тите",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p112.pf",
+"field": "fut.3pl",
+"value": "хва́тят",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p112.pf",
+"field": "past.m",
+"value": "хвати́л",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p112.pf",
+"field": "past.f",
+"value": "хвати́ла",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p112.pf",
+"field": "past.pl",
+"value": "хвати́ли",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p112.pf",
+"field": "imp.sg",
+"value": "хвати́",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p112.pf",
+"field": "imp.pl",
+"value": "хвати́те",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p131.pf",
+"field": "past.f",
+"value": "исче́зла",
+"alt": "исче́знула",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "p131.pf",
+"field": "past.n",
+"value": "исче́зло",
+"alt": "исче́знуло",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "p131.pf",
+"field": "past.pl",
+"value": "исче́зли",
+"alt": "исче́знули",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "p136.pf",
+"field": "fut.1sg",
+"value": "спе́ю",
+"alt": "спою",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p136.pf",
+"field": "fut.2sg",
+"value": "спе́ешь",
+"alt": "споёшь",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p136.pf",
+"field": "fut.3sg",
+"value": "спе́ет",
+"alt": "споёт",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p136.pf",
+"field": "fut.1pl",
+"value": "спе́ем",
+"alt": "споём",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p136.pf",
+"field": "fut.2pl",
+"value": "спе́ете",
+"alt": "споёте",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p136.pf",
+"field": "fut.3pl",
+"value": "спе́ют",
+"alt": "споют",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p136.pf",
+"field": "imp.sg",
+"value": "спей",
+"alt": "спой",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p136.pf",
+"field": "imp.pl",
+"value": "спе́йте",
+"alt": "спойте",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p147.pf",
+"field": "imp.sg",
+"value": "уезжа́й",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p147.pf",
+"field": "imp.pl",
+"value": "уезжа́йте",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p158.pf",
+"field": "past.m",
+"value": "возни́к",
+"alt": "возни́кнул",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "p158.pf",
+"field": "past.f",
+"value": "возни́кла",
+"alt": "возни́кнула",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "p158.pf",
+"field": "past.n",
+"value": "возни́кло",
+"alt": "возни́кнуло",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "p158.pf",
+"field": "past.pl",
+"value": "возни́кли",
+"alt": "возни́кнули",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "p160.pf",
+"field": "past.m",
+"value": "поги́б",
+"alt": "поги́бнул",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "p160.pf",
+"field": "past.f",
+"value": "поги́бла",
+"alt": "поги́бнула",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "p160.pf",
+"field": "past.n",
+"value": "поги́бло",
+"alt": "поги́бнуло",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "p160.pf",
+"field": "past.pl",
+"value": "поги́бли",
+"alt": "поги́бнули",
+"reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
+"kind": "info"
+},
+{
+"ref": "p163.ipf",
+"field": "imp.sg",
+"value": "дви́жься",
+"alt": "двигайся",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p163.ipf",
+"field": "imp.pl",
+"value": "дви́жьтесь",
+"alt": "двигайтесь",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p197.pf",
+"field": "imp.sg",
+"value": "вы́тащь",
+"alt": "вытащи",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p197.pf",
+"field": "imp.pl",
+"value": "вы́тащьте",
+"alt": "вытащите",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p245.pf",
+"field": "imp.sg",
+"value": "вы́держь",
+"alt": "выдержи",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p245.pf",
+"field": "imp.pl",
+"value": "вы́держьте",
+"alt": "выдержите",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p251.pf",
+"field": "fut.1sg",
+"value": "пожму́",
+"alt": "пожну",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p251.pf",
+"field": "fut.2sg",
+"value": "пожмёшь",
+"alt": "пожнёшь",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p251.pf",
+"field": "fut.3sg",
+"value": "пожмёт",
+"alt": "пожнёт",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p251.pf",
+"field": "fut.1pl",
+"value": "пожмём",
+"alt": "пожнём",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p251.pf",
+"field": "fut.2pl",
+"value": "пожмёте",
+"alt": "пожнёте",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p251.pf",
+"field": "fut.3pl",
+"value": "пожму́т",
+"alt": "пожнут",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p251.pf",
+"field": "imp.sg",
+"value": "пожми́",
+"alt": "пожни",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p251.pf",
+"field": "imp.pl",
+"value": "пожми́те",
+"alt": "пожните",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p258.ipf",
+"field": "pres.1sg",
+"value": "видаю",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "p258.ipf",
+"field": "pres.2sg",
+"value": "видаешь",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "p258.ipf",
+"field": "pres.3sg",
+"value": "видает",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "p258.ipf",
+"field": "pres.1pl",
+"value": "видаем",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "p258.ipf",
+"field": "pres.2pl",
+"value": "видаете",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "p258.ipf",
+"field": "pres.3pl",
+"value": "видают",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "p258.ipf",
+"field": "imp.sg",
+"value": "видай",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "p258.ipf",
+"field": "imp.pl",
+"value": "видайте",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "p283.ipf",
+"field": "pres.1sg",
+"value": "сто́ю",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p283.ipf",
+"field": "pres.2sg",
+"value": "сто́ишь",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p283.ipf",
+"field": "pres.3sg",
+"value": "сто́ит",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p283.ipf",
+"field": "pres.1pl",
+"value": "сто́им",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p283.ipf",
+"field": "pres.2pl",
+"value": "сто́ите",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p283.ipf",
+"field": "pres.3pl",
+"value": "сто́ят",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p283.ipf",
+"field": "past.m",
+"value": "сто́ил",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p283.ipf",
+"field": "past.f",
+"value": "сто́ила",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p283.ipf",
+"field": "past.pl",
+"value": "сто́или",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p283.ipf",
+"field": "imp.sg",
+"value": "стой",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p283.ipf",
+"field": "imp.pl",
+"value": "сто́йте",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p300",
+"field": "ipf.aspect",
+"value": "сойти",
+"alt": "",
+"reason": "kamus menandai kata kerja ini СВ, file menempatkannya sebagai НСВ",
+"kind": "uncertain"
+},
+{
+"ref": "p300.pf",
+"field": "fut.1sg",
+"value": "схожу",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "p300.pf",
+"field": "fut.2sg",
+"value": "сходишь",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "p300.pf",
+"field": "fut.3sg",
+"value": "сходит",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "p300.pf",
+"field": "fut.1pl",
+"value": "сходим",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "p300.pf",
+"field": "fut.2pl",
+"value": "сходи́те",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "p300.pf",
+"field": "fut.3pl",
+"value": "сходят",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "p301.ipf",
+"field": "past.m",
+"value": "звучал",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "p301.ipf",
+"field": "past.f",
+"value": "звучала",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "p301.ipf",
+"field": "past.n",
+"value": "звучало",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "p301.ipf",
+"field": "past.pl",
+"value": "звучали",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "p301.ipf",
+"field": "imp.sg",
+"value": "звучи",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "p301.ipf",
+"field": "imp.pl",
+"value": "звучи́те",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "p301.pf",
+"field": "pres.1sg",
+"value": "прозвучу́",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p301.pf",
+"field": "pres.2sg",
+"value": "прозвучи́шь",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p301.pf",
+"field": "pres.3sg",
+"value": "прозвучи́т",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p301.pf",
+"field": "pres.1pl",
+"value": "прозвучи́м",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p301.pf",
+"field": "pres.2pl",
+"value": "прозвучи́те",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p301.pf",
+"field": "pres.3pl",
+"value": "прозвуча́т",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p301",
+"field": "pf.aspect",
+"value": "прозвучать",
+"alt": "",
+"reason": "kamus menandai kata kerja ini НСВ, file menempatkannya sebagai СВ",
+"kind": "uncertain"
+},
+{
+"ref": "p345.pf",
+"field": "imp.sg",
+"value": "вы́тянись",
+"alt": "вытянься",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p345.pf",
+"field": "imp.pl",
+"value": "вы́тянитесь",
+"alt": "вытяньтесь",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p372.ipf",
+"field": "pres.1sg",
+"value": "схожу",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "p372.ipf",
+"field": "pres.2sg",
+"value": "сходишь",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "p372.ipf",
+"field": "pres.3sg",
+"value": "сходит",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "p372.ipf",
+"field": "pres.1pl",
+"value": "сходим",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "p372.ipf",
+"field": "pres.2pl",
+"value": "сходи́те",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "p372.ipf",
+"field": "pres.3pl",
+"value": "сходят",
+"alt": "",
+"reason": "OpenRussian kosong; bentuk dari pymorphy3 saja",
+"kind": "uncertain"
+},
+{
+"ref": "p380.pf",
+"field": "imp.sg",
+"value": "вы́тащь",
+"alt": "вытащи",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p380.pf",
+"field": "imp.pl",
+"value": "вы́тащьте",
+"alt": "вытащите",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p385.pf",
+"field": "fut.1sg",
+"value": "дождала́ю́сь",
+"alt": "дождусь, дождуся",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p385.pf",
+"field": "fut.2sg",
+"value": "дождалаёшься",
+"alt": "дождёшься",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p385.pf",
+"field": "fut.3sg",
+"value": "дождалаётся",
+"alt": "дождётся",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p385.pf",
+"field": "fut.1pl",
+"value": "дождалаёмся",
+"alt": "дождёмся",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p385.pf",
+"field": "fut.2pl",
+"value": "дождалаётесь",
+"alt": "дождётесь",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p385.pf",
+"field": "fut.3pl",
+"value": "дождала́ю́тся",
+"alt": "дождутся",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p385.pf",
+"field": "imp.sg",
+"value": "дождала́и́сь",
+"alt": "дождись",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p385.pf",
+"field": "imp.pl",
+"value": "дождала́и́тесь",
+"alt": "дождитесь",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+},
+{
+"ref": "p399.ipf",
+"field": "pres.3sg",
+"value": "хо́чется",
+"alt": "",
+"reason": "OpenRussian dan pymorphy3 berbeda",
+"kind": "uncertain"
+}
+]

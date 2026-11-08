@@ -1,0 +1,13 @@
+{
+ "batches": {
+  "W01": {
+   "entries": 184,
+   "written": 138,
+   "linked_verbs": 46,
+   "examples": 138,
+   "fixes": 41,
+   "problems": []
+  }
+ },
+ "problems": []
+}

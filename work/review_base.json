@@ -5056,14 +5056,6 @@
   "kind": "info"
  },
  {
-  "ref": "w1341",
-  "field": "decl.pl.pre",
-  "value": "про́пастях",
-  "alt": "о пропастя́х",
-  "reason": "varian OpenRussian tidak dikenal pymorphy3; varian ini dibuang",
-  "kind": "info"
- },
- {
   "ref": "w1344",
   "field": "decl.sg.gen",
   "value": "песка́",
