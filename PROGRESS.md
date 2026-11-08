@@ -7,8 +7,8 @@ Rujukan: PRD "CayRus: Aplikasi Hafalan Kosakata Rusia–Indonesia (PWA)" (disetu
 | # | Milestone | Status |
 | --- | --- | --- |
 | M1 | Data dasar | Selesai 8 Nov 2026 (koreksi kelas kata: мочь → kata kerja, правда → kata benda) |
-| M2 | Batch kata W01–W10 | Berjalan |
-| M3 | Batch kata kerja V01–V03 | Belum |
+| M2 | Batch kata W01–W10 | Selesai 8 Nov 2026 |
+| M3 | Batch kata kerja V01–V03 | Berikutnya |
 | M4 | Grammar + bank soal | Belum |
 | M5 | Aplikasi PWA | Belum |
 | M6 | Pengujian | Belum |
@@ -27,7 +27,7 @@ Rujukan: PRD "CayRus: Aplikasi Hafalan Kosakata Rusia–Indonesia (PWA)" (disetu
 | W07 | 184 | 135 | 49 | Selesai: 135 terjemahan + contoh, 30 perbaikan bentuk, 6 [uncertain] (jamak мясо) |
 | W08 | 184 | 135 | 49 | Selesai: 135 terjemahan + contoh, 26 perbaikan bentuk, 29 [uncertain] (semua dari lema janggal честной) |
 | W09 | 184 | 129 | 55 | Selesai: 129 terjemahan + contoh, 33 perbaikan bentuk (страсть → kata benda), 2 [uncertain] (lema лед, столовый) |
-| W10 | 185 | 173 | 12 | Belum — batch berikutnya |
+| W10 | 185 | 173 | 12 | Selesai: 173 terjemahan + contoh (termasuk 109 kata tugas), 8 perbaikan, 1 [uncertain] (lema насчет) |
 
 Kata kerja yang ada di file kata kerja mendapat terjemahan dan contoh di batch V (data dipakai bersama).
 

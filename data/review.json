@@ -6548,24 +6548,24 @@
 "field": "decl.forms.gen",
 "value": "девяти",
 "alt": "",
-"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
-"kind": "uncertain"
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "w1927",
 "field": "decl.forms.dat",
 "value": "девяти",
 "alt": "",
-"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
-"kind": "uncertain"
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "w1927",
 "field": "decl.forms.pre",
 "value": "девяти",
 "alt": "",
-"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
-"kind": "uncertain"
+"reason": "bilangan: satu sumber (pymorphy3); aksen tidak bisa dipastikan → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "w1937",
@@ -6580,16 +6580,16 @@
 "field": "decl.pl.nom",
 "value": "севера́",
 "alt": "северы",
-"reason": "OpenRussian dan pymorphy3 berbeda",
-"kind": "uncertain"
+"reason": "OpenRussian dan pymorphy3 berbeda → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "w1938",
 "field": "decl.pl.acc",
 "value": "севера́",
 "alt": "северы",
-"reason": "OpenRussian dan pymorphy3 berbeda",
-"kind": "uncertain"
+"reason": "OpenRussian dan pymorphy3 berbeda → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "w1942",
@@ -6628,16 +6628,16 @@
 "field": "decl.forms.dat",
 "value": "нечему",
 "alt": "",
-"reason": "kata ganti: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
-"kind": "uncertain"
+"reason": "kata ganti: satu sumber (pymorphy3); aksen tidak bisa dipastikan → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "ws053",
 "field": "decl.forms.ins",
 "value": "нечем",
 "alt": "",
-"reason": "kata ganti: satu sumber (pymorphy3); aksen tidak bisa dipastikan",
-"kind": "uncertain"
+"reason": "kata ganti: satu sumber (pymorphy3); aksen tidak bisa dipastikan → dibetulkan manual, status g",
+"kind": "resolved_g"
 },
 {
 "ref": "ws102",
