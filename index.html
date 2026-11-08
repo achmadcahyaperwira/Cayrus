@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>CayRus</title>
+<meta name="description" content="Hafalan kosakata Rusia–Indonesia: 1.841 kata, 500 kata kerja, dan latihan падеж. Bisa dipakai offline.">
+<meta name="theme-color" content="#1E3A5F">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" type="image/png" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="CayRus">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<link rel="preload" href="fonts/noto-sans-400Regular.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+<header class="top">
+  <a href="#/" class="brand" aria-label="CayRus, beranda">Cay<span>Rus</span></a>
+  <a href="#/tentang" class="top-link">Tentang</a>
+</header>
+<main id="view" tabindex="-1"><p class="loading">Memuat data…</p></main>
+<nav class="tabs" aria-label="Navigasi utama">
+  <a href="#/" data-tab="home"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 10.5 12 3l9 7.5V20a1 1 0 0 1-1 1h-5v-6h-6v6H4a1 1 0 0 1-1-1z"/></svg><span>Beranda</span></a>
+  <a href="#/kamus" data-tab="kamus"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 3h11a3 3 0 0 1 3 3v15H8a3 3 0 0 1-3-3zm3 15h9v-2H8a1 1 0 0 0 0 2zM8 7v2h7V7z"/></svg><span>Kamus</span></a>
+  <a href="#/hafalan" data-tab="hafalan"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 4h12a1 1 0 0 1 1 1v12a1 1 0 0 1-1 1H7a1 1 0 0 1-1-1V5a1 1 0 0 1 1-1zM3 8h2v12h12v2H4a1 1 0 0 1-1-1z"/></svg><span>Hafalan</span></a>
+  <a href="#/grammar" data-tab="grammar"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v3H4zm0 5.5h10v3H4zM4 16h16v3H4z"/></svg><span>Grammar</span></a>
+</nav>
+<script type="module" src="app.js"></script>
+</body>
+</html>

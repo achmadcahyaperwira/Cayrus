@@ -10,9 +10,9 @@ Rujukan: PRD "CayRus: Aplikasi Hafalan Kosakata Rusia–Indonesia (PWA)" (disetu
 | M2 | Batch kata W01–W10 | Selesai 8 Nov 2026 |
 | M3 | Batch kata kerja V01–V03 | Selesai 8 Nov 2026 |
 | M4 | Grammar + bank soal | Selesai 8 Nov 2026: 6 kasus × 4 contoh, 145 soal (49 pilihan ganda, 48 isian, 48 pilih kasus), semua dari bentuk v |
-| M5 | Aplikasi PWA | Berikutnya |
-| M6 | Pengujian | Belum |
-| M7 | Serah terima (push ke achmadcahyaperwira/Cayrus) | Belum |
+| M5 | Aplikasi PWA | Selesai 8 Nov 2026 |
+| M6 | Pengujian | Selesai: validator 22/22, uji aplikasi 34/34 |
+| M7 | Serah terima (push ke achmadcahyaperwira/Cayrus) | Selesai: LAPORAN.md, REVIEW.md, README.md |
 
 ## Batch
 

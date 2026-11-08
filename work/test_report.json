@@ -1,0 +1,200 @@
+{
+ "passed": 34,
+ "total": 34,
+ "results": [
+  {
+   "test": "service worker aktif",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "halaman dikendalikan service worker setelah muat ulang",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "semua aset tersimpan di cache",
+   "pass": true,
+   "detail": "[True, True, True, True, True, True, True, True, True, True]"
+  },
+  {
+   "test": "manifest: name, short_name, start_url, display standalone, ikon 192/512/maskable",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "Chrome (profil biasa): tidak ada error installability",
+   "pass": true,
+   "detail": "kosong"
+  },
+  {
+   "test": "kamus: daftar 1.841 entri dengan virtual list (< 60 baris di DOM)",
+   "pass": true,
+   "detail": "1.841 hasil, 17 baris DOM"
+  },
+  {
+   "test": "pencarian Kiril 'книг' menemukan книга (CPU 4× lebih lambat)",
+   "pass": true,
+   "detail": "57 ms setelah debounce"
+  },
+  {
+   "test": "pencarian arti Indonesia 'rumah' menemukan дом",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "filter status [uncertain] berjalan",
+   "pass": true,
+   "detail": "5 hasil"
+  },
+  {
+   "test": "tab kata kerja: 500 baris",
+   "pass": true,
+   "detail": "500 hasil"
+  },
+  {
+   "test": "detail terbuka < 200 ms (CPU 4×, termasuk jeda alat uji)",
+   "pass": true,
+   "detail": "{'w0237': 39, 'w0062': 44, 'w0004': 33, 'w0075': 29, 'ws003': 23, 'w0035': 28}"
+  },
+  {
+   "test": "kata benda: tabel 6 kasus × tunggal/jamak",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "kata benda: aksen tampil (кни́га)",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "kata sifat: 4 kolom + akusatif hidup/mati + bentuk pendek",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "kata tak berubah ditandai 'tidak dideklinasi' tanpa tabel",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "bentuk generated tidak tampil sebagai terverifikasi (один: semua sel G berlabel)",
+   "pass": true,
+   "detail": "26 label untuk 26 sel g"
+  },
+  {
+   "test": "bentuk [uncertain] berlabel '?' (w0213)",
+   "pass": true,
+   "detail": "6 label untuk 6 sel u"
+  },
+  {
+   "test": "kata kerja: pasangan говорить/сказать + kini, lampau, masa depan majemuk, imperatif",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "kata kerja: tombol СВ menampilkan masa depan sederhana (скажу́)",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "kata kerja: 2 contoh + kalimat pembeda aspek",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "kata kerja satu aspek ditandai (иметь)",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "kata kerja dari daftar kata membuka tabel konjugasi (знать)",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "progres hafalan tersimpan di IndexedDB",
+   "pass": true,
+   "detail": "2 kartu"
+  },
+  {
+   "test": "grammar: 6 kasus",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "halaman kasus: fungsi, preposisi, tabel akhiran, ≥3 contoh",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "latihan 15 soal selesai, umpan balik per soal, skor tersimpan",
+   "pass": true,
+   "detail": "{'best': 0, 'last': 0, 'attempts': 1, 'history': [{'date': '2026-11-08', 'score': 0}]}"
+  },
+  {
+   "test": "halaman Tentang: data offline siap",
+   "pass": true,
+   "detail": "Data offline: siap — aplikasi bisa dipakai tanpa internet. Penyimpanan biasa (IndexedDB)."
+  },
+  {
+   "test": "offline: aplikasi terbuka setelah jaringan diputus",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "offline: detail kata (город) tampil",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "offline: latihan grammar berjalan",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "test": "offline: progres tetap ada setelah muat ulang (2 kartu)",
+   "pass": true,
+   "detail": "1 kotak 1 1 kotak 2 0 kotak 3 0 kotak 4 0 kotak 5"
+  },
+  {
+   "test": "tidak ada gulir horizontal di lebar 375 px",
+   "pass": true,
+   "detail": "{'#/': 375, '#/kamus': 375, '#/kata/w0062': 375, '#/kerja/v002': 375, '#/grammar/acc': 375, '#/tentang': 375}"
+  },
+  {
+   "test": "tidak ada permintaan ke domain lain",
+   "pass": true,
+   "detail": "[]"
+  },
+  {
+   "test": "tidak ada error JavaScript di konsol",
+   "pass": true,
+   "detail": "[]"
+  }
+ ],
+ "screens": [
+  "01-beranda.png",
+  "02-kamus.png",
+  "03-kamus-kerja.png",
+  "04-detail-bilangan.png",
+  "04-detail-generated.png",
+  "04-detail-kata-benda.png",
+  "04-detail-kata-ganti.png",
+  "04-detail-kata-sifat.png",
+  "04-detail-tak-dideklinasi.png",
+  "04-detail-uncertain.png",
+  "05-kerja-nsv.png",
+  "05-kerja-sv.png",
+  "06-hafalan-atur.png",
+  "07-kartu-depan.png",
+  "08-kartu-belakang.png",
+  "09-grammar.png",
+  "10-kasus.png",
+  "11-latihan-soal.png",
+  "12-latihan-umpan-balik.png",
+  "13-latihan-hasil.png",
+  "14-tentang.png",
+  "15-offline-beranda.png"
+ ]
+}

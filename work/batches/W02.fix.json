@@ -1,13 +1,60 @@
 {
- "w0249": {"accented": "заче́м"},
- "w0281": {"decl.forms.gen": "пяти́", "decl.forms.dat": "пяти́", "decl.forms.ins": "пятью́", "decl.forms.pre": "пяти́"},
- "w0289": {"decl.afterPrep.gen": "него́", "decl.afterPrep.dat": "нему́", "decl.afterPrep.acc": "него́"},
- "w0344": {"decl.cols.mn": "о́ба|обо́их|обо́им|о́ба, обо́их|обо́ими|обо́их",
-           "decl.cols.f": "о́бе|обе́их|обе́им|о́бе, обе́их|обе́ими|обе́их"},
- "w0345": {"decl.short.n": "со́бственно", "decl.short.f": "со́бственна"},
- "w0357": {"decl.forms.ins": "четырьмя́"},
- "w0376": {"decl.short.m": "вели́к", "decl.short.n": "велико́", "decl.short.f": "велика́", "decl.short.pl": "велики́"},
- "w0403": {"decl.forms.gen": "десяти́", "decl.forms.dat": "десяти́", "decl.forms.ins": "десятью́", "decl.forms.pre": "десяти́"},
- "w0407": {"decl.forms.gen": "двадцати́", "decl.forms.dat": "двадцати́", "decl.forms.ins": "двадцатью́", "decl.forms.pre": "двадцати́"},
- "w0283": {"gender": "m"}, "w0368": {"gender": "m"}, "w0408": {"gender": "m"}, "w0279": {"gender": "n"}
+ "w0249": {
+  "accented": "заче́м"
+ },
+ "w0281": {
+  "decl.forms.gen": "пяти́",
+  "decl.forms.dat": "пяти́",
+  "decl.forms.ins": "пятью́",
+  "decl.forms.pre": "пяти́"
+ },
+ "w0289": {
+  "decl.afterPrep.gen": "него́",
+  "decl.afterPrep.dat": "нему́",
+  "decl.afterPrep.acc": "него́"
+ },
+ "w0344": {
+  "decl.cols.mn": "о́ба|обо́их|обо́им|о́ба, обо́их|обо́ими|обо́их",
+  "decl.cols.f": "о́бе|обе́их|обе́им|о́бе, обе́их|обе́ими|обе́их"
+ },
+ "w0345": {
+  "decl.short.n": "со́бственно",
+  "decl.short.f": "со́бственна"
+ },
+ "w0357": {
+  "decl.forms.ins": "четырьмя́"
+ },
+ "w0376": {
+  "decl.short.m": "вели́к",
+  "decl.short.n": "велико́",
+  "decl.short.f": "велика́",
+  "decl.short.pl": "велики́"
+ },
+ "w0403": {
+  "decl.forms.gen": "десяти́",
+  "decl.forms.dat": "десяти́",
+  "decl.forms.ins": "десятью́",
+  "decl.forms.pre": "десяти́"
+ },
+ "w0407": {
+  "decl.forms.gen": "двадцати́",
+  "decl.forms.dat": "двадцати́",
+  "decl.forms.ins": "двадцатью́",
+  "decl.forms.pre": "двадцати́"
+ },
+ "w0283": {
+  "gender": "m"
+ },
+ "w0368": {
+  "gender": "m"
+ },
+ "w0408": {
+  "gender": "m"
+ },
+ "w0279": {
+  "gender": "n"
+ },
+ "w0352": {
+  "gender": "pl"
+ }
 }

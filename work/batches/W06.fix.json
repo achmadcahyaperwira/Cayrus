@@ -1,9 +1,50 @@
 {
- "w1035": {"decl.short.pl": "-"},
- "w1047": {"decl.short.m": "мал", "decl.short.n": "мало́", "decl.short.f": "мала́", "decl.short.pl": "малы́"},
- "w1071": {"decl.forms.gen": "трои́х", "decl.forms.acc": "тро́е, трои́х", "decl.forms.ins": "трои́ми", "decl.forms.pre": "трои́х"},
- "w1167": {"decl.forms.gen": "восьми́", "decl.forms.dat": "восьми́", "decl.forms.ins": "восемью́, восьмью́", "decl.forms.pre": "восьми́"},
- "w1195": {"decl.short.m": "-", "decl.short.n": "-", "decl.short.f": "-", "decl.short.pl": "-"},
- "w1202": {"decl.forms.gen": "пяти́десяти", "decl.forms.dat": "пяти́десяти", "decl.forms.ins": "пятью́десятью", "decl.forms.pre": "пяти́десяти"},
- "w1046": {"gender": "pl"}, "w1080": {"gender": "pl"}, "w1089": {"gender": "f"}, "w1143": {"gender": "m"}
+ "w1035": {
+  "decl.short.pl": "-"
+ },
+ "w1047": {
+  "decl.short.m": "мал",
+  "decl.short.n": "мало́",
+  "decl.short.f": "мала́",
+  "decl.short.pl": "малы́"
+ },
+ "w1071": {
+  "decl.forms.gen": "трои́х",
+  "decl.forms.acc": "тро́е, трои́х",
+  "decl.forms.ins": "трои́ми",
+  "decl.forms.pre": "трои́х"
+ },
+ "w1167": {
+  "decl.forms.gen": "восьми́",
+  "decl.forms.dat": "восьми́",
+  "decl.forms.ins": "восемью́, восьмью́",
+  "decl.forms.pre": "восьми́"
+ },
+ "w1195": {
+  "decl.short.m": "-",
+  "decl.short.n": "-",
+  "decl.short.f": "-",
+  "decl.short.pl": "-"
+ },
+ "w1202": {
+  "decl.forms.gen": "пяти́десяти",
+  "decl.forms.dat": "пяти́десяти",
+  "decl.forms.ins": "пятью́десятью",
+  "decl.forms.pre": "пяти́десяти"
+ },
+ "w1046": {
+  "gender": "pl"
+ },
+ "w1080": {
+  "gender": "pl",
+  "decl.number": "pl_only",
+  "decl.sg": "-|-|-|-|-|-",
+  "decl.pl": "стихи́|стихо́в|стиха́м|стихи́|стиха́ми|стиха́х"
+ },
+ "w1089": {
+  "gender": "f"
+ },
+ "w1143": {
+  "gender": "m"
+ }
 }

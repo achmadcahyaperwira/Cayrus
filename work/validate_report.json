@@ -1,0 +1,189 @@
+{
+ "passed": 22,
+ "total": 22,
+ "checks": [
+  {
+   "check": "entri kata = 1.841",
+   "pass": true,
+   "detail": 1841
+  },
+  {
+   "check": "setiap kata di file kata ada di aplikasi (1.736 bernomor + 111 kata tugas)",
+   "pass": true,
+   "detail": "1840 lema sumber, hilang: []"
+  },
+  {
+   "check": "setiap peringkat di file kata ada di aplikasi",
+   "pass": true,
+   "detail": "1736 peringkat"
+  },
+  {
+   "check": "baris kata kerja = 500, peringkat 1–500 lengkap",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "setiap kata kerja di file kata kerja ada di aplikasi",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "setiap entri kata punya terjemahan Indonesia",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "check": "setiap entri kata punya 1 contoh + terjemahan",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "check": "setiap entri punya kata beraksen",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "setiap kata benda yang dideklinasi punya 6 kasus (tunggal & jamak, kecuali hanya-tunggal/jamak)",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "check": "setiap kata benda punya gender",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "check": "kata yang tidak dideklinasi tidak punya tabel",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "check": "kata sifat/kata ganti/bilangan yang dideklinasi punya tabel",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "check": "setiap pasangan НСВ/СВ lengkap (kini 6, lampau 4, masa depan 6, imperatif 2) + 2 contoh + kalimat pembeda",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "check": "kata kerja satu aspek/biaspektual ditandai",
+   "pass": true,
+   "detail": {
+    "ipf_only": 41,
+    "pair": 346,
+    "biaspectual": 2,
+    "pf_only": 9
+   }
+  },
+  {
+   "check": "setiap baris kata kerja punya terjemahan",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "check": "status hanya v/g/u",
+   "pass": true,
+   "detail": {
+    "g": 684,
+    "v": 26341,
+    "u": 61
+   }
+  },
+  {
+   "check": "setiap entri dengan bentuk [uncertain] tercatat di daftar review",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "check": "modul grammar: 6 kasus, masing-masing ≥ 3 contoh",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "contoh grammar memakai bentuk terverifikasi",
+   "pass": true,
+   "detail": []
+  },
+  {
+   "check": "≥ 15 soal per kasus",
+   "pass": true,
+   "detail": {
+    "nom": 25,
+    "gen": 24,
+    "dat": 24,
+    "acc": 24,
+    "ins": 24,
+    "pre": 24
+   }
+  },
+  {
+   "check": "3 format soal ada di setiap kasus",
+   "pass": true,
+   "detail": ""
+  },
+  {
+   "check": "soal hanya memakai bentuk berstatus terverifikasi",
+   "pass": true,
+   "detail": []
+  }
+ ],
+ "summary": {
+  "entri_kata": 1841,
+  "baris_kata_kerja": 500,
+  "pasangan": 398,
+  "tipe_pasangan": {
+   "ipf_only": 41,
+   "pair": 346,
+   "biaspectual": 2,
+   "pf_only": 9
+  },
+  "sumber_pasangan": {
+   "file": 369,
+   "uncertain": 12,
+   "file_corrected": 5,
+   "not_in_file": 12
+  },
+  "kelas_kata": {
+   "pron": 19,
+   "adj": 283,
+   "verb": 462,
+   "part": 32,
+   "conj": 38,
+   "noun": 775,
+   "adv": 159,
+   "num": 21,
+   "pred": 5,
+   "intj": 7,
+   "prep": 39,
+   "other": 1
+  },
+  "bentuk_kata": {
+   "g": 596,
+   "v": 16777,
+   "u": 53
+  },
+  "bentuk_kata_kerja": {
+   "v": 9564,
+   "g": 88,
+   "u": 8
+  },
+  "review": {
+   "check": 71,
+   "uncertain": 83,
+   "resolved_g": 532,
+   "info": 248
+  },
+  "soal": 145,
+  "soal_per_kasus": {
+   "nom": 25,
+   "gen": 24,
+   "dat": 24,
+   "acc": 24,
+   "ins": 24,
+   "pre": 24
+  },
+  "contoh_kata_kerja": 734
+ }
+}
