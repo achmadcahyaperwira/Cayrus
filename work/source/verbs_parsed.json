@@ -1,0 +1,3502 @@
+[
+ {
+  "rank": 1,
+  "page": 1,
+  "verb": "быть",
+  "en": "to be, have",
+  "pair": "imperfective, no pair (see бывать, побыть)"
+ },
+ {
+  "rank": 2,
+  "page": 1,
+  "verb": "сказать",
+  "en": "to say, speak",
+  "pair": "говорить/сказать"
+ },
+ {
+  "rank": 3,
+  "page": 1,
+  "verb": "мочь",
+  "en": "be able",
+  "pair": "мочь/смочь"
+ },
+ {
+  "rank": 4,
+  "page": 1,
+  "verb": "говорить",
+  "en": "to say, tell, speak",
+  "pair": "говорить/сказать"
+ },
+ {
+  "rank": 5,
+  "page": 1,
+  "verb": "знать",
+  "en": "to know, be aware",
+  "pair": "знать/узнать"
+ },
+ {
+  "rank": 6,
+  "page": 1,
+  "verb": "стать",
+  "en": "to become, begin, come",
+  "pair": "становиться/стать"
+ },
+ {
+  "rank": 7,
+  "page": 1,
+  "verb": "есть",
+  "en": "to eat, to be",
+  "pair": "есть/съесть"
+ },
+ {
+  "rank": 8,
+  "page": 1,
+  "verb": "хотеть",
+  "en": "to want, like",
+  "pair": "хотеть/захотеть"
+ },
+ {
+  "rank": 9,
+  "page": 1,
+  "verb": "видеть",
+  "en": "to see",
+  "pair": "видеть/увидеть"
+ },
+ {
+  "rank": 10,
+  "page": 1,
+  "verb": "идти",
+  "en": "to go, come",
+  "pair": "идти/пойти"
+ },
+ {
+  "rank": 11,
+  "page": 1,
+  "verb": "стоять",
+  "en": "to stand, be, stand up",
+  "pair": "стоять/постоять"
+ },
+ {
+  "rank": 12,
+  "page": 1,
+  "verb": "думать",
+  "en": "to think",
+  "pair": "думать/подумать"
+ },
+ {
+  "rank": 13,
+  "page": 1,
+  "verb": "спросить",
+  "en": "to ask",
+  "pair": "спрашивать/спросить"
+ },
+ {
+  "rank": 14,
+  "page": 1,
+  "verb": "жить",
+  "en": "to live",
+  "pair": "no corresponding pair (see пожить, прожить)"
+ },
+ {
+  "rank": 15,
+  "page": 1,
+  "verb": "смотреть",
+  "en": "to look, watch, see",
+  "pair": "смотреть/посмотреть"
+ },
+ {
+  "rank": 16,
+  "page": 1,
+  "verb": "сидеть",
+  "en": "to sit",
+  "pair": "сидеть/сесть"
+ },
+ {
+  "rank": 17,
+  "page": 1,
+  "verb": "понять",
+  "en": "to understand; realize",
+  "pair": "понимать/понять"
+ },
+ {
+  "rank": 18,
+  "page": 1,
+  "verb": "иметь",
+  "en": "to have, own",
+  "pair": "imperfective, no pair"
+ },
+ {
+  "rank": 19,
+  "page": 1,
+  "verb": "делать",
+  "en": "to do, make",
+  "pair": "делать/сделать"
+ },
+ {
+  "rank": 20,
+  "page": 1,
+  "verb": "взять",
+  "en": "to take",
+  "pair": "брать/взять"
+ },
+ {
+  "rank": 21,
+  "page": 1,
+  "verb": "сделать",
+  "en": "to do, make, finish",
+  "pair": "делать/сделать"
+ },
+ {
+  "rank": 22,
+  "page": 1,
+  "verb": "понимать",
+  "en": "to understand",
+  "pair": "понимать/понять"
+ },
+ {
+  "rank": 23,
+  "page": 1,
+  "verb": "казаться",
+  "en": "to seem, appear",
+  "pair": "казаться/показаться"
+ },
+ {
+  "rank": 24,
+  "page": 1,
+  "verb": "давать",
+  "en": "to give; let, allow",
+  "pair": "давать/дать"
+ },
+ {
+  "rank": 25,
+  "page": 1,
+  "verb": "пойти",
+  "en": "to go",
+  "pair": "идти/пойти"
+ },
+ {
+  "rank": 26,
+  "page": 1,
+  "verb": "увидеть",
+  "en": "to see",
+  "pair": "видеть/увидеть"
+ },
+ {
+  "rank": 27,
+  "page": 1,
+  "verb": "остаться",
+  "en": "to remain, stay",
+  "pair": "оставаться/остаться"
+ },
+ {
+  "rank": 28,
+  "page": 1,
+  "verb": "выйти",
+  "en": "to go out, come out, appear",
+  "pair": "выходить/выйти"
+ },
+ {
+  "rank": 29,
+  "page": 1,
+  "verb": "дать",
+  "en": "to give",
+  "pair": "давать/дать"
+ },
+ {
+  "rank": 30,
+  "page": 1,
+  "verb": "работать",
+  "en": "to work",
+  "pair": "работать/отработать"
+ },
+ {
+  "rank": 31,
+  "page": 1,
+  "verb": "любить",
+  "en": "to love",
+  "pair": "любить/полюбить"
+ },
+ {
+  "rank": 32,
+  "page": 1,
+  "verb": "оказаться",
+  "en": "find oneself, turn out",
+  "pair": "оказываться/оказаться"
+ },
+ {
+  "rank": 33,
+  "page": 2,
+  "verb": "ответить",
+  "en": "to answer, reply",
+  "pair": "отвечать/ответить"
+ },
+ {
+  "rank": 34,
+  "page": 2,
+  "verb": "подумать",
+  "en": "to think",
+  "pair": "думать/подумать"
+ },
+ {
+  "rank": 35,
+  "page": 2,
+  "verb": "значить",
+  "en": "to mean, signify",
+  "pair": "imperfective, no pair"
+ },
+ {
+  "rank": 36,
+  "page": 2,
+  "verb": "посмотреть",
+  "en": "to take a look, watch, inspect",
+  "pair": "смотреть/посмотреть"
+ },
+ {
+  "rank": 37,
+  "page": 2,
+  "verb": "ждать",
+  "en": "to wait",
+  "pair": "ждать/подождать"
+ },
+ {
+  "rank": 38,
+  "page": 2,
+  "verb": "лежать",
+  "en": "to lie, be situated",
+  "pair": "лежать/лечь"
+ },
+ {
+  "rank": 39,
+  "page": 2,
+  "verb": "найти",
+  "en": "to find, discover, consider",
+  "pair": "искать/найти"
+ },
+ {
+  "rank": 40,
+  "page": 2,
+  "verb": "писать",
+  "en": "to write",
+  "pair": "писать/написать"
+ },
+ {
+  "rank": 41,
+  "page": 2,
+  "verb": "решить",
+  "en": "to decide, solve",
+  "pair": "решать/решить"
+ },
+ {
+  "rank": 42,
+  "page": 2,
+  "verb": "вернуться",
+  "en": "to return",
+  "pair": "возвращаться/ вернуться"
+ },
+ {
+  "rank": 43,
+  "page": 2,
+  "verb": "считать",
+  "en": "to count, consider",
+  "pair": "считать/посчитать"
+ },
+ {
+  "rank": 44,
+  "page": 2,
+  "verb": "помнить",
+  "en": "to remember",
+  "pair": "помнить/запомнить"
+ },
+ {
+  "rank": 45,
+  "page": 2,
+  "verb": "получить",
+  "en": "to receive, get, obtain",
+  "pair": "получать/получить"
+ },
+ {
+  "rank": 46,
+  "page": 2,
+  "verb": "ходить",
+  "en": "to go, walk",
+  "pair": "ходить/пойти"
+ },
+ {
+  "rank": 47,
+  "page": 2,
+  "verb": "бывать",
+  "en": "be, visit, happen",
+  "pair": "бывать/побывать"
+ },
+ {
+  "rank": 48,
+  "page": 2,
+  "verb": "прийти",
+  "en": "to come, arrive",
+  "pair": "приходить/прийти"
+ },
+ {
+  "rank": 49,
+  "page": 2,
+  "verb": "узнать",
+  "en": "to know, learn, recognize",
+  "pair": "узнавать/узнать"
+ },
+ {
+  "rank": 50,
+  "page": 2,
+  "verb": "заметить",
+  "en": "to notice, observe",
+  "pair": "замечать/заметить"
+ },
+ {
+  "rank": 51,
+  "page": 2,
+  "verb": "уйти",
+  "en": "to leave, go away",
+  "pair": "уходить/уйти"
+ },
+ {
+  "rank": 52,
+  "page": 2,
+  "verb": "слышать",
+  "en": "to hear",
+  "pair": "слышать/услышать"
+ },
+ {
+  "rank": 53,
+  "page": 2,
+  "verb": "слушать",
+  "en": "to listen, hear",
+  "pair": "слушать/послушать"
+ },
+ {
+  "rank": 54,
+  "page": 2,
+  "verb": "бояться",
+  "en": "to be afraid, fear",
+  "pair": "бояться/забояться"
+ },
+ {
+  "rank": 55,
+  "page": 2,
+  "verb": "глядеть",
+  "en": "to look, gaze",
+  "pair": "глядеть/поглядеть"
+ },
+ {
+  "rank": 56,
+  "page": 2,
+  "verb": "сесть",
+  "en": "to sit",
+  "pair": "садиться/сесть"
+ },
+ {
+  "rank": 57,
+  "page": 2,
+  "verb": "читать",
+  "en": "to read",
+  "pair": "читать/прочитать"
+ },
+ {
+  "rank": 58,
+  "page": 2,
+  "verb": "оставаться",
+  "en": "to remain, stay",
+  "pair": "оставаться/остаться"
+ },
+ {
+  "rank": 59,
+  "page": 2,
+  "verb": "брать",
+  "en": "to take; hire",
+  "pair": "брать/взять"
+ },
+ {
+  "rank": 60,
+  "page": 2,
+  "verb": "написать",
+  "en": "to write",
+  "pair": "писать/написать"
+ },
+ {
+  "rank": 61,
+  "page": 2,
+  "verb": "начинать",
+  "en": "to begin",
+  "pair": "начинать/начать"
+ },
+ {
+  "rank": 62,
+  "page": 2,
+  "verb": "чувствовать",
+  "en": "to feel",
+  "pair": "чувствовать/ почувствовать"
+ },
+ {
+  "rank": 63,
+  "page": 2,
+  "verb": "вести",
+  "en": "to lead",
+  "pair": "вести/повести"
+ },
+ {
+  "rank": 64,
+  "page": 2,
+  "verb": "успеть",
+  "en": "to be in time, be successful",
+  "pair": "успевать/успеть"
+ },
+ {
+  "rank": 65,
+  "page": 2,
+  "verb": "продолжать",
+  "en": "to continue",
+  "pair": "продолжать/ продолжить"
+ },
+ {
+  "rank": 66,
+  "page": 2,
+  "verb": "забыть",
+  "en": "to forget",
+  "pair": "забывать/забыть"
+ },
+ {
+  "rank": 67,
+  "page": 2,
+  "verb": "пройти",
+  "en": "to pass, go by, be over",
+  "pair": "проходить/пройти"
+ },
+ {
+  "rank": 68,
+  "page": 3,
+  "verb": "появиться",
+  "en": "to appear, show up",
+  "pair": "появляться/ появиться"
+ },
+ {
+  "rank": 69,
+  "page": 3,
+  "verb": "выходить",
+  "en": "to go out; nurse",
+  "pair": "выходить/выйти"
+ },
+ {
+  "rank": 70,
+  "page": 3,
+  "verb": "просить",
+  "en": "to ask",
+  "pair": "просить/попросить"
+ },
+ {
+  "rank": 71,
+  "page": 3,
+  "verb": "пытаться",
+  "en": "to try",
+  "pair": "пытаться/попытаться"
+ },
+ {
+  "rank": 72,
+  "page": 3,
+  "verb": "показать",
+  "en": "to show, display",
+  "pair": "показывать/показать"
+ },
+ {
+  "rank": 73,
+  "page": 3,
+  "verb": "вспомнить",
+  "en": "to remember, recall",
+  "pair": "вспоминать/ вспомнить"
+ },
+ {
+  "rank": 74,
+  "page": 3,
+  "verb": "держать",
+  "en": "to hold, keep",
+  "pair": "imperfective, no pair"
+ },
+ {
+  "rank": 75,
+  "page": 3,
+  "verb": "называть",
+  "en": "to call, name",
+  "pair": "называть/назвать"
+ },
+ {
+  "rank": 76,
+  "page": 3,
+  "verb": "уходить",
+  "en": "to leave, go away",
+  "pair": "уходить/уйти"
+ },
+ {
+  "rank": 77,
+  "page": 3,
+  "verb": "подойти",
+  "en": "to approach, come up",
+  "pair": "подходить/подойти"
+ },
+ {
+  "rank": 78,
+  "page": 3,
+  "verb": "поднять",
+  "en": "to lift, raise",
+  "pair": "поднимать/поднять"
+ },
+ {
+  "rank": 79,
+  "page": 3,
+  "verb": "спрашивать",
+  "en": "to ask, inquire",
+  "pair": "спрашивать/спросить"
+ },
+ {
+  "rank": 80,
+  "page": 3,
+  "verb": "бросить",
+  "en": "to throw",
+  "pair": "бросать/бросить"
+ },
+ {
+  "rank": 81,
+  "page": 3,
+  "verb": "послать",
+  "en": "to send, dispatch",
+  "pair": "посылать/послать"
+ },
+ {
+  "rank": 82,
+  "page": 3,
+  "verb": "находиться",
+  "en": "to be found, turn up",
+  "pair": "находиться/найтись"
+ },
+ {
+  "rank": 83,
+  "page": 3,
+  "verb": "поставить",
+  "en": "to put, place, set",
+  "pair": "ставить/поставить"
+ },
+ {
+  "rank": 84,
+  "page": 3,
+  "verb": "встать",
+  "en": "to get up, rise, stand up",
+  "pair": "вставать/встать"
+ },
+ {
+  "rank": 85,
+  "page": 3,
+  "verb": "играть",
+  "en": "to play",
+  "pair": "играть/поиграть"
+ },
+ {
+  "rank": 86,
+  "page": 3,
+  "verb": "следовать",
+  "en": "to follow, come next",
+  "pair": "следовать/ последовать"
+ },
+ {
+  "rank": 87,
+  "page": 3,
+  "verb": "рассказать",
+  "en": "to tell, narrate",
+  "pair": "рассказывать/ рассказать"
+ },
+ {
+  "rank": 88,
+  "page": 3,
+  "verb": "спать",
+  "en": "to sleep",
+  "pair": "спать/поспать"
+ },
+ {
+  "rank": 89,
+  "page": 3,
+  "verb": "оставить",
+  "en": "to leave, abandon",
+  "pair": "оставлять/оставить"
+ },
+ {
+  "rank": 90,
+  "page": 3,
+  "verb": "войти",
+  "en": "to enter, come in",
+  "pair": "входить/войти"
+ },
+ {
+  "rank": 91,
+  "page": 3,
+  "verb": "молчать",
+  "en": "to keep silence",
+  "pair": "молчать/замолчать"
+ },
+ {
+  "rank": 92,
+  "page": 3,
+  "verb": "рассказывать",
+  "en": "to tell, narrate",
+  "pair": "рассказывать/ рассказать"
+ },
+ {
+  "rank": 93,
+  "page": 3,
+  "verb": "отвечать",
+  "en": "to answer, reply",
+  "pair": "отвечать/ответить"
+ },
+ {
+  "rank": 94,
+  "page": 3,
+  "verb": "становиться",
+  "en": "to stand; to become",
+  "pair": "становиться/стать"
+ },
+ {
+  "rank": 95,
+  "page": 3,
+  "verb": "остановиться",
+  "en": "to stop",
+  "pair": "останавливаться/ остановиться"
+ },
+ {
+  "rank": 96,
+  "page": 3,
+  "verb": "искать",
+  "en": "to search",
+  "pair": "искать/найти"
+ },
+ {
+  "rank": 97,
+  "page": 3,
+  "verb": "начать",
+  "en": "to begin",
+  "pair": "начинать/начать"
+ },
+ {
+  "rank": 98,
+  "page": 3,
+  "verb": "верить",
+  "en": "to believe",
+  "pair": "верить/поверить"
+ },
+ {
+  "rank": 99,
+  "page": 3,
+  "verb": "являться",
+  "en": "to appear",
+  "pair": "являться/явиться"
+ },
+ {
+  "rank": 100,
+  "page": 3,
+  "verb": "смочь",
+  "en": "to be able",
+  "pair": "мочь/смочь"
+ },
+ {
+  "rank": 101,
+  "page": 3,
+  "verb": "бежать",
+  "en": "to run, hurry",
+  "pair": "бежать/побежать"
+ },
+ {
+  "rank": 102,
+  "page": 4,
+  "verb": "приехать",
+  "en": "to arrive, come",
+  "pair": "ехать/поехать"
+ },
+ {
+  "rank": 103,
+  "page": 4,
+  "verb": "кричать",
+  "en": "to cry, shout",
+  "pair": "кричать/крикнуть"
+ },
+ {
+  "rank": 104,
+  "page": 4,
+  "verb": "открыть",
+  "en": "to open",
+  "pair": "открывать/открыть"
+ },
+ {
+  "rank": 105,
+  "page": 4,
+  "verb": "происходить",
+  "en": "to happen, occur, take place",
+  "pair": "происходить/ произойти"
+ },
+ {
+  "rank": 106,
+  "page": 4,
+  "verb": "ехать",
+  "en": "to go, ride, drive, travel",
+  "pair": "ехать/поехать"
+ },
+ {
+  "rank": 107,
+  "page": 4,
+  "verb": "приходить",
+  "en": "to come, arrive",
+  "pair": "приходить/прийти"
+ },
+ {
+  "rank": 108,
+  "page": 4,
+  "verb": "подняться",
+  "en": "to rise, climb",
+  "pair": "подниматься/ подняться"
+ },
+ {
+  "rank": 109,
+  "page": 4,
+  "verb": "показаться",
+  "en": "to appear, come in sight",
+  "pair": "показываться/ показаться"
+ },
+ {
+  "rank": 110,
+  "page": 4,
+  "verb": "собираться",
+  "en": "to gather together, assemble; intend",
+  "pair": "собираться/ собраться"
+ },
+ {
+  "rank": 111,
+  "page": 4,
+  "verb": "попасть",
+  "en": "to hit; to find oneself",
+  "pair": "попадать/попасть"
+ },
+ {
+  "rank": 112,
+  "page": 4,
+  "verb": "принять",
+  "en": "to take, admit, accept",
+  "pair": "принимать/принять"
+ },
+ {
+  "rank": 113,
+  "page": 4,
+  "verb": "поехать",
+  "en": "to depart, set off",
+  "pair": "ехать/поехать"
+ },
+ {
+  "rank": 114,
+  "page": 4,
+  "verb": "услышать",
+  "en": "to hear",
+  "pair": "слышать/услышать"
+ },
+ {
+  "rank": 115,
+  "page": 4,
+  "verb": "уметь",
+  "en": "to be able, know, can",
+  "pair": "imperfective, no pair"
+ },
+ {
+  "rank": 116,
+  "page": 4,
+  "verb": "случиться",
+  "en": "to happen",
+  "pair": "случаться/случиться"
+ },
+ {
+  "rank": 117,
+  "page": 4,
+  "verb": "стараться",
+  "en": "to try, endeavour",
+  "pair": "стараться/ постараться"
+ },
+ {
+  "rank": 118,
+  "page": 4,
+  "verb": "звать",
+  "en": "to call",
+  "pair": "звать/позвать"
+ },
+ {
+  "rank": 119,
+  "page": 4,
+  "verb": "произойти",
+  "en": "to happen, occur, take place",
+  "pair": "происходить/ произойти"
+ },
+ {
+  "rank": 120,
+  "page": 4,
+  "verb": "заниматься",
+  "en": "to be occupied, engage",
+  "pair": "заниматься/заняться"
+ },
+ {
+  "rank": 121,
+  "page": 4,
+  "verb": "положить",
+  "en": "to lay down, put down, place",
+  "pair": "класть/положить"
+ },
+ {
+  "rank": 122,
+  "page": 4,
+  "verb": "купить",
+  "en": "to buy, purchase",
+  "pair": "покупать/купить"
+ },
+ {
+  "rank": 123,
+  "page": 4,
+  "verb": "умереть",
+  "en": "to die",
+  "pair": "умирать/умереть"
+ },
+ {
+  "rank": 124,
+  "page": 4,
+  "verb": "пить",
+  "en": "to drink",
+  "pair": "пить/выпить"
+ },
+ {
+  "rank": 125,
+  "page": 4,
+  "verb": "проходить",
+  "en": "to pass, go; study",
+  "pair": "происходить/ произойти"
+ },
+ {
+  "rank": 126,
+  "page": 4,
+  "verb": "снять",
+  "en": "to take away, take off; photograph",
+  "pair": "снимать/снять"
+ },
+ {
+  "rank": 127,
+  "page": 4,
+  "verb": "начаться",
+  "en": "to begin",
+  "pair": "начинаться/начаться"
+ },
+ {
+  "rank": 128,
+  "page": 4,
+  "verb": "представлять",
+  "en": "to present, introduce, imagine",
+  "pair": "представлять/ представить"
+ },
+ {
+  "rank": 129,
+  "page": 4,
+  "verb": "объяснить",
+  "en": "to explain",
+  "pair": "объяснять/объяснить"
+ },
+ {
+  "rank": 130,
+  "page": 4,
+  "verb": "произнести",
+  "en": "to pronounce, say, utter",
+  "pair": "произносить/ произнести"
+ },
+ {
+  "rank": 131,
+  "page": 5,
+  "verb": "нравиться",
+  "en": "to please, like",
+  "pair": "нравиться/ понравиться"
+ },
+ {
+  "rank": 132,
+  "page": 5,
+  "verb": "существовать",
+  "en": "to exist, to be",
+  "pair": ""
+ },
+ {
+  "rank": 133,
+  "page": 5,
+  "verb": "удаться",
+  "en": "turn out well, succeed, manage",
+  "pair": "удаваться/удаться"
+ },
+ {
+  "rank": 134,
+  "page": 5,
+  "verb": "прийтись",
+  "en": "to fit, fall; have to",
+  "pair": "приходиться/ прийтись"
+ },
+ {
+  "rank": 135,
+  "page": 5,
+  "verb": "представить",
+  "en": "to presetn, produce, introduce",
+  "pair": "представлять/ представить"
+ },
+ {
+  "rank": 136,
+  "page": 5,
+  "verb": "назвать",
+  "en": "to call, name",
+  "pair": "называть/назвать"
+ },
+ {
+  "rank": 137,
+  "page": 5,
+  "verb": "улыбаться",
+  "en": "to smile",
+  "pair": "улыбаться/ улыбнуться"
+ },
+ {
+  "rank": 138,
+  "page": 5,
+  "verb": "улыбнуться",
+  "en": "to smile",
+  "pair": "улыбаться/ улыбнуться"
+ },
+ {
+  "rank": 139,
+  "page": 5,
+  "verb": "смеяться",
+  "en": "to laugh",
+  "pair": "смеяться/посмеяться"
+ },
+ {
+  "rank": 140,
+  "page": 5,
+  "verb": "хватать",
+  "en": "to snatch, seize; be sufficient",
+  "pair": "хватать/хватить"
+ },
+ {
+  "rank": 141,
+  "page": 5,
+  "verb": "почувствовать",
+  "en": "to feel",
+  "pair": "чувствовать/ почувствовать"
+ },
+ {
+  "rank": 142,
+  "page": 5,
+  "verb": "принести",
+  "en": "to bring",
+  "pair": "приносить/принести"
+ },
+ {
+  "rank": 143,
+  "page": 5,
+  "verb": "согласиться",
+  "en": "to agree, consent",
+  "pair": "соглашаться/ согласиться"
+ },
+ {
+  "rank": 144,
+  "page": 5,
+  "verb": "хватить",
+  "en": "to snatch, seize, suffice",
+  "pair": "хватать/хватить"
+ },
+ {
+  "rank": 145,
+  "page": 5,
+  "verb": "принимать",
+  "en": "to take, admin, accept",
+  "pair": "принимать/принять"
+ },
+ {
+  "rank": 146,
+  "page": 5,
+  "verb": "убить",
+  "en": "to kill",
+  "pair": "убивать/убить"
+ },
+ {
+  "rank": 147,
+  "page": 5,
+  "verb": "предложить",
+  "en": "to offer, propose, suggest",
+  "pair": "предлагать/ предложить"
+ },
+ {
+  "rank": 148,
+  "page": 5,
+  "verb": "приходиться",
+  "en": "to fit, fall; have to",
+  "pair": "приходиться/ прийтись"
+ },
+ {
+  "rank": 149,
+  "page": 5,
+  "verb": "выпить",
+  "en": "to drink",
+  "pair": "выпивать/выпить"
+ },
+ {
+  "rank": 150,
+  "page": 5,
+  "verb": "крикнуть",
+  "en": "to cry, shout",
+  "pair": "кричать/крикнуть"
+ },
+ {
+  "rank": 151,
+  "page": 5,
+  "verb": "показывать",
+  "en": "to show, display",
+  "pair": "показывать/показать"
+ },
+ {
+  "rank": 152,
+  "page": 5,
+  "verb": "вызвать",
+  "en": "to call, send",
+  "pair": "вызывать/вызвать"
+ },
+ {
+  "rank": 153,
+  "page": 5,
+  "verb": "попросить",
+  "en": "to ask",
+  "pair": "просить/попросить"
+ },
+ {
+  "rank": 154,
+  "page": 5,
+  "verb": "оказываться",
+  "en": "to turn out, find oneself",
+  "pair": "оказываться/оказаться"
+ },
+ {
+  "rank": 155,
+  "page": 5,
+  "verb": "привести",
+  "en": "to bring",
+  "pair": "приводить/привести"
+ },
+ {
+  "rank": 156,
+  "page": 5,
+  "verb": "возвращаться",
+  "en": "to return",
+  "pair": "возвращаться/возвратиться"
+ },
+ {
+  "rank": 157,
+  "page": 5,
+  "verb": "требовать",
+  "en": "to demand",
+  "pair": "требовать/потребовать"
+ },
+ {
+  "rank": 158,
+  "page": 5,
+  "verb": "потерять",
+  "en": "to lose",
+  "pair": "терять/потерять"
+ },
+ {
+  "rank": 159,
+  "page": 5,
+  "verb": "достать",
+  "en": "to reach; get, obtain",
+  "pair": "доставать/достать"
+ },
+ {
+  "rank": 160,
+  "page": 5,
+  "verb": "сообщить",
+  "en": "to report, let know",
+  "pair": "сообщать/сообщить"
+ },
+ {
+  "rank": 161,
+  "page": 6,
+  "verb": "появляться",
+  "en": "to appear, show up",
+  "pair": "появляться/появиться"
+ },
+ {
+  "rank": 162,
+  "page": 6,
+  "verb": "упасть",
+  "en": "to fall",
+  "pair": "падать/упасть"
+ },
+ {
+  "rank": 163,
+  "page": 6,
+  "verb": "получиться",
+  "en": "to come, arrive, turn out",
+  "pair": "получаться/получиться"
+ },
+ {
+  "rank": 164,
+  "page": 6,
+  "verb": "провести",
+  "en": "to accompany, set off; conduct; spend",
+  "pair": "проводить/провести"
+ },
+ {
+  "rank": 165,
+  "page": 6,
+  "verb": "простить",
+  "en": "to forgive",
+  "pair": "прощать/простить"
+ },
+ {
+  "rank": 166,
+  "page": 6,
+  "verb": "бить",
+  "en": "to beat, hit",
+  "pair": "бить/побить"
+ },
+ {
+  "rank": 167,
+  "page": 6,
+  "verb": "кивнуть",
+  "en": "to nod",
+  "pair": "кивать/кивнуть"
+ },
+ {
+  "rank": 168,
+  "page": 6,
+  "verb": "исчезнуть",
+  "en": "to disappear",
+  "pair": "исчезать/исчезнуть"
+ },
+ {
+  "rank": 169,
+  "page": 6,
+  "verb": "отдать",
+  "en": "to return, give back",
+  "pair": "отдавать/отдать"
+ },
+ {
+  "rank": 170,
+  "page": 6,
+  "verb": "помочь",
+  "en": "to help",
+  "pair": "помогать/помочь"
+ },
+ {
+  "rank": 171,
+  "page": 6,
+  "verb": "слать",
+  "en": "to send",
+  "pair": "imperfective, no pair (see послать, выслать)"
+ },
+ {
+  "rank": 172,
+  "page": 6,
+  "verb": "вспоминать",
+  "en": "to remember, recall",
+  "pair": "вспоминать/вспомнить"
+ },
+ {
+  "rank": 173,
+  "page": 6,
+  "verb": "вздохнуть",
+  "en": "to take breath, to sigh",
+  "pair": "вздыхать/вздохнуть"
+ },
+ {
+  "rank": 174,
+  "page": 6,
+  "verb": "петь",
+  "en": "to sing",
+  "pair": "петь/спеть"
+ },
+ {
+  "rank": 175,
+  "page": 6,
+  "verb": "садиться",
+  "en": "to sit down",
+  "pair": "садиться/сесть"
+ },
+ {
+  "rank": 176,
+  "page": 6,
+  "verb": "перестать",
+  "en": "to stop, cease",
+  "pair": "переставать/перестать"
+ },
+ {
+  "rank": 177,
+  "page": 6,
+  "verb": "придтись",
+  "en": "to fit, fall; have to",
+  "pair": "приходиться/прийтись"
+ },
+ {
+  "rank": 178,
+  "page": 6,
+  "verb": "пожаловать",
+  "en": "to grant, bestow",
+  "pair": "жаловать/пожаловать"
+ },
+ {
+  "rank": 179,
+  "page": 6,
+  "verb": "получать",
+  "en": "to receve, get",
+  "pair": "получать/получить"
+ },
+ {
+  "rank": 180,
+  "page": 6,
+  "verb": "называться",
+  "en": "to call oneself",
+  "pair": "называться/назваться"
+ },
+ {
+  "rank": 181,
+  "page": 6,
+  "verb": "надеяться",
+  "en": "to hope",
+  "pair": "надеяться/понадеяться"
+ },
+ {
+  "rank": 182,
+  "page": 6,
+  "verb": "протянуть",
+  "en": "to stretch, extend",
+  "pair": "протянуть/протягивать"
+ },
+ {
+  "rank": 183,
+  "page": 6,
+  "verb": "подходить",
+  "en": "to come up, approach; to fit",
+  "pair": "подходить/подойти"
+ },
+ {
+  "rank": 184,
+  "page": 6,
+  "verb": "служить",
+  "en": "to serve",
+  "pair": "служить/послужить"
+ },
+ {
+  "rank": 185,
+  "page": 6,
+  "verb": "поверить",
+  "en": "to believe",
+  "pair": "верить/поверить"
+ },
+ {
+  "rank": 186,
+  "page": 6,
+  "verb": "взглянуть",
+  "en": "to look, give a glance",
+  "pair": "взглянуть/взглядывать"
+ },
+ {
+  "rank": 187,
+  "page": 6,
+  "verb": "вызывать",
+  "en": "to call, send",
+  "pair": "вызывать/вызвать"
+ },
+ {
+  "rank": 188,
+  "page": 6,
+  "verb": "ожидать",
+  "en": "to expect, anticipate",
+  "pair": "imperfective, no pair"
+ },
+ {
+  "rank": 189,
+  "page": 6,
+  "verb": "висеть",
+  "en": "to hang",
+  "pair": "imperfective, no pair"
+ },
+ {
+  "rank": 190,
+  "page": 6,
+  "verb": "создать",
+  "en": "to create, establish",
+  "pair": "создавать/создать"
+ },
+ {
+  "rank": 191,
+  "page": 6,
+  "verb": "уехать",
+  "en": "to leave, depart",
+  "pair": "уезжать/уехать"
+ },
+ {
+  "rank": 192,
+  "page": 6,
+  "verb": "выглядеть",
+  "en": "to look",
+  "pair": "imperfective, no pair"
+ },
+ {
+  "rank": 193,
+  "page": 6,
+  "verb": "учиться",
+  "en": "to study, learn",
+  "pair": "учиться/научиться"
+ },
+ {
+  "rank": 194,
+  "page": 6,
+  "verb": "разговаривать",
+  "en": "to talk, speak",
+  "pair": "imperfective, no pair"
+ },
+ {
+  "rank": 195,
+  "page": 6,
+  "verb": "помогать",
+  "en": "to help, assist",
+  "pair": "помогать/помочь"
+ },
+ {
+  "rank": 196,
+  "page": 6,
+  "verb": "повернуться",
+  "en": "to turn",
+  "pair": "поворачиваться/повернуться"
+ },
+ {
+  "rank": 197,
+  "page": 6,
+  "verb": "позволить",
+  "en": "to allow, permit",
+  "pair": "позволять/позволить"
+ },
+ {
+  "rank": 198,
+  "page": 7,
+  "verb": "встретить",
+  "en": "to meet",
+  "pair": "встречать/встретить"
+ },
+ {
+  "rank": 199,
+  "page": 7,
+  "verb": "входить",
+  "en": "to enter, come in",
+  "pair": "входить/войти"
+ },
+ {
+  "rank": 200,
+  "page": 7,
+  "verb": "обнаружить",
+  "en": "to discover, find out",
+  "pair": "обнаруживать/обнаружить"
+ },
+ {
+  "rank": 201,
+  "page": 7,
+  "verb": "нести",
+  "en": "to carry",
+  "pair": "нести/понесит"
+ },
+ {
+  "rank": 202,
+  "page": 7,
+  "verb": "прислать",
+  "en": "to send",
+  "pair": "присылать/прислать"
+ },
+ {
+  "rank": 203,
+  "page": 7,
+  "verb": "относиться",
+  "en": "to treat, regard, relate",
+  "pair": "относиться/отнестись"
+ },
+ {
+  "rank": 204,
+  "page": 7,
+  "verb": "возникать",
+  "en": "to arise, appear",
+  "pair": "возникать/возникнуть"
+ },
+ {
+  "rank": 205,
+  "page": 7,
+  "verb": "повторить",
+  "en": "to repeat",
+  "pair": "повторять/повторить"
+ },
+ {
+  "rank": 206,
+  "page": 7,
+  "verb": "погибнуть",
+  "en": "to perish, be killed",
+  "pair": "погибать/погибнуть"
+ },
+ {
+  "rank": 207,
+  "page": 7,
+  "verb": "гореть",
+  "en": "to burn",
+  "pair": "гореть/сгореть"
+ },
+ {
+  "rank": 208,
+  "page": 7,
+  "verb": "плакать",
+  "en": "to cry",
+  "pair": "плакать/поплакать"
+ },
+ {
+  "rank": 209,
+  "page": 7,
+  "verb": "двигаться",
+  "en": "to move",
+  "pair": "двигаться/двинуться"
+ },
+ {
+  "rank": 210,
+  "page": 7,
+  "verb": "добавить",
+  "en": "to add",
+  "pair": "добавлять/добавить"
+ },
+ {
+  "rank": 211,
+  "page": 7,
+  "verb": "удивиться",
+  "en": "to wonder, be surprised",
+  "pair": "удивляться/ удивиться"
+ },
+ {
+  "rank": 212,
+  "page": 7,
+  "verb": "действовать",
+  "en": "to act",
+  "pair": "imperfective, no pair"
+ },
+ {
+  "rank": 213,
+  "page": 7,
+  "verb": "держаться",
+  "en": "to hold on, behave",
+  "pair": "imperfective, no pair"
+ },
+ {
+  "rank": 214,
+  "page": 7,
+  "verb": "лететь",
+  "en": "to fly",
+  "pair": "imperfective, no pair (see полететь)"
+ },
+ {
+  "rank": 215,
+  "page": 7,
+  "verb": "носить",
+  "en": "to wear",
+  "pair": "носить/понести"
+ },
+ {
+  "rank": 216,
+  "page": 7,
+  "verb": "привыкнуть",
+  "en": "to get used to, to grow accustomed to",
+  "pair": "привыкать/ привыкнуть"
+ },
+ {
+  "rank": 217,
+  "page": 7,
+  "verb": "позвонить",
+  "en": "to call, to telephone",
+  "pair": "звонить/позвонить"
+ },
+ {
+  "rank": 218,
+  "page": 7,
+  "verb": "мешать",
+  "en": "to interfere, prevent; mix",
+  "pair": "мешать/помешать"
+ },
+ {
+  "rank": 219,
+  "page": 7,
+  "verb": "возникнуть",
+  "en": "to arise, spring up",
+  "pair": "возникать/ возникнуть"
+ },
+ {
+  "rank": 220,
+  "page": 7,
+  "verb": "желать",
+  "en": "to wish",
+  "pair": "желать/пожелать"
+ },
+ {
+  "rank": 221,
+  "page": 7,
+  "verb": "попробовать",
+  "en": "to try, text",
+  "pair": "пробовать/ попробовать"
+ },
+ {
+  "rank": 222,
+  "page": 7,
+  "verb": "получаться",
+  "en": "to come out",
+  "pair": "получаться/ получиться"
+ },
+ {
+  "rank": 223,
+  "page": 7,
+  "verb": "ставить",
+  "en": "to put, place, set",
+  "pair": "ставить/поставить"
+ },
+ {
+  "rank": 224,
+  "page": 7,
+  "verb": "проводить",
+  "en": "to lead, escort; accompany",
+  "pair": "проводить/провести"
+ },
+ {
+  "rank": 225,
+  "page": 7,
+  "verb": "обещать",
+  "en": "to promise",
+  "pair": "обещать/пообещать"
+ },
+ {
+  "rank": 226,
+  "page": 7,
+  "verb": "судить",
+  "en": "to judge, try",
+  "pair": "imperfective, no pair"
+ },
+ {
+  "rank": 227,
+  "page": 7,
+  "verb": "собраться",
+  "en": "to gather, collect",
+  "pair": "собираться/собраться"
+ },
+ {
+  "rank": 228,
+  "page": 7,
+  "verb": "колоть",
+  "en": "to prick",
+  "pair": "колоть/уколоть"
+ },
+ {
+  "rank": 229,
+  "page": 7,
+  "verb": "закричать",
+  "en": "to shout, cry out",
+  "pair": "кричать/закричать"
+ },
+ {
+  "rank": 230,
+  "page": 7,
+  "verb": "кончиться",
+  "en": "to end",
+  "pair": "кончаться/кончиться"
+ },
+ {
+  "rank": 231,
+  "page": 7,
+  "verb": "стрелять",
+  "en": "to shoot",
+  "pair": "стрелять/стрельнуть"
+ },
+ {
+  "rank": 232,
+  "page": 8,
+  "verb": "использовать",
+  "en": "to use, utilize, make use of",
+  "pair": "imperf. and perfective"
+ },
+ {
+  "rank": 233,
+  "page": 8,
+  "verb": "пахнуть",
+  "en": "to smell",
+  "pair": "imperfective, no pair"
+ },
+ {
+  "rank": 234,
+  "page": 8,
+  "verb": "передать",
+  "en": "to pass, give, transmit",
+  "pair": "передавать/передать"
+ },
+ {
+  "rank": 235,
+  "page": 8,
+  "verb": "вставать",
+  "en": "to get up, stand up, rise",
+  "pair": "вставать/встать"
+ },
+ {
+  "rank": 236,
+  "page": 8,
+  "verb": "снимать",
+  "en": "to take off, to photograph, to rent",
+  "pair": "снимать / снять"
+ },
+ {
+  "rank": 237,
+  "page": 8,
+  "verb": "звонить",
+  "en": "to ring, call",
+  "pair": "звонить/позвонить"
+ },
+ {
+  "rank": 238,
+  "page": 8,
+  "verb": "напоминать",
+  "en": "to remind, resemble",
+  "pair": "напоминать/ напомнить"
+ },
+ {
+  "rank": 239,
+  "page": 8,
+  "verb": "придумать",
+  "en": "to think, devise, invent",
+  "pair": "придумывать/ придумать"
+ },
+ {
+  "rank": 240,
+  "page": 8,
+  "verb": "падать",
+  "en": "to fall, drop, decline",
+  "pair": "падать/упасть"
+ },
+ {
+  "rank": 241,
+  "page": 8,
+  "verb": "поговорить",
+  "en": "to have a talk, speak, tell",
+  "pair": "говорить/поговорить"
+ },
+ {
+  "rank": 242,
+  "page": 8,
+  "verb": "начинаться",
+  "en": "to begin, start, set in",
+  "pair": "начинаться/начаться"
+ },
+ {
+  "rank": 243,
+  "page": 8,
+  "verb": "приказать",
+  "en": "to order, command",
+  "pair": "приказывать/ приказать"
+ },
+ {
+  "rank": 244,
+  "page": 8,
+  "verb": "засмеяться",
+  "en": "to start laughing, begin to laugh",
+  "pair": "смеяться/засмеяться"
+ },
+ {
+  "rank": 245,
+  "page": 8,
+  "verb": "касаться",
+  "en": "to touch, concern, touch upon",
+  "pair": "касаться/коснуться"
+ },
+ {
+  "rank": 246,
+  "page": 8,
+  "verb": "приняться",
+  "en": "to begin, set to, set about",
+  "pair": "приниматься/ приняться"
+ },
+ {
+  "rank": 247,
+  "page": 8,
+  "verb": "заставить",
+  "en": "to force, compel, make",
+  "pair": "заставлять/заставить"
+ },
+ {
+  "rank": 248,
+  "page": 8,
+  "verb": "подниматься",
+  "en": "to rise, go up, climb, get up",
+  "pair": "подниматься/ подняться"
+ },
+ {
+  "rank": 249,
+  "page": 8,
+  "verb": "ударить",
+  "en": "to strike, hit, beat",
+  "pair": "ударять/ударить"
+ },
+ {
+  "rank": 250,
+  "page": 8,
+  "verb": "разуметься",
+  "en": "to be understood",
+  "pair": "imperfective, no pair"
+ },
+ {
+  "rank": 251,
+  "page": 8,
+  "verb": "встречаться",
+  "en": "to meet, be found, occur",
+  "pair": "встречаться/ встретиться"
+ },
+ {
+  "rank": 252,
+  "page": 8,
+  "verb": "попытаться",
+  "en": "to try, attempt, endeavor",
+  "pair": "пытаться/попытаться"
+ },
+ {
+  "rank": 253,
+  "page": 8,
+  "verb": "схватить",
+  "en": "to seize, grasp, catch",
+  "pair": "схватывать/схватить"
+ },
+ {
+  "rank": 254,
+  "page": 8,
+  "verb": "отказаться",
+  "en": "to decline, reject, give up",
+  "pair": "отказываться/ отказаться"
+ },
+ {
+  "rank": 255,
+  "page": 8,
+  "verb": "вытащить",
+  "en": "to take out, pull out, extract, steal",
+  "pair": "вытаскивать/ вытащить"
+ },
+ {
+  "rank": 256,
+  "page": 8,
+  "verb": "предлагать",
+  "en": "to offer, propose, suggest, invite",
+  "pair": "предлагать/ предложить"
+ },
+ {
+  "rank": 257,
+  "page": 8,
+  "verb": "отправиться",
+  "en": "to set off, start, leave, depart",
+  "pair": "отправляться/ отправиться"
+ },
+ {
+  "rank": 258,
+  "page": 8,
+  "verb": "побежать",
+  "en": "to start running, to run",
+  "pair": "perfective, no pair"
+ },
+ {
+  "rank": 259,
+  "page": 8,
+  "verb": "курить",
+  "en": "to smoke",
+  "pair": "курить/закурить"
+ },
+ {
+  "rank": 260,
+  "page": 9,
+  "verb": "открывать",
+  "en": "to open, let out, discover",
+  "pair": "открывать/открыть"
+ },
+ {
+  "rank": 261,
+  "page": 9,
+  "verb": "зайти",
+  "en": "to call in, drop in, visit",
+  "pair": "заходить/зайти"
+ },
+ {
+  "rank": 262,
+  "page": 9,
+  "verb": "замечать",
+  "en": "to notice, percieve, observe, take a note",
+  "pair": "замечать/заметить"
+ },
+ {
+  "rank": 263,
+  "page": 9,
+  "verb": "закончить",
+  "en": "to end, finish, complete",
+  "pair": "заканчивать/ закончить"
+ },
+ {
+  "rank": 264,
+  "page": 9,
+  "verb": "следить",
+  "en": "to watch, spy, follow, keep an eye",
+  "pair": "imperfective, no pair (see проследить)"
+ },
+ {
+  "rank": 265,
+  "page": 9,
+  "verb": "броситься",
+  "en": "to throw oneself, rush, jump",
+  "pair": "бросаться/броситься"
+ },
+ {
+  "rank": 266,
+  "page": 9,
+  "verb": "закрыть",
+  "en": "to close, shut, cover up",
+  "pair": "закрывать/закрыть"
+ },
+ {
+  "rank": 267,
+  "page": 9,
+  "verb": "понравиться",
+  "en": "to like (as in \"I liked\")",
+  "pair": "нравиться/ понравиться"
+ },
+ {
+  "rank": 268,
+  "page": 9,
+  "verb": "обратиться",
+  "en": "to appeal, apply, address",
+  "pair": "обращаться/ обратиться"
+ },
+ {
+  "rank": 269,
+  "page": 9,
+  "verb": "велеть",
+  "en": "to order, tell",
+  "pair": "велеть/повелеть"
+ },
+ {
+  "rank": 270,
+  "page": 9,
+  "verb": "иметься",
+  "en": "to have, there is/are",
+  "pair": "imperfective, no pair"
+ },
+ {
+  "rank": 271,
+  "page": 9,
+  "verb": "опустить",
+  "en": "to lower, put down, omit",
+  "pair": "опускать/опустить"
+ },
+ {
+  "rank": 272,
+  "page": 9,
+  "verb": "родиться",
+  "en": "to be born, arise",
+  "pair": "рождаться/родиться"
+ },
+ {
+  "rank": 273,
+  "page": 9,
+  "verb": "спасти",
+  "en": "to save, rescue",
+  "pair": "спасать/спасти"
+ },
+ {
+  "rank": 274,
+  "page": 9,
+  "verb": "извинить",
+  "en": "to excuse, pardon",
+  "pair": "извинять/извинить"
+ },
+ {
+  "rank": 275,
+  "page": 9,
+  "verb": "объявить",
+  "en": "to declar, announce",
+  "pair": "объявлять/объявить"
+ },
+ {
+  "rank": 276,
+  "page": 9,
+  "verb": "обращаться",
+  "en": "to appeal, address",
+  "pair": "обращаться/ обратиться"
+ },
+ {
+  "rank": 277,
+  "page": 9,
+  "verb": "спешить",
+  "en": "to hurry",
+  "pair": "спешить/ поспешить"
+ },
+ {
+  "rank": 278,
+  "page": 9,
+  "verb": "наблюдать",
+  "en": "to observe, watch, supervise",
+  "pair": "imperfective, no pair"
+ },
+ {
+  "rank": 279,
+  "page": 9,
+  "verb": "суметь",
+  "en": "to be able, manage, succeed",
+  "pair": "уметь/суметь"
+ },
+ {
+  "rank": 280,
+  "page": 9,
+  "verb": "обернуться",
+  "en": "to turn out, result in",
+  "pair": "оборачиваться/ обернуться"
+ },
+ {
+  "rank": 281,
+  "page": 9,
+  "verb": "проснуться",
+  "en": "to wake up",
+  "pair": "просыпаться/ проснуться"
+ },
+ {
+  "rank": 282,
+  "page": 9,
+  "verb": "подождать",
+  "en": "to wait, postpone",
+  "pair": "ждать/подождать"
+ },
+ {
+  "rank": 283,
+  "page": 9,
+  "verb": "заговорить",
+  "en": "to begin to speak,",
+  "pair": "заговаривать/ заговорить"
+ },
+ {
+  "rank": 284,
+  "page": 9,
+  "verb": "пользоваться",
+  "en": "to use, take advantage of",
+  "pair": "imperfective, no pair (see попользоваться)"
+ },
+ {
+  "rank": 285,
+  "page": 9,
+  "verb": "повторять",
+  "en": "to repeat",
+  "pair": "повторять/ повторить"
+ },
+ {
+  "rank": 286,
+  "page": 9,
+  "verb": "учить",
+  "en": "to teach, learn",
+  "pair": "учить/выучить"
+ },
+ {
+  "rank": 287,
+  "page": 10,
+  "verb": "взяться",
+  "en": "to set about, undertake",
+  "pair": "браться/взяться"
+ },
+ {
+  "rank": 288,
+  "page": 10,
+  "verb": "бегать",
+  "en": "to run, run about",
+  "pair": "imperfective, no pair (see побежать)"
+ },
+ {
+  "rank": 289,
+  "page": 10,
+  "verb": "устроить",
+  "en": "to arrange, to make, build",
+  "pair": "устраивать/устроить"
+ },
+ {
+  "rank": 290,
+  "page": 10,
+  "verb": "дышать",
+  "en": "to breath",
+  "pair": "imperfective, no pair"
+ },
+ {
+  "rank": 291,
+  "page": 10,
+  "verb": "лечь",
+  "en": "to lie down",
+  "pair": "ложиться/лечь"
+ },
+ {
+  "rank": 292,
+  "page": 10,
+  "verb": "состоять",
+  "en": "to consist of, be",
+  "pair": "imperfective, no pair"
+ },
+ {
+  "rank": 293,
+  "page": 10,
+  "verb": "заходить",
+  "en": "to call in, drop in, visit",
+  "pair": "заходить/зайти"
+ },
+ {
+  "rank": 294,
+  "page": 10,
+  "verb": "считаться",
+  "en": "to take into consideration, settle with",
+  "pair": "считаться/ посчитаться"
+ },
+ {
+  "rank": 295,
+  "page": 10,
+  "verb": "ездить",
+  "en": "to drive, ride, go, travel",
+  "pair": "ездить/поездить"
+ },
+ {
+  "rank": 296,
+  "page": 10,
+  "verb": "остановить",
+  "en": "to stop",
+  "pair": "останавливать/ остановить"
+ },
+ {
+  "rank": 297,
+  "page": 10,
+  "verb": "встретиться",
+  "en": "to meet, be found, occur",
+  "pair": "встречаться/ встретиться"
+ },
+ {
+  "rank": 298,
+  "page": 10,
+  "verb": "явиться",
+  "en": "to appear, present oneself, arrive",
+  "pair": "являться/явиться"
+ },
+ {
+  "rank": 299,
+  "page": 10,
+  "verb": "привезти",
+  "en": "to bring",
+  "pair": "привозить/привезти"
+ },
+ {
+  "rank": 300,
+  "page": 10,
+  "verb": "платить",
+  "en": "to pay",
+  "pair": "платить/заплатить"
+ },
+ {
+  "rank": 301,
+  "page": 10,
+  "verb": "спасть",
+  "en": "to fall, abate",
+  "pair": "спадать/спасть"
+ },
+ {
+  "rank": 302,
+  "page": 10,
+  "verb": "здравствовать",
+  "en": "to be well, prosper, thrive",
+  "pair": "imperfective, no pair"
+ },
+ {
+  "rank": 303,
+  "page": 10,
+  "verb": "позволять",
+  "en": "to allow, permit, enable",
+  "pair": "позволять/ позволить"
+ },
+ {
+  "rank": 304,
+  "page": 10,
+  "verb": "заявить",
+  "en": "to declare, announce",
+  "pair": "заявлять/заявить"
+ },
+ {
+  "rank": 305,
+  "page": 10,
+  "verb": "торчать",
+  "en": "to protrude, stick out, hang about",
+  "pair": "imperfective, no pair"
+ },
+ {
+  "rank": 306,
+  "page": 10,
+  "verb": "поймать",
+  "en": "to catch",
+  "pair": "ловить/поймать"
+ },
+ {
+  "rank": 307,
+  "page": 10,
+  "verb": "собирать",
+  "en": "to gather, collect, put together, pack",
+  "pair": "собирать/собрать"
+ },
+ {
+  "rank": 308,
+  "page": 10,
+  "verb": "находить",
+  "en": "to find, discover, consider",
+  "pair": "находить/найти"
+ },
+ {
+  "rank": 309,
+  "page": 10,
+  "verb": "собрать",
+  "en": "to gather, collect, put together, pack",
+  "pair": "собирать/собрать"
+ },
+ {
+  "rank": 310,
+  "page": 10,
+  "verb": "наступить",
+  "en": "to come, set in, step on, attack",
+  "pair": "наступать/наступить"
+ },
+ {
+  "rank": 311,
+  "page": 10,
+  "verb": "тянуть",
+  "en": "to pull, draw, haul",
+  "pair": "тянуть/потянуть"
+ },
+ {
+  "rank": 312,
+  "page": 10,
+  "verb": "бросать",
+  "en": "to throw, fling",
+  "pair": "бросать/бросить"
+ },
+ {
+  "rank": 313,
+  "page": 10,
+  "verb": "мечтать",
+  "en": "to dream",
+  "pair": "мечтать/помечтать"
+ },
+ {
+  "rank": 314,
+  "page": 10,
+  "verb": "захотеть",
+  "en": "to want, to feel like",
+  "pair": "хотеть/захотеть"
+ },
+ {
+  "rank": 315,
+  "page": 10,
+  "verb": "оставлять",
+  "en": "to leave, abandon, keep, retain",
+  "pair": "оставлять/оставить"
+ },
+ {
+  "rank": 316,
+  "page": 11,
+  "verb": "усмехнуться",
+  "en": "to give a short laugh, smile slightly, grin",
+  "pair": "усмехаться/ усмехнуться"
+ },
+ {
+  "rank": 317,
+  "page": 11,
+  "verb": "пропасть",
+  "en": "to disappear, be lost, be missing",
+  "pair": "пропадать/пропасть"
+ },
+ {
+  "rank": 318,
+  "page": 11,
+  "verb": "выдержать",
+  "en": "to bear, stand, endure",
+  "pair": "выдерживать/ выдержать"
+ },
+ {
+  "rank": 319,
+  "page": 11,
+  "verb": "встречать",
+  "en": "to meet",
+  "pair": "встречать/встретить"
+ },
+ {
+  "rank": 320,
+  "page": 11,
+  "verb": "пускать",
+  "en": "to let, allow, permit, let in",
+  "pair": "пускать/пустить"
+ },
+ {
+  "rank": 321,
+  "page": 11,
+  "verb": "отпустить",
+  "en": "to let go, release",
+  "pair": "отпускать/ отпустить"
+ },
+ {
+  "rank": 322,
+  "page": 11,
+  "verb": "воскликнуть",
+  "en": "to exclaim, cry",
+  "pair": "восклицать/ воскликнуть"
+ },
+ {
+  "rank": 323,
+  "page": 11,
+  "verb": "дрожать",
+  "en": "to tremble",
+  "pair": "imperfective, no pair (see задрожать)"
+ },
+ {
+  "rank": 324,
+  "page": 11,
+  "verb": "выбрать",
+  "en": "to choose, select",
+  "pair": "выбирать/выбрать"
+ },
+ {
+  "rank": 325,
+  "page": 11,
+  "verb": "пожать",
+  "en": "to press, shake, to reap",
+  "pair": "пожимать/пожать"
+ },
+ {
+  "rank": 326,
+  "page": 11,
+  "verb": "раздаться",
+  "en": "to be heard (as in \"there was a knock [heard] on the door\")",
+  "pair": "раздаваться/ раздаться"
+ },
+ {
+  "rank": 327,
+  "page": 11,
+  "verb": "объяснять",
+  "en": "to explain",
+  "pair": "объяснять/ объяснить"
+ },
+ {
+  "rank": 328,
+  "page": 11,
+  "verb": "обратить",
+  "en": "to turn (as in \"turn one's eyes upon smth\"), turn into",
+  "pair": "обращать/обратить"
+ },
+ {
+  "rank": 329,
+  "page": 11,
+  "verb": "сунуть",
+  "en": "to shove, poke, thrust",
+  "pair": "совать/сунуть"
+ },
+ {
+  "rank": 330,
+  "page": 11,
+  "verb": "разрешить",
+  "en": "to allow, permit",
+  "pair": "разрешать/ разрешить"
+ },
+ {
+  "rank": 331,
+  "page": 11,
+  "verb": "признаться",
+  "en": "to confess, admit",
+  "pair": "признаваться/ признаться"
+ },
+ {
+  "rank": 332,
+  "page": 11,
+  "verb": "составлять",
+  "en": "to make up, put together, compose",
+  "pair": "составлять/ составить"
+ },
+ {
+  "rank": 333,
+  "page": 11,
+  "verb": "видать",
+  "en": "to see",
+  "pair": "imperfective, no pair (see повидать)"
+ },
+ {
+  "rank": 334,
+  "page": 11,
+  "verb": "занимать",
+  "en": "to borrow, occupy, secure",
+  "pair": "занимать/занять"
+ },
+ {
+  "rank": 335,
+  "page": 11,
+  "verb": "терять",
+  "en": "to lose, shed (leaves)",
+  "pair": "терять/потерять"
+ },
+ {
+  "rank": 336,
+  "page": 11,
+  "verb": "вскочить",
+  "en": "to jump, jump up",
+  "pair": "вскакивать/вскочить"
+ },
+ {
+  "rank": 337,
+  "page": 11,
+  "verb": "прочитать",
+  "en": "to read",
+  "pair": "читать/прочитать"
+ },
+ {
+  "rank": 338,
+  "page": 11,
+  "verb": "лезть",
+  "en": "to get in, to push, butt in",
+  "pair": "лезть/полезть"
+ },
+ {
+  "rank": 339,
+  "page": 11,
+  "verb": "отправить",
+  "en": "to send, forward, mail",
+  "pair": "отправлять/ отправить"
+ },
+ {
+  "rank": 340,
+  "page": 11,
+  "verb": "построить",
+  "en": "to build, make, construct",
+  "pair": "строить/построить"
+ },
+ {
+  "rank": 341,
+  "page": 11,
+  "verb": "пустить",
+  "en": "to let in, to let go",
+  "pair": "пускать/пустить"
+ },
+ {
+  "rank": 342,
+  "page": 12,
+  "verb": "заглянуть",
+  "en": "to peep in, glance, drop in",
+  "pair": "заглядывать/ заглянуть"
+ },
+ {
+  "rank": 343,
+  "page": 12,
+  "verb": "проговорить",
+  "en": "to say, talk",
+  "pair": "проговаривать/ проговорить"
+ },
+ {
+  "rank": 344,
+  "page": 12,
+  "verb": "проверить",
+  "en": "to check, verify, examine",
+  "pair": "проверять/ проверить"
+ },
+ {
+  "rank": 345,
+  "page": 12,
+  "verb": "болеть",
+  "en": "to be ill, worry, be a fan of",
+  "pair": "болеть/заболеть"
+ },
+ {
+  "rank": 346,
+  "page": 12,
+  "verb": "поднимать",
+  "en": "to raise, pick up",
+  "pair": "поднимать/поднять"
+ },
+ {
+  "rank": 347,
+  "page": 12,
+  "verb": "означать",
+  "en": "to mean, signify",
+  "pair": "imperfective, no pair (see означить)"
+ },
+ {
+  "rank": 348,
+  "page": 12,
+  "verb": "говориться",
+  "en": "to be said",
+  "pair": "imperfective, no pair"
+ },
+ {
+  "rank": 349,
+  "page": 12,
+  "verb": "испытывать",
+  "en": "to try, test",
+  "pair": "испытывать/испытать"
+ },
+ {
+  "rank": 350,
+  "page": 12,
+  "verb": "жениться",
+  "en": "to marry",
+  "pair": "imperf. and perfective"
+ },
+ {
+  "rank": 351,
+  "page": 12,
+  "verb": "оглянуться",
+  "en": "to look back, look around",
+  "pair": "оглядываться/ оглянуться"
+ },
+ {
+  "rank": 352,
+  "page": 12,
+  "verb": "пригласить",
+  "en": "to invite",
+  "pair": "приглашать/ пригласить"
+ },
+ {
+  "rank": 353,
+  "page": 12,
+  "verb": "принадлежать",
+  "en": "to belong",
+  "pair": "imperfective, no pair"
+ },
+ {
+  "rank": 354,
+  "page": 12,
+  "verb": "строить",
+  "en": "to build, construct",
+  "pair": "строить/построить"
+ },
+ {
+  "rank": 355,
+  "page": 12,
+  "verb": "перейти",
+  "en": "to cross, move, pass, transfer",
+  "pair": "переходить/перейти"
+ },
+ {
+  "rank": 356,
+  "page": 12,
+  "verb": "повезти",
+  "en": "to be lucky, to convery, carry, drive",
+  "pair": "везти/повезти"
+ },
+ {
+  "rank": 357,
+  "page": 12,
+  "verb": "поглядеть",
+  "en": "to look, look at",
+  "pair": "глядеть/поглядеть"
+ },
+ {
+  "rank": 358,
+  "page": 12,
+  "verb": "повернуть",
+  "en": "to turn",
+  "pair": "поворачивать/ повернуть"
+ },
+ {
+  "rank": 359,
+  "page": 12,
+  "verb": "добраться",
+  "en": "to arrive, reach, get there",
+  "pair": "добираться/ добраться"
+ },
+ {
+  "rank": 360,
+  "page": 12,
+  "verb": "признать",
+  "en": "to recognize, acknowledge, admit",
+  "pair": "признавать/признать"
+ },
+ {
+  "rank": 361,
+  "page": 12,
+  "verb": "поступить",
+  "en": "to enter, join, act, treat",
+  "pair": "поступать/поступить"
+ },
+ {
+  "rank": 362,
+  "page": 12,
+  "verb": "торопиться",
+  "en": "to be in a hurry",
+  "pair": "торопиться/ поторопиться"
+ },
+ {
+  "rank": 363,
+  "page": 12,
+  "verb": "вынуть",
+  "en": "to take out, extract",
+  "pair": "вынимать/вынуть"
+ },
+ {
+  "rank": 364,
+  "page": 12,
+  "verb": "стоить",
+  "en": "to cost, be worth (something)",
+  "pair": "imperfective, no pair"
+ },
+ {
+  "rank": 365,
+  "page": 12,
+  "verb": "полагать",
+  "en": "to suppose, think",
+  "pair": "imperfective, no pair (see положить)"
+ },
+ {
+  "rank": 366,
+  "page": 12,
+  "verb": "послушать",
+  "en": "to listen to,",
+  "pair": "слушать/послушать"
+ },
+ {
+  "rank": 367,
+  "page": 12,
+  "verb": "отметить",
+  "en": "to mark, note",
+  "pair": "отмечать/отметить"
+ },
+ {
+  "rank": 368,
+  "page": 12,
+  "verb": "утверждать",
+  "en": "to affirm, approve, confirm",
+  "pair": "утверждать/ утвердить"
+ },
+ {
+  "rank": 369,
+  "page": 13,
+  "verb": "отличаться",
+  "en": "to differ, be notable, distinguish oneself",
+  "pair": "отличаться/ отличиться"
+ },
+ {
+  "rank": 370,
+  "page": 13,
+  "verb": "выскочить",
+  "en": "to jump out, pop out, come out",
+  "pair": "выскакивать/ выскочить"
+ },
+ {
+  "rank": 371,
+  "page": 13,
+  "verb": "приезжать",
+  "en": "to arrive, come",
+  "pair": "приезжать/приехать"
+ },
+ {
+  "rank": 372,
+  "page": 13,
+  "verb": "катить",
+  "en": "to drive, roll",
+  "pair": "катить/покатить"
+ },
+ {
+  "rank": 373,
+  "page": 13,
+  "verb": "расти",
+  "en": "to grow",
+  "pair": "imperfective, no pair (see вырасти, подрасти)"
+ },
+ {
+  "rank": 374,
+  "page": 13,
+  "verb": "вернуть",
+  "en": "to return, give back",
+  "pair": "возвращать/вернуть"
+ },
+ {
+  "rank": 375,
+  "page": 13,
+  "verb": "зависеть",
+  "en": "to depend",
+  "pair": "imperfective, no pair"
+ },
+ {
+  "rank": 376,
+  "page": 13,
+  "verb": "познакомиться",
+  "en": "to meet, make the acquaintance",
+  "pair": "знакомиться/ познакомиться"
+ },
+ {
+  "rank": 377,
+  "page": 13,
+  "verb": "жалить",
+  "en": "to sting",
+  "pair": "жалить/ужалить"
+ },
+ {
+  "rank": 378,
+  "page": 13,
+  "verb": "найтись",
+  "en": "to be found, never be at a loss",
+  "pair": "находиться/найтись"
+ },
+ {
+  "rank": 379,
+  "page": 13,
+  "verb": "делаться",
+  "en": "to become, get, grow, happen",
+  "pair": "делаться/сделаться"
+ },
+ {
+  "rank": 380,
+  "page": 13,
+  "verb": "догадаться",
+  "en": "to guess, to have the sense to",
+  "pair": "догадываться/ догадаться"
+ },
+ {
+  "rank": 381,
+  "page": 13,
+  "verb": "прожить",
+  "en": "to live, reside, spend",
+  "pair": "проживать/прожить"
+ },
+ {
+  "rank": 382,
+  "page": 13,
+  "verb": "гулять",
+  "en": "to go for a walk, be outdoors, have time off, enjoy oneself",
+  "pair": "гулять/погулять"
+ },
+ {
+  "rank": 383,
+  "page": 13,
+  "verb": "разобраться",
+  "en": "to disassemble, unpack, to look into, examine",
+  "pair": "разбираться/ разобраться"
+ },
+ {
+  "rank": 384,
+  "page": 13,
+  "verb": "обращать",
+  "en": "to turn (as in \"turn one's eyes upon smth\"), turn into",
+  "pair": "обращать/обратить"
+ },
+ {
+  "rank": 385,
+  "page": 13,
+  "verb": "отдавать",
+  "en": "to return, give back",
+  "pair": "отдавать/отдать"
+ },
+ {
+  "rank": 386,
+  "page": 13,
+  "verb": "сходить",
+  "en": "to go and get, to go down, get off, come off",
+  "pair": "сойти/сходить"
+ },
+ {
+  "rank": 387,
+  "page": 13,
+  "verb": "звучать",
+  "en": "to sound, ring",
+  "pair": "звучать/прозвучать"
+ },
+ {
+  "rank": 388,
+  "page": 13,
+  "verb": "волноваться",
+  "en": "to worry, be upset, be rough",
+  "pair": "волноваться/ взволноваться"
+ },
+ {
+  "rank": 389,
+  "page": 13,
+  "verb": "подать",
+  "en": "to give, serve",
+  "pair": "подавать/подать"
+ },
+ {
+  "rank": 390,
+  "page": 13,
+  "verb": "готовить",
+  "en": "to prepare, train, cook",
+  "pair": "готовить/приготовить"
+ },
+ {
+  "rank": 391,
+  "page": 13,
+  "verb": "жалеть",
+  "en": "to feel sorry, pitty, regret",
+  "pair": "жалеть/пожалеть"
+ },
+ {
+  "rank": 392,
+  "page": 13,
+  "verb": "врать",
+  "en": "to lie, tell lies",
+  "pair": "врать/соврать"
+ },
+ {
+  "rank": 393,
+  "page": 13,
+  "verb": "возразить",
+  "en": "to object, disagree",
+  "pair": "возражать/возразить"
+ },
+ {
+  "rank": 394,
+  "page": 13,
+  "verb": "готовиться",
+  "en": "to prepare for, make ready for",
+  "pair": "готовить/приготовить"
+ },
+ {
+  "rank": 395,
+  "page": 13,
+  "verb": "превратиться",
+  "en": "to change into, turn into, be reduced to",
+  "pair": "превращаться/ превратиться"
+ },
+ {
+  "rank": 396,
+  "page": 14,
+  "verb": "терпеть",
+  "en": "to endure, suffer, stand, tolerate",
+  "pair": "терпеть/потерпеть"
+ },
+ {
+  "rank": 397,
+  "page": 14,
+  "verb": "махнуть",
+  "en": "to wave, flap, flutter",
+  "pair": "махать/махнуть"
+ },
+ {
+  "rank": 398,
+  "page": 14,
+  "verb": "определить",
+  "en": "to define, determine",
+  "pair": "определять/ определить"
+ },
+ {
+  "rank": 399,
+  "page": 14,
+  "verb": "выпустить",
+  "en": "to let out, discharge, release",
+  "pair": "выпускать/ выпустить"
+ },
+ {
+  "rank": 400,
+  "page": 14,
+  "verb": "выступать",
+  "en": "to come forward, advance, appear, perform",
+  "pair": "выступать/ выступить"
+ },
+ {
+  "rank": 401,
+  "page": 14,
+  "verb": "рассматривать",
+  "en": "to look at, consider, regard",
+  "pair": "рассматривать/ рассмотреть"
+ },
+ {
+  "rank": 402,
+  "page": 14,
+  "verb": "отойти",
+  "en": "move away, walk away, leave, digress",
+  "pair": "отходить/отойти"
+ },
+ {
+  "rank": 403,
+  "page": 14,
+  "verb": "вырасти",
+  "en": "to grow, grow up",
+  "pair": "вырастать/вырасти"
+ },
+ {
+  "rank": 404,
+  "page": 14,
+  "verb": "перевести",
+  "en": "to transfer, translate",
+  "pair": "переводить/ перевести"
+ },
+ {
+  "rank": 405,
+  "page": 14,
+  "verb": "посадить",
+  "en": "to plant",
+  "pair": "садить/посадить"
+ },
+ {
+  "rank": 406,
+  "page": 14,
+  "verb": "орать",
+  "en": "to shout, scream, yell",
+  "pair": "орать/заорать"
+ },
+ {
+  "rank": 407,
+  "page": 14,
+  "verb": "обойтись",
+  "en": "to treat, to cost, manage",
+  "pair": "обходиться/обойтись"
+ },
+ {
+  "rank": 408,
+  "page": 14,
+  "verb": "выдать",
+  "en": "to hand, give out, distribute",
+  "pair": "выдавать/выдать"
+ },
+ {
+  "rank": 409,
+  "page": 14,
+  "verb": "воевать",
+  "en": "to be at war, to fight",
+  "pair": "воевать/повоевать"
+ },
+ {
+  "rank": 410,
+  "page": 14,
+  "verb": "останавливаться",
+  "en": "to stop",
+  "pair": "останавливаться/ остановиться"
+ },
+ {
+  "rank": 411,
+  "page": 14,
+  "verb": "обладать",
+  "en": "to have, possess",
+  "pair": "always imperfective"
+ },
+ {
+  "rank": 412,
+  "page": 14,
+  "verb": "продать",
+  "en": "to sell",
+  "pair": "продавать/продать"
+ },
+ {
+  "rank": 413,
+  "page": 14,
+  "verb": "спорить",
+  "en": "to argue, dispute",
+  "pair": "спорить/поспорить"
+ },
+ {
+  "rank": 414,
+  "page": 14,
+  "verb": "полезть",
+  "en": "to begin to climb, to put one's hand into",
+  "pair": "лезть/полезть"
+ },
+ {
+  "rank": 415,
+  "page": 14,
+  "verb": "выполнять",
+  "en": "to fulfill, carry out, execute, make",
+  "pair": "выполнять/ выполнить"
+ },
+ {
+  "rank": 416,
+  "page": 14,
+  "verb": "требоваться",
+  "en": "to be required, be needed",
+  "pair": "требоваться/ потребоваться"
+ },
+ {
+  "rank": 417,
+  "page": 14,
+  "verb": "умирать",
+  "en": "to die, pass away",
+  "pair": "умирать/умереть"
+ },
+ {
+  "rank": 418,
+  "page": 14,
+  "verb": "дойти",
+  "en": "to reach, arrive, come across",
+  "pair": "доходить/дойти"
+ },
+ {
+  "rank": 419,
+  "page": 14,
+  "verb": "успокоиться",
+  "en": "to calm down, quiet, settle down, abate",
+  "pair": "успокоиться/ успокаиваться"
+ },
+ {
+  "rank": 420,
+  "page": 14,
+  "verb": "приближаться",
+  "en": "to approach, near",
+  "pair": "приближаться/ приблизиться"
+ },
+ {
+  "rank": 421,
+  "page": 14,
+  "verb": "летать",
+  "en": "to fly, flutter",
+  "pair": "летать/полететь"
+ },
+ {
+  "rank": 422,
+  "page": 14,
+  "verb": "убивать",
+  "en": "to kill",
+  "pair": "убивать/убить"
+ },
+ {
+  "rank": 423,
+  "page": 15,
+  "verb": "двинуться",
+  "en": "to move, advance",
+  "pair": "двигаться/двинуться"
+ },
+ {
+  "rank": 424,
+  "page": 15,
+  "verb": "спуститься",
+  "en": "to come down, descend, land, settle",
+  "pair": "спускаться/ спуститься"
+ },
+ {
+  "rank": 425,
+  "page": 15,
+  "verb": "установить",
+  "en": "to install, place, mount",
+  "pair": "устанавливать/ установить"
+ },
+ {
+  "rank": 426,
+  "page": 15,
+  "verb": "забывать",
+  "en": "to forget",
+  "pair": "забывать/забыть"
+ },
+ {
+  "rank": 427,
+  "page": 15,
+  "verb": "позвать",
+  "en": "to call, invite",
+  "pair": "звать/позвать"
+ },
+ {
+  "rank": 428,
+  "page": 15,
+  "verb": "испугаться",
+  "en": "to be frightened, startled",
+  "pair": "пугаться/испугаться"
+ },
+ {
+  "rank": 429,
+  "page": 15,
+  "verb": "съесть",
+  "en": "to eat",
+  "pair": "есть/съесть"
+ },
+ {
+  "rank": 430,
+  "page": 15,
+  "verb": "прочесть",
+  "en": "to read",
+  "pair": "читать/прочесть"
+ },
+ {
+  "rank": 431,
+  "page": 15,
+  "verb": "задуматься",
+  "en": "to ponder, become thoughtful, hesitate",
+  "pair": "задумываться/ задуматься"
+ },
+ {
+  "rank": 432,
+  "page": 15,
+  "verb": "решать",
+  "en": "to decide, to solve",
+  "pair": "решать/решить"
+ },
+ {
+  "rank": 433,
+  "page": 15,
+  "verb": "подарить",
+  "en": "to give (as a present)",
+  "pair": "дарить/подарить"
+ },
+ {
+  "rank": 434,
+  "page": 15,
+  "verb": "измениться",
+  "en": "to change",
+  "pair": "изменяться/ измениться"
+ },
+ {
+  "rank": 435,
+  "page": 15,
+  "verb": "приводить",
+  "en": "to bring",
+  "pair": "приводить/привести"
+ },
+ {
+  "rank": 436,
+  "page": 15,
+  "verb": "удивляться",
+  "en": "to be surprised, be astonished",
+  "pair": "удивляться/ удивиться"
+ },
+ {
+  "rank": 437,
+  "page": 15,
+  "verb": "забрать",
+  "en": "to take away, seize",
+  "pair": "забирать/забрать"
+ },
+ {
+  "rank": 438,
+  "page": 15,
+  "verb": "занять",
+  "en": "to take up, occupy, borrow",
+  "pair": "занимать/занять"
+ },
+ {
+  "rank": 439,
+  "page": 15,
+  "verb": "доказать",
+  "en": "to prove, demostrate",
+  "pair": "доказывать/доказать"
+ },
+ {
+  "rank": 440,
+  "page": 15,
+  "verb": "варить",
+  "en": "to boil, cook",
+  "pair": "варить/сварить"
+ },
+ {
+  "rank": 441,
+  "page": 15,
+  "verb": "изменить",
+  "en": "to change, to",
+  "pair": "изменять/изменить"
+ },
+ {
+  "rank": 442,
+  "page": 15,
+  "verb": "ловить",
+  "en": "to catch, to betray, be unfaithful",
+  "pair": "ловить/поймать"
+ },
+ {
+  "rank": 443,
+  "page": 15,
+  "verb": "стремиться",
+  "en": "to speed, rush",
+  "pair": "стремиться/ устремиться"
+ },
+ {
+  "rank": 444,
+  "page": 15,
+  "verb": "тянуться",
+  "en": "to stretch, extend",
+  "pair": "тянуться/вытянуться"
+ },
+ {
+  "rank": 445,
+  "page": 15,
+  "verb": "заставлять",
+  "en": "to force, compel, make",
+  "pair": "заставлять/заставить"
+ },
+ {
+  "rank": 446,
+  "page": 15,
+  "verb": "страдать",
+  "en": "to suffer, be troubled by",
+  "pair": "страдать/пострадать"
+ },
+ {
+  "rank": 447,
+  "page": 15,
+  "verb": "записать",
+  "en": "to write down, record",
+  "pair": "записывать/записать"
+ },
+ {
+  "rank": 448,
+  "page": 15,
+  "verb": "интересовать",
+  "en": "to interest",
+  "pair": "интересовать/ заинтересовать"
+ },
+ {
+  "rank": 449,
+  "page": 15,
+  "verb": "включить",
+  "en": "to include, to switch on",
+  "pair": "включать/включить"
+ },
+ {
+  "rank": 450,
+  "page": 15,
+  "verb": "поразить",
+  "en": "to strike, startle, affect",
+  "pair": "поражать/поразить"
+ },
+ {
+  "rank": 451,
+  "page": 15,
+  "verb": "помолчать",
+  "en": "to keep quiet, be silent",
+  "pair": "молчать/помолчать"
+ },
+ {
+  "rank": 452,
+  "page": 15,
+  "verb": "открыться",
+  "en": "to open, come to light",
+  "pair": "открываться/ открыться"
+ },
+ {
+  "rank": 453,
+  "page": 15,
+  "verb": "направить",
+  "en": "to direct, aim, send",
+  "pair": "направлять/ направить"
+ },
+ {
+  "rank": 454,
+  "page": 16,
+  "verb": "запомнить",
+  "en": "to memorize, remember",
+  "pair": "запоминать/ запомнить"
+ },
+ {
+  "rank": 455,
+  "page": 16,
+  "verb": "бороться",
+  "en": "to struggle, fight",
+  "pair": "бороться/побороться"
+ },
+ {
+  "rank": 456,
+  "page": 16,
+  "verb": "везти",
+  "en": "to tranport, carry, drive, to be lucky",
+  "pair": "везти/повезти"
+ },
+ {
+  "rank": 457,
+  "page": 16,
+  "verb": "научиться",
+  "en": "to learn, study",
+  "pair": "учиться/научиться"
+ },
+ {
+  "rank": 458,
+  "page": 16,
+  "verb": "назначить",
+  "en": "to assign, allot, fix",
+  "pair": "назначать/назначить"
+ },
+ {
+  "rank": 459,
+  "page": 16,
+  "verb": "выбирать",
+  "en": "to choose, select",
+  "pair": "выбирать/выбрать"
+ },
+ {
+  "rank": 460,
+  "page": 16,
+  "verb": "напомнить",
+  "en": "to remind, resemble",
+  "pair": "напоминать/ напомнить"
+ },
+ {
+  "rank": 461,
+  "page": 16,
+  "verb": "сомневаться",
+  "en": "to doubt, hesitate",
+  "pair": "сомневаться/ засомневаться"
+ },
+ {
+  "rank": 462,
+  "page": 16,
+  "verb": "радоваться",
+  "en": "to be glad, happy",
+  "pair": "радоваться/ обрадоваться"
+ },
+ {
+  "rank": 463,
+  "page": 16,
+  "verb": "покрыть",
+  "en": "to cover",
+  "pair": "покрывать/покрыть"
+ },
+ {
+  "rank": 464,
+  "page": 16,
+  "verb": "глянуть",
+  "en": "to glance",
+  "pair": "глядеть/глянуть"
+ },
+ {
+  "rank": 465,
+  "page": 16,
+  "verb": "захватить",
+  "en": "to seize, capture, thrill",
+  "pair": "захватывать/ захватить"
+ },
+ {
+  "rank": 466,
+  "page": 16,
+  "verb": "приносить",
+  "en": "to bring",
+  "pair": "приносить/принести"
+ },
+ {
+  "rank": 467,
+  "page": 16,
+  "verb": "составить",
+  "en": "to compose, make up, put together",
+  "pair": "составлять/составить"
+ },
+ {
+  "rank": 468,
+  "page": 16,
+  "verb": "костить",
+  "en": "to abuse, reprimand angrily",
+  "pair": "костить/скостить"
+ },
+ {
+  "rank": 469,
+  "page": 16,
+  "verb": "покупать",
+  "en": "to buy, purchase",
+  "pair": "покупать/купить"
+ },
+ {
+  "rank": 470,
+  "page": 16,
+  "verb": "стучать",
+  "en": "to tap, knock, pound",
+  "pair": "стучать/постучать"
+ },
+ {
+  "rank": 471,
+  "page": 16,
+  "verb": "менять",
+  "en": "to change, exchange",
+  "pair": "менять/поменять"
+ },
+ {
+  "rank": 472,
+  "page": 16,
+  "verb": "разглядывать",
+  "en": "to examine",
+  "pair": "разглядывать/ разглядеть"
+ },
+ {
+  "rank": 473,
+  "page": 16,
+  "verb": "закурить",
+  "en": "to light up, begin to smoke",
+  "pair": "закуривать/закурить"
+ },
+ {
+  "rank": 474,
+  "page": 16,
+  "verb": "устать",
+  "en": "to get tired",
+  "pair": "уставать/устать"
+ },
+ {
+  "rank": 475,
+  "page": 16,
+  "verb": "прикрыть",
+  "en": "to cover, protect, conceal",
+  "pair": "прикрывать/ прикрыть"
+ },
+ {
+  "rank": 476,
+  "page": 16,
+  "verb": "замолчать",
+  "en": "to stop talking, to hush up",
+  "pair": "молчать/замолчать"
+ },
+ {
+  "rank": 477,
+  "page": 16,
+  "verb": "завести",
+  "en": "to bring, acquire, wind up",
+  "pair": "заводить/завести"
+ },
+ {
+  "rank": 478,
+  "page": 16,
+  "verb": "прибыть",
+  "en": "to arrive, come",
+  "pair": "прибывать/прибыть"
+ },
+ {
+  "rank": 479,
+  "page": 16,
+  "verb": "подтвердить",
+  "en": "to confirm",
+  "pair": "подтверждать/ подтвердить"
+ },
+ {
+  "rank": 480,
+  "page": 16,
+  "verb": "сойти",
+  "en": "to come down, to go and fetch, descend",
+  "pair": "сходить/сойти"
+ },
+ {
+  "rank": 481,
+  "page": 16,
+  "verb": "поступать",
+  "en": "to enter, act, treat, behave",
+  "pair": "поступать/поступить"
+ },
+ {
+  "rank": 482,
+  "page": 16,
+  "verb": "валить",
+  "en": "to bring down, fall heavily (of snow)",
+  "pair": "валить/повалить"
+ },
+ {
+  "rank": 483,
+  "page": 17,
+  "verb": "надоесть",
+  "en": "to bore, bother, pester",
+  "pair": "надоедать/надоесть"
+ },
+ {
+  "rank": 484,
+  "page": 17,
+  "verb": "вывести",
+  "en": "to take out, lead out, remove, grow",
+  "pair": "выводить/вывести"
+ },
+ {
+  "rank": 485,
+  "page": 17,
+  "verb": "прыгать",
+  "en": "to jump, leap, bounce",
+  "pair": "прыгать/прыгнуть"
+ },
+ {
+  "rank": 486,
+  "page": 17,
+  "verb": "создавать",
+  "en": "to create, establish",
+  "pair": "создавать/создать"
+ },
+ {
+  "rank": 487,
+  "page": 17,
+  "verb": "убедиться",
+  "en": "to be convinced, to make sure",
+  "pair": "убеждаться/ убедиться"
+ },
+ {
+  "rank": 488,
+  "page": 17,
+  "verb": "ненавидеть",
+  "en": "to hate, detest, abhor",
+  "pair": "ненавидеть/ возненавидеть"
+ },
+ {
+  "rank": 489,
+  "page": 17,
+  "verb": "исчезать",
+  "en": "to disappear, vanish",
+  "pair": "исчезать/исчезнуть"
+ },
+ {
+  "rank": 490,
+  "page": 17,
+  "verb": "ощущать",
+  "en": "to feel, sense",
+  "pair": "ощущать/ощутить"
+ },
+ {
+  "rank": 491,
+  "page": 17,
+  "verb": "тащить",
+  "en": "to pull, drag, haul",
+  "pair": "тащить/вытащить"
+ },
+ {
+  "rank": 492,
+  "page": 17,
+  "verb": "скрывать",
+  "en": "to hide, conceal",
+  "pair": "скрывать/скрыть"
+ },
+ {
+  "rank": 493,
+  "page": 17,
+  "verb": "совершить",
+  "en": "to accomplish, commit",
+  "pair": "совершать/совершить"
+ },
+ {
+  "rank": 494,
+  "page": 17,
+  "verb": "замереть",
+  "en": "to stand still, stop",
+  "pair": "замирать/замереть"
+ },
+ {
+  "rank": 495,
+  "page": 17,
+  "verb": "подавать",
+  "en": "to give, serve",
+  "pair": "подавать/подать"
+ },
+ {
+  "rank": 496,
+  "page": 17,
+  "verb": "произвести",
+  "en": "to make, carry out, produce",
+  "pair": "производить/ произвести"
+ },
+ {
+  "rank": 497,
+  "page": 17,
+  "verb": "дождаться",
+  "en": "to wait till, wait, await",
+  "pair": "дожидаться/ дождаться"
+ },
+ {
+  "rank": 498,
+  "page": 17,
+  "verb": "плыть",
+  "en": "to swim, float",
+  "pair": "плыть/поплыть"
+ },
+ {
+  "rank": 499,
+  "page": 17,
+  "verb": "выполнить",
+  "en": "to implement, execute, accomplish",
+  "pair": "выполнять/ выполнить"
+ },
+ {
+  "rank": 500,
+  "page": 17,
+  "verb": "направиться",
+  "en": "to set off for, head towards",
+  "pair": "направляться/ направиться"
+ }
+]
