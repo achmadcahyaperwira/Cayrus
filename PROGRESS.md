@@ -6,7 +6,7 @@ Rujukan: PRD "CayRus: Aplikasi Hafalan Kosakata Rusia–Indonesia (PWA)" (disetu
 
 | # | Milestone | Status |
 | --- | --- | --- |
-| M1 | Data dasar | Selesai 8 Nov 2026 |
+| M1 | Data dasar | Selesai 8 Nov 2026 (koreksi kelas kata: мочь → kata kerja, правда → kata benda) |
 | M2 | Batch kata W01–W10 | Berjalan |
 | M3 | Batch kata kerja V01–V03 | Belum |
 | M4 | Grammar + bank soal | Belum |
@@ -19,12 +19,12 @@ Rujukan: PRD "CayRus: Aplikasi Hafalan Kosakata Rusia–Indonesia (PWA)" (disetu
 | Batch | Entri | Ditulis | Kata kerja terhubung ke V | Status |
 | --- | --- | --- | --- | --- |
 | W01 | 184 | 138 | 46 | Selesai: 138 terjemahan + contoh, 41 perbaikan bentuk, 6 [uncertain] tersisa |
-| W02 | 184 | 127 | 57 | Belum |
-| W03 | 184 | 140 | 44 | Belum |
-| W04 | 184 | 147 | 37 | Belum |
+| W02 | 184 | 127 | 57 | Selesai: 127 terjemahan + contoh, 29 perbaikan bentuk, 0 [uncertain] tersisa |
+| W03 | 184 | 140 | 44 | Selesai: 140 terjemahan + contoh, 22 perbaikan bentuk, 10 [uncertain] tersisa (грудь, кой) |
+| W04 | 184 | 146 | 38 | Belum — batch berikutnya |
 | W05 | 184 | 133 | 51 | Belum |
 | W06 | 184 | 135 | 49 | Belum |
-| W07 | 184 | 137 | 47 | Belum |
+| W07 | 184 | 135 | 49 | Belum |
 | W08 | 184 | 135 | 49 | Belum |
 | W09 | 184 | 129 | 55 | Belum |
 | W10 | 185 | 173 | 12 | Belum |
