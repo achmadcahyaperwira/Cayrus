@@ -24,8 +24,8 @@ Rujukan: PRD "CayRus: Aplikasi Hafalan Kosakata Rusia–Indonesia (PWA)" (disetu
 | W04 | 184 | 146 | 38 | Selesai: 146 terjemahan + contoh, 30 perbaikan bentuk (сто → bilangan, член bernyawa), 1 [uncertain] (придтись) |
 | W05 | 184 | 133 | 51 | Selesai: 133 terjemahan + contoh, 26 perbaikan bentuk, 0 [uncertain] |
 | W06 | 184 | 135 | 49 | Selesai: 135 terjemahan + contoh, 25 perbaikan bentuk, 7 [uncertain] (jamak пыль, lema пошлый) |
-| W07 | 184 | 135 | 49 | Belum — batch berikutnya |
-| W08 | 184 | 135 | 49 | Belum |
+| W07 | 184 | 135 | 49 | Selesai: 135 terjemahan + contoh, 30 perbaikan bentuk, 6 [uncertain] (jamak мясо) |
+| W08 | 184 | 135 | 49 | Belum — batch berikutnya |
 | W09 | 184 | 129 | 55 | Belum |
 | W10 | 185 | 173 | 12 | Belum |
 
