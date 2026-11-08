@@ -1,0 +1,16 @@
+{
+ "p001": {"ipf.pres.1sg": "-", "ipf.pres.2sg": "-", "ipf.pres.1pl": "-", "ipf.pres.2pl": "-",
+          "ipf.fut.1sg": "бу́ду", "ipf.fut.2sg": "бу́дешь", "ipf.fut.3sg": "бу́дет", "ipf.fut.1pl": "бу́дем", "ipf.fut.2pl": "бу́дете", "ipf.fut.3pl": "бу́дут",
+          "aspectNote": "Masa kini hanya есть, jarang dipakai dan biasanya dihilangkan. Masa depan: буду, будешь… (bukan буду быть)."},
+ "p082": {"pf.imp.sg": "приезжа́й", "pf.imp.pl": "приезжа́йте", "aspectNote": "Imperatif приехать memakai bentuk НСВ: приезжай."},
+ "p112": {"pf.fut.1sg": "хвачу́", "pf.fut.2sg": "хва́тишь", "pf.fut.3sg": "хва́тит", "pf.fut.1pl": "хва́тим", "pf.fut.2pl": "хва́тите", "pf.fut.3pl": "хва́тят",
+          "pf.past.m": "хвати́л", "pf.past.f": "хвати́ла", "pf.past.pl": "хвати́ли", "pf.imp.sg": "хвати́", "pf.imp.pl": "хвати́те"},
+ "p010": {"pairNote": "постоять = berdiri sebentar; bukan pasangan aspek murni dari стоять."},
+ "p015": {"pairNote": "Pasangan baku сесть adalah садиться/сесть; сидеть menyatakan keadaan duduk."},
+ "p024": {"pairNote": "Bukan pasangan murni: отработать = menyelesaikan jam kerja/menebus. Pasangan yang lebih lazim: поработать (sebentar), сработать."},
+ "p030": {"pairNote": "Pasangan baku лечь adalah ложиться/лечь; лежать menyatakan keadaan berbaring."},
+ "p031": {"pairNote": "Pasangan leksikal (mencari → menemukan). Pasangan aspek baku найти adalah находить/найти."},
+ "p038": {"pairNote": "ходить = gerak berulang/bolak-balik; пойти secara baku berpasangan dengan идти."},
+ "p046": {"pairNote": "забояться jarang dipakai (= mulai takut); bentuk СВ yang lazim: испугаться."},
+ "p071": {"pairNote": "поиграть = bermain sebentar; pasangan aspek yang lebih lazim: сыграть."}
+}

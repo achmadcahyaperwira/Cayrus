@@ -1,0 +1,131 @@
+# pid	terj НСВ	terj СВ	contoh НСВ	terj contoh НСВ	contoh СВ	terj contoh СВ	beda aspek
+p001	ada; menjadi; berada		Вчера я был дома.	Kemarin saya ada di rumah.
+p002	berbicara, berkata	mengatakan, berkata	Он долго говорил по телефону.	Dia lama berbicara di telepon.	Он сказал одно слово и ушёл.	Dia mengucapkan satu kata lalu pergi.	НСВ: proses berbicara yang berlangsung; СВ: satu ucapan yang selesai.
+p003	bisa, dapat	berhasil, sempat bisa	Я могу тебе помочь.	Saya bisa membantumu.	Я не смогу прийти завтра.	Saya tidak akan bisa datang besok.	НСВ: kemampuan umum; СВ: berhasil/mampu pada satu kesempatan.
+p004	tahu, kenal	mengetahui, mengenali; mencari tahu	Я знаю этого человека.	Saya kenal orang ini.	Я узнал правду вчера.	Saya mengetahui kebenarannya kemarin.	НСВ: keadaan tahu; СВ: saat mendapat tahu.
+p005	menjadi (berangsur); berdiri (ke posisi)	menjadi; mulai	Дни становятся длиннее.	Hari-hari menjadi semakin panjang.	Он стал врачом.	Dia menjadi dokter.	НСВ: perubahan bertahap; СВ: hasil perubahan.
+p006	makan	menghabiskan, memakan (sampai habis)	Мы едим суп.	Kami sedang makan sup.	Он съел весь хлеб.	Dia menghabiskan semua roti.	НСВ: sedang makan; СВ: makan sampai habis.
+p007	ingin, mau	jadi ingin, timbul keinginan	Я хочу пить.	Saya ingin minum.	После прогулки он захотел есть.	Setelah jalan-jalan dia jadi ingin makan.	НСВ: keinginan yang ada; СВ: keinginan yang tiba-tiba muncul.
+p008	melihat	melihat (sekali), menyaksikan	Я плохо вижу без очков.	Saya kurang jelas melihat tanpa kacamata.	Я увидел его на улице.	Saya melihatnya di jalan.	НСВ: kemampuan/proses melihat; СВ: melihat sesuatu pada satu saat.
+p009	pergi, berjalan (satu arah, sedang)	pergi, berangkat	Я иду в магазин.	Saya sedang berjalan ke toko.	Потом мы пошли домой.	Lalu kami berangkat pulang.	НСВ: sedang dalam perjalanan; СВ: mulai berangkat.
+p010	berdiri; berada	berdiri sebentar	Он стоит у окна.	Dia berdiri di dekat jendela.	Мы постояли немного и ушли.	Kami berdiri sebentar lalu pergi.	НСВ: keadaan berdiri; СВ: berdiri untuk waktu singkat.
+p011	berpikir, mengira	berpikir (sebentar), memikirkan	Я думаю о тебе.	Saya memikirkanmu.	Подумай и скажи мне.	Pikirkan dulu, lalu katakan padaku.	НСВ: proses berpikir; СВ: berpikir sejenak sampai ada hasil.
+p012	bertanya	menanyakan, bertanya	Дети часто спрашивают «почему?».	Anak-anak sering bertanya "kenapa?".	Я спросил дорогу у прохожего.	Saya menanyakan jalan kepada orang yang lewat.	НСВ: berulang; СВ: satu pertanyaan.
+p013	hidup, tinggal		Мы живём в Москве.	Kami tinggal di Moskwa.
+p014	melihat, menonton	melihat, menonton (sampai selesai); melirik	Я смотрю фильм.	Saya sedang menonton film.	Я посмотрел этот фильм вчера.	Saya sudah menonton film itu kemarin.	НСВ: sedang menonton; СВ: selesai menonton.
+p015	duduk (keadaan)	duduk (bergerak ke posisi duduk)	Он сидит за столом.	Dia duduk di depan meja.	Он сел на стул.	Dia duduk di kursi.	НСВ: sedang dalam posisi duduk; СВ: gerakan duduk.
+p016	memahami, mengerti	memahami, menyadari	Я понимаю по-русски.	Saya mengerti bahasa Rusia.	Наконец я понял задачу.	Akhirnya saya memahami soal itu.	НСВ: keadaan mengerti; СВ: saat memahami.
+p017	memiliki, mempunyai		Он имеет право голоса.	Dia memiliki hak suara.
+p018	melakukan, membuat	melakukan, menyelesaikan	Что ты делаешь?	Apa yang sedang kamu lakukan?	Я сделал домашнее задание.	Saya sudah menyelesaikan PR.	НСВ: sedang mengerjakan; СВ: selesai dikerjakan.
+p019	mengambil	mengambil	Я всегда беру с собой зонт.	Saya selalu membawa payung.	Он взял мою книгу.	Dia mengambil buku saya.	НСВ: kebiasaan; СВ: satu kali mengambil.
+p020	tampak, kelihatan, sepertinya	tampak; muncul, terlihat	Он кажется усталым.	Dia tampak lelah.	Мне показалось, что кто-то пришёл.	Sepertinya tadi ada yang datang.	НСВ: kesan yang berlangsung; СВ: kesan pada satu saat.
+p021	memberi; membiarkan	memberi	Мама даёт детям конфеты.	Ibu memberi anak-anak permen.	Дай мне ручку.	Berikan aku pulpen.	НСВ: berulang/proses; СВ: satu tindakan memberi.
+p022	tetap tinggal, tetap	tinggal, tersisa	Он часто остаётся на работе допоздна.	Dia sering tetap di kantor sampai larut.	Вчера я остался дома.	Kemarin saya tinggal di rumah.	НСВ: berulang; СВ: satu kejadian.
+p023	keluar; merawat (orang sakit)	keluar	Каждое утро он выходит из дома в восемь.	Setiap pagi dia keluar rumah pukul delapan.	Он вышел из комнаты.	Dia keluar dari kamar.	НСВ: kebiasaan; СВ: satu kali keluar.
+p024	bekerja	bekerja (sampai selesai jam kerja); menebus dengan kerja	Отец работает на заводе.	Ayah bekerja di pabrik.	Он отработал смену и ушёл домой.	Dia menyelesaikan giliran kerjanya lalu pulang.	НСВ: proses/keadaan bekerja; СВ: menyelesaikan jangka waktu kerja.
+p025	mencintai, menyukai	jatuh cinta, mulai menyukai	Я люблю музыку.	Saya menyukai musik.	Он полюбил её с первого взгляда.	Dia jatuh cinta padanya pada pandangan pertama.	НСВ: perasaan yang ada; СВ: awal munculnya perasaan.
+p026	ternyata (berulang), mendapati diri	ternyata; mendapati diri berada	Он часто оказывается прав.	Dia sering ternyata benar.	Он оказался хорошим другом.	Dia ternyata teman yang baik.	НСВ: berulang; СВ: satu kenyataan.
+p027	menjawab	menjawab	Он всегда отвечает на письма.	Dia selalu membalas surat.	Она ответила на мой вопрос.	Dia menjawab pertanyaan saya.	НСВ: kebiasaan; СВ: satu jawaban.
+p028	berarti		Что значит это слово?	Apa arti kata ini?
+p029	menunggu	menunggu (sebentar)	Я жду автобус.	Saya sedang menunggu bus.	Подожди минуту!	Tunggu sebentar!	НСВ: sedang menunggu; СВ: menunggu sebentar.
+p030	berbaring; terletak	berbaring (bergerak ke posisi tidur)	Книга лежит на столе.	Buku itu terletak di atas meja.	Он лёг спать в десять.	Dia pergi tidur pukul sepuluh.	НСВ: keadaan berbaring; СВ: gerakan berbaring.
+p031	mencari	menemukan	Я ищу ключи.	Saya sedang mencari kunci.	Я нашёл ключи под столом.	Saya menemukan kunci di bawah meja.	НСВ: proses mencari; СВ: hasil (menemukan).
+p032	menulis	menulis (sampai selesai)	Он пишет письмо.	Dia sedang menulis surat.	Он написал письмо и отправил его.	Dia selesai menulis surat lalu mengirimnya.	НСВ: proses; СВ: hasil.
+p033	memutuskan; mengerjakan (soal)	memutuskan; menyelesaikan (soal)	Я решаю задачу.	Saya sedang mengerjakan soal.	Я решил задачу за пять минут.	Saya menyelesaikan soal itu dalam lima menit.	НСВ: proses; СВ: hasil.
+p034	kembali (berulang/proses)	kembali	Отец возвращается с работы в шесть.	Ayah biasa pulang kerja pukul enam.	Он вернулся домой поздно.	Dia pulang larut malam.	НСВ: kebiasaan; СВ: satu kejadian.
+p035	menghitung; menganggap	menghitung	Я считаю, что он прав.	Saya menganggap dia benar.	Я посчитал деньги.	Saya menghitung uangnya.	НСВ: proses/pendapat; СВ: selesai menghitung.
+p036	ingat	mengingat, menghafal	Я помню этот день.	Saya ingat hari itu.	Запомни мой адрес.	Ingat baik-baik alamat saya.	НСВ: keadaan ingat; СВ: menyimpan dalam ingatan.
+p037	menerima, mendapat	menerima, mendapat	Я получаю письма каждую неделю.	Saya menerima surat setiap minggu.	Я получил твоё письмо.	Saya sudah menerima suratmu.	НСВ: berulang; СВ: satu kali.
+p038	berjalan; pergi (bolak-balik, berulang)	pergi, berangkat	Я хожу в школу пешком.	Saya biasa berjalan kaki ke sekolah.	Завтра я пойду в кино.	Besok saya akan pergi ke bioskop.	НСВ: gerak berulang/bolak-balik; СВ: berangkat satu kali.
+p039	sering ada, kadang terjadi; berkunjung	mengunjungi, pernah berada	Здесь бывает очень холодно.	Di sini kadang sangat dingin.	Я побывал в Москве.	Saya pernah berkunjung ke Moskwa.	НСВ: kejadian berulang; СВ: pengalaman satu kunjungan.
+p040	datang (berulang)	datang, tiba	Он приходит к нам по субботам.	Dia datang ke rumah kami setiap Sabtu.	Он пришёл вовремя.	Dia datang tepat waktu.	НСВ: berulang; СВ: satu kedatangan.
+p041	mengenali; mencari tahu (berulang)	mengetahui, mengenali	Я узнаю новости из интернета.	Saya biasa mengetahui berita dari internet.	Я сразу узнал его.	Saya langsung mengenalinya.	НСВ: berulang; СВ: satu kali.
+p042	memperhatikan, melihat (berulang)	memperhatikan, melihat	Он ничего не замечает.	Dia tidak memperhatikan apa pun.	Я заметил ошибку.	Saya menyadari kesalahannya.	НСВ: keadaan/proses; СВ: satu saat menyadari.
+p043	pergi, meninggalkan (berulang)	pergi, meninggalkan	Он всегда уходит рано.	Dia selalu pergi lebih awal.	Она ушла десять минут назад.	Dia pergi sepuluh menit yang lalu.	НСВ: kebiasaan; СВ: satu kejadian.
+p044	mendengar	mendengar	Я тебя хорошо слышу.	Saya mendengarmu dengan jelas.	Я услышал странный звук.	Saya mendengar bunyi aneh.	НСВ: kemampuan/proses; СВ: menangkap bunyi sekali.
+p045	mendengarkan	mendengarkan (sebentar)	Я слушаю радио.	Saya sedang mendengarkan radio.	Послушай эту песню!	Dengarkan lagu ini!	НСВ: proses; СВ: mendengarkan sekali/sebentar.
+p046	takut	mulai takut	Ребёнок боится темноты.	Anak itu takut gelap.	Он вдруг забоялся и убежал.	Dia tiba-tiba ketakutan lalu lari.	НСВ: perasaan takut; СВ: mulai takut.
+p047	memandang, menatap	melihat sebentar	Он глядит в окно.	Dia memandang ke luar jendela.	Погляди, какая красота!	Lihatlah, indah sekali!	НСВ: proses; СВ: melihat sekilas.
+p048	duduk (bergerak), naik (kendaraan)	duduk; naik (kendaraan)	Он всегда садится у окна.	Dia selalu duduk di dekat jendela.	Она села в автобус.	Dia naik bus.	НСВ: kebiasaan; СВ: satu kali.
+p049	membaca	membaca (sampai selesai)	Я читаю книгу.	Saya sedang membaca buku.	Я прочитал эту книгу за неделю.	Saya selesai membaca buku ini dalam seminggu.	НСВ: proses; СВ: selesai dibaca.
+p050	memulai	memulai	Урок обычно начинают в девять.	Pelajaran biasanya dimulai pukul sembilan.	Он начал работу вчера.	Dia memulai pekerjaan kemarin.	НСВ: kebiasaan; СВ: satu kali mulai.
+p051	merasakan	merasakan	Я чувствую себя хорошо.	Saya merasa sehat.	Он почувствовал боль.	Dia merasakan sakit.	НСВ: keadaan; СВ: saat merasakan.
+p052	memimpin, membawa (berjalan); mengemudikan	membawa, menuntun (mulai)	Мама ведёт сына в школу.	Ibu sedang mengantar putranya ke sekolah.	Он повёл нас в парк.	Dia membawa kami ke taman.	НСВ: proses; СВ: memulai gerak menuntun.
+p053	sempat, keburu (berulang)	sempat, keburu	Я не всегда успеваю позавтракать.	Saya tidak selalu sempat sarapan.	Я успел на поезд.	Saya keburu naik kereta.	НСВ: berulang; СВ: satu kali.
+p054	melanjutkan	melanjutkan	Он продолжает работать.	Dia terus bekerja.	Она продолжила рассказ после паузы.	Dia melanjutkan ceritanya setelah jeda.	НСВ: terus berlangsung; СВ: meneruskan satu kali.
+p055	melupakan (sering)	lupa, melupakan	Я часто забываю ключи.	Saya sering lupa membawa kunci.	Я забыл твой номер.	Saya lupa nomormu.	НСВ: berulang; СВ: satu kejadian.
+p056	lewat, melalui; berlalu; mempelajari	lewat; berlalu	Каждый день я прохожу мимо школы.	Setiap hari saya lewat di depan sekolah.	Боль прошла.	Rasa sakitnya sudah hilang.	НСВ: berulang; СВ: hasil.
+p057	muncul (berulang)	muncul	Он редко появляется дома.	Dia jarang muncul di rumah.	Вдруг появилась собака.	Tiba-tiba muncul seekor anjing.	НСВ: berulang; СВ: satu kemunculan.
+p058	meminta	meminta	Он всегда просит помощи.	Dia selalu meminta bantuan.	Я попросил его подождать.	Saya memintanya menunggu.	НСВ: berulang; СВ: satu permintaan.
+p059	mencoba, berusaha	mencoba, berusaha	Я пытаюсь понять.	Saya sedang berusaha mengerti.	Он попытался открыть дверь.	Dia mencoba membuka pintu.	НСВ: proses; СВ: satu percobaan.
+p060	menunjukkan, memperlihatkan	menunjukkan	Учитель показывает картинки.	Guru sedang memperlihatkan gambar-gambar.	Покажи мне фотографии.	Tunjukkan foto-foto itu padaku.	НСВ: proses; СВ: satu tindakan.
+p061	mengenang, mengingat-ingat	ingat (kembali), teringat	Я часто вспоминаю детство.	Saya sering mengenang masa kecil.	Я вспомнил его имя.	Saya teringat namanya.	НСВ: berulang; СВ: satu saat teringat.
+p062	memegang; menyimpan		Он держит ребёнка на руках.	Dia menggendong anak itu.
+p063	menyebut, menamai	menyebut, menamai	Его называют героем.	Dia disebut pahlawan.	Они назвали сына Иваном.	Mereka menamai putranya Ivan.	НСВ: umum/berulang; СВ: satu tindakan menamai.
+p064	mendekati; cocok	mendekati, menghampiri	Этот цвет тебе подходит.	Warna ini cocok untukmu.	Он подошёл ко мне.	Dia menghampiri saya.	НСВ: keadaan; СВ: satu gerakan.
+p065	mengangkat	mengangkat	Он медленно поднимает руку.	Dia mengangkat tangannya perlahan.	Он поднял книгу с пола.	Dia memungut buku dari lantai.	НСВ: proses; СВ: hasil.
+p066	melempar; meninggalkan; berhenti (kebiasaan)	melempar; meninggalkan; berhenti	Дети бросают мяч.	Anak-anak sedang melempar bola.	Он бросил курить.	Dia berhenti merokok.	НСВ: proses berulang; СВ: satu keputusan/tindakan.
+p067	mengirim	mengirim	Я посылаю маме открытки.	Saya biasa mengirim kartu pos ke ibu.	Я послал ему письмо.	Saya mengirimkan surat kepadanya.	НСВ: berulang; СВ: satu kali.
+p068	berada, terletak	ditemukan, ketemu	Школа находится рядом.	Sekolahnya terletak di dekat sini.	Ключи нашлись в кармане.	Kuncinya ketemu di saku.	НСВ: keadaan; СВ: hasil (ketemu).
+p069	meletakkan (berdiri)	meletakkan, menaruh	Я всегда ставлю чашку сюда.	Saya selalu menaruh cangkir di sini.	Поставь вазу на стол.	Taruh vas itu di atas meja.	НСВ: kebiasaan; СВ: satu tindakan.
+p070	bangun, berdiri (berulang)	bangun, berdiri	Я встаю в семь часов.	Saya bangun pukul tujuh.	Сегодня я встал поздно.	Hari ini saya bangun kesiangan.	НСВ: kebiasaan; СВ: satu kejadian.
+p071	bermain	bermain (sebentar)	Дети играют во дворе.	Anak-anak bermain di halaman.	Мы поиграли час и пошли домой.	Kami bermain sejam lalu pulang.	НСВ: proses; СВ: bermain dalam waktu terbatas.
+p072	mengikuti; sebaiknya	mengikuti	Вам следует отдохнуть.	Sebaiknya Anda beristirahat.	Он последовал моему совету.	Dia mengikuti nasihat saya.	НСВ: umum; СВ: satu tindakan mengikuti.
+p073	menceritakan	menceritakan	Дедушка часто рассказывает сказки.	Kakek sering bercerita dongeng.	Расскажи, что случилось.	Ceritakan apa yang terjadi.	НСВ: berulang; СВ: satu cerita sampai selesai.
+p074	tidur	tidur (sebentar)	Ребёнок спит.	Anak itu sedang tidur.	Я поспал час после обеда.	Saya tidur sejam setelah makan siang.	НСВ: proses; СВ: tidur dalam waktu terbatas.
+p075	meninggalkan; menyisakan	meninggalkan; menyisakan	Он всегда оставляет свет включённым.	Dia selalu membiarkan lampu menyala.	Я оставил сумку в машине.	Saya meninggalkan tas di mobil.	НСВ: kebiasaan; СВ: satu kejadian.
+p076	masuk (berulang)	masuk	Не входите без стука.	Jangan masuk tanpa mengetuk.	Он вошёл в комнату.	Dia masuk ke kamar.	НСВ: larangan umum; СВ: satu kali masuk.
+p077	diam	terdiam, berhenti bicara	Почему ты молчишь?	Kenapa kamu diam saja?	Она вдруг замолчала.	Dia tiba-tiba terdiam.	НСВ: keadaan diam; СВ: mulai diam.
+p078	berhenti (berulang)	berhenti	Автобус останавливается здесь.	Bus berhenti di sini.	Машина остановилась у дома.	Mobil itu berhenti di depan rumah.	НСВ: kebiasaan; СВ: satu kali.
+p079	percaya	percaya (mulai)	Я верю тебе.	Saya percaya padamu.	Он мне не поверил.	Dia tidak memercayai saya.	НСВ: keadaan; СВ: reaksi pada satu saat.
+p080	merupakan; datang, hadir	muncul, datang	Москва является столицей России.	Moskwa merupakan ibu kota Rusia.	Он явился без приглашения.	Dia datang tanpa diundang.	НСВ: keadaan (formal); СВ: satu kedatangan.
+p081	berlari	mulai berlari	Мальчик бежит к маме.	Anak laki-laki itu sedang berlari ke ibunya.	Собака побежала за кошкой.	Anjing itu berlari mengejar kucing.	НСВ: sedang berlari; СВ: mulai berlari.
+p082	datang, tiba (dengan kendaraan, berulang)	datang, tiba (dengan kendaraan)	Бабушка приезжает к нам каждое лето.	Nenek datang ke rumah kami setiap musim panas.	Вчера приехал мой брат.	Kemarin saudara saya tiba.	НСВ: berulang; СВ: satu kedatangan.
+p083	berteriak	berteriak (sekali)	Ребёнок громко кричит.	Anak itu berteriak keras.	Он крикнул «стой!».	Dia berteriak "berhenti!".	НСВ: proses; СВ: satu teriakan.
+p084	membuka	membuka	Магазин открывают в девять.	Toko dibuka pukul sembilan.	Он открыл окно.	Dia membuka jendela.	НСВ: kebiasaan; СВ: satu tindakan.
+p085	terjadi, berlangsung	terjadi	Что здесь происходит?	Apa yang sedang terjadi di sini?	Что произошло?	Apa yang terjadi?	НСВ: sedang berlangsung; СВ: sudah terjadi.
+p086	pergi (berkendara, satu arah, sedang)	berangkat (berkendara)	Я еду на работу.	Saya sedang dalam perjalanan ke kantor.	Летом мы поедем на море.	Musim panas nanti kami akan pergi ke laut.	НСВ: sedang di jalan; СВ: berangkat.
+p087	naik, bangkit (berulang)	naik, bangkit	Каждое утро он поднимается на пятый этаж.	Setiap pagi dia naik ke lantai lima.	Он поднялся на гору.	Dia mendaki gunung itu.	НСВ: berulang; СВ: satu kali sampai.
+p088	terlihat, muncul (berulang)	muncul, terlihat	Солнце показывается из-за туч.	Matahari muncul dari balik awan.	Из-за угла показалась машина.	Dari balik tikungan muncul sebuah mobil.	НСВ: proses; СВ: satu kemunculan.
+p089	berkumpul; berniat	berkumpul; bersiap	Я собираюсь поехать в Москву.	Saya berniat pergi ke Moskwa.	Все собрались в зале.	Semua sudah berkumpul di aula.	НСВ: niat/proses; СВ: hasil berkumpul.
+p090	mengenai (sasaran); sampai (ke tempat)	mengenai; sampai, masuk	Он всегда попадает в цель.	Dia selalu tepat mengenai sasaran.	Как мне попасть на вокзал?	Bagaimana saya bisa sampai ke stasiun?	НСВ: kebiasaan; СВ: satu kali.
+p091	menerima, mengambil	menerima, mengambil	Врач принимает больных утром.	Dokter menerima pasien pada pagi hari.	Он принял решение.	Dia mengambil keputusan.	НСВ: kebiasaan; СВ: satu tindakan.
+p092	bisa, mampu (keterampilan)		Я умею плавать.	Saya bisa berenang.
+p093	terjadi	terjadi	Такое случается редко.	Hal seperti itu jarang terjadi.	Что случилось?	Ada apa?	НСВ: umum/berulang; СВ: satu kejadian.
+p094	berusaha	berusaha	Я стараюсь говорить по-русски.	Saya berusaha berbicara bahasa Rusia.	Я постараюсь прийти.	Saya akan berusaha datang.	НСВ: proses; СВ: satu usaha.
+p095	memanggil	memanggil	Как тебя зовут?	Siapa namamu?	Позови маму.	Panggil ibu.	НСВ: umum; СВ: satu panggilan.
+p096	melakukan, berkegiatan; belajar	mulai melakukan, menekuni	Я занимаюсь спортом.	Saya berolahraga.	Он занялся музыкой.	Dia mulai menekuni musik.	НСВ: kegiatan; СВ: mulai kegiatan.
+p097	menaruh (berbaring)	menaruh, meletakkan	Я всегда кладу ключи в карман.	Saya selalu menaruh kunci di saku.	Положи книгу на стол.	Taruh buku itu di atas meja.	НСВ: kebiasaan; СВ: satu tindakan.
+p098	membeli	membeli	Я покупаю хлеб каждый день.	Saya membeli roti setiap hari.	Я купил новую машину.	Saya membeli mobil baru.	НСВ: kebiasaan; СВ: satu pembelian.
+p099	sekarat, meninggal (proses)	meninggal, mati	Цветы умирают без воды.	Bunga-bunga mati tanpa air.	Его дед умер в прошлом году.	Kakeknya meninggal tahun lalu.	НСВ: proses; СВ: kejadian.
+p100	minum	minum (sampai habis)	Я пью чай.	Saya sedang minum teh.	Он выпил стакан воды.	Dia meminum segelas air sampai habis.	НСВ: proses; СВ: habis diminum.
+p101	melepas; memotret; menyewa	melepas; memotret; menyewa	Дома я всегда снимаю обувь.	Di rumah saya selalu melepas sepatu.	Он снял куртку.	Dia melepas jaketnya.	НСВ: kebiasaan; СВ: satu tindakan.
+p102	dimulai	dimulai	Занятия начинаются в девять.	Pelajaran dimulai pukul sembilan.	Фильм уже начался.	Filmnya sudah dimulai.	НСВ: kebiasaan; СВ: sudah mulai.
+p103	membayangkan; mewakili; memperkenalkan	membayangkan; memperkenalkan	Я не представляю жизни без музыки.	Saya tidak bisa membayangkan hidup tanpa musik.	Он представил мне свою жену.	Dia memperkenalkan istrinya kepada saya.	НСВ: keadaan; СВ: satu tindakan.
+p104	menjelaskan	menjelaskan	Учитель объясняет правило.	Guru sedang menjelaskan aturan.	Он объяснил мне дорогу.	Dia menjelaskan jalannya kepada saya.	НСВ: proses; СВ: selesai menjelaskan.
+p105	mengucapkan	mengucapkan	Он плохо произносит этот звук.	Dia kurang baik melafalkan bunyi ini.	Она произнесла речь.	Dia menyampaikan pidato.	НСВ: umum; СВ: satu ucapan.
+p106	menyukai	jadi suka	Мне нравится этот город.	Saya suka kota ini.	Мне понравился фильм.	Saya suka film itu.	НСВ: keadaan suka; СВ: kesan setelah satu pengalaman.
+p107	ada, eksis		Такие люди существуют.	Orang seperti itu memang ada.
+p108	berhasil (berulang)	berhasil	Мне не всегда удаётся выспаться.	Saya tidak selalu berhasil tidur cukup.	Мне удалось купить билеты.	Saya berhasil membeli tiket.	НСВ: berulang; СВ: satu keberhasilan.
+p109	terpaksa, harus (berulang)	terpaksa, harus	Мне часто приходится работать вечером.	Saya sering terpaksa bekerja malam.	Мне пришлось уйти раньше.	Saya terpaksa pergi lebih awal.	НСВ: berulang; СВ: satu kali.
+p110	tersenyum	tersenyum (sekali)	Она всегда улыбается.	Dia selalu tersenyum.	Он улыбнулся мне.	Dia tersenyum kepada saya.	НСВ: kebiasaan/proses; СВ: satu senyuman.
+p111	tertawa	menertawakan, tertawa (sebentar)	Дети смеются.	Anak-anak sedang tertawa.	Мы посмеялись над шуткой.	Kami tertawa karena lelucon itu.	НСВ: proses; СВ: tertawa sebentar.
+p112	menyambar; cukup	cukup; menyambar	У меня не хватает времени.	Waktu saya tidak cukup.	Этих денег хватит на неделю.	Uang ini akan cukup untuk seminggu.	НСВ: keadaan; СВ: hasil (akan cukup).
+p113	membawa (berulang)	membawa	Почтальон приносит газеты утром.	Tukang pos mengantar koran setiap pagi.	Принеси мне воды.	Bawakan aku air.	НСВ: berulang; СВ: satu kali.
+p114	setuju (proses)	setuju	Он никогда не соглашается со мной.	Dia tidak pernah setuju dengan saya.	Она согласилась помочь.	Dia setuju untuk membantu.	НСВ: umum; СВ: satu persetujuan.
+p115	membunuh (berulang)	membunuh	Курение убивает.	Merokok membunuh.	Охотник убил волка.	Pemburu itu membunuh seekor serigala.	НСВ: umum; СВ: satu kejadian.
+p116	menawarkan, mengusulkan	menawarkan, mengusulkan	Он всегда предлагает помощь.	Dia selalu menawarkan bantuan.	Я предложил ей кофе.	Saya menawarinya kopi.	НСВ: kebiasaan; СВ: satu tawaran.
+p117	minum (minuman keras, berulang)	meminum (sampai habis)	Он иногда выпивает с друзьями.	Kadang dia minum-minum dengan teman.	Он выпил весь сок.	Dia meminum habis semua jus.	НСВ: kebiasaan; СВ: habis diminum.
+p118	memanggil; menimbulkan	memanggil; menimbulkan	Его решение вызывает вопросы.	Keputusannya menimbulkan pertanyaan.	Мы вызвали врача.	Kami memanggil dokter.	НСВ: umum; СВ: satu tindakan.
+p119	membawa (orang); mengakibatkan	membawa (orang); mengakibatkan	Он часто приводит друзей домой.	Dia sering membawa teman ke rumah.	Это привело к ошибке.	Hal ini mengakibatkan kesalahan.	НСВ: berulang; СВ: hasil.
+p120	kembali (formal, berulang)	kembali (formal)	Птицы возвращаются весной.	Burung-burung kembali pada musim semi.	Он возвратился из поездки.	Dia kembali dari perjalanan.	НСВ: berulang; СВ: satu kepulangan.
+p121	menuntut	menuntut	Работа требует времени.	Pekerjaan ini membutuhkan waktu.	Он потребовал объяснений.	Dia menuntut penjelasan.	НСВ: umum; СВ: satu tuntutan.
+p122	kehilangan (berulang)	kehilangan	Я всегда теряю зонтики.	Saya selalu kehilangan payung.	Я потерял ключи.	Saya kehilangan kunci.	НСВ: berulang; СВ: satu kejadian.
+p123	mengeluarkan; menjangkau; mendapatkan	mengeluarkan; mendapatkan	Он медленно достаёт деньги из кармана.	Dia perlahan mengeluarkan uang dari saku.	Я достал билеты на концерт.	Saya berhasil mendapatkan tiket konser.	НСВ: proses; СВ: hasil.
+p124	memberitahukan, melaporkan	memberitahukan	Радио сообщает новости.	Radio menyiarkan berita.	Он сообщил мне хорошую новость.	Dia memberi tahu saya kabar baik.	НСВ: umum; СВ: satu pemberitahuan.
+p125	jatuh (proses/berulang)	jatuh	Снег падает.	Salju sedang turun.	Он упал и ушиб ногу.	Dia jatuh dan kakinya memar.	НСВ: proses; СВ: satu kejadian.
+p126	jadi, berhasil (berulang)	jadi, berhasil	У меня не получается.	Saya belum berhasil.	Торт получился вкусный.	Kuenya jadi enak.	НСВ: proses; СВ: hasil.
+p127	melewatkan (waktu); mengadakan; mengantar	melewatkan (waktu); mengadakan	Мы часто проводим лето на даче.	Kami sering menghabiskan musim panas di vila.	Мы провели отпуск у моря.	Kami menghabiskan liburan di tepi laut.	НСВ: berulang; СВ: satu periode selesai.
+p128	memaafkan	memaafkan	Мать всё прощает детям.	Ibu memaafkan segalanya pada anak-anaknya.	Прости меня!	Maafkan aku!	НСВ: umum; СВ: satu tindakan.
+p129	memukul	memukul; mengalahkan	Часы бьют двенадцать.	Jam berdentang dua belas kali.	Наша команда побила рекорд.	Tim kami memecahkan rekor.	НСВ: proses; СВ: hasil.
+p130	mengangguk (berulang)	mengangguk	Он кивает в знак согласия.	Dia mengangguk tanda setuju.	Она кивнула мне.	Dia mengangguk kepada saya.	НСВ: berulang; СВ: satu anggukan.

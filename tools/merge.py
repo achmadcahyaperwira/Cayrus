@@ -185,6 +185,98 @@ for bname, ids in plan.items():
             rep["problems"].append(f"{i} {e['lemma']}: kata entri tidak ditemukan di contoh")
     report["batches"][bname] = rep
 
+# --- batch kata kerja --------------------------------------------------------
+pairs = {p["id"]: p for p in base_v["pairs"]}
+ventries = base_v["entries"]
+vplan = {}
+file_pairs = []
+for e in ventries:
+    if e["pairId"] not in file_pairs:
+        file_pairs.append(e["pairId"])
+for k in range(3):
+    vplan[f"V{k + 1:02d}"] = file_pairs[k * 130:(k + 1) * 130] if k < 2 else file_pairs[260:]
+json.dump(vplan, open(B / "vplan.json", "w"), indent=0)
+
+
+def side_forms(side):
+    return set(cell_forms(side)) if side else set()
+
+
+for bname, pids in vplan.items():
+    tsv = read_tsv(B / f"{bname}.tsv")
+    fix = json.load(open(B / f"{bname}.fix.json")) if (B / f"{bname}.fix.json").exists() else {}
+    if not tsv and not fix:
+        continue
+    rep = {"pairs": len(pids), "rows": sum(1 for e in ventries if e["pairId"] in set(pids)),
+           "written": 0, "examples": 0, "fixes": 0, "problems": []}
+    for pid, fx in fix.items():
+        for path, val in fx.items():
+            pr = pairs[pid]
+            if path in ("pairSource", "pairNote", "type", "aspectNote"):
+                pr[path] = val
+            else:
+                v = val if isinstance(val, list) else ([val, "g"] if val not in ("-", None) else None)
+                set_path(pr, path, v)
+                resolved.add((f"{pid}.{path.split('.')[0]}", ".".join(path.split(".")[1:])))
+                resolved.add((pid, path))
+            rep["fixes"] += 1
+    for pid in pids:
+        pr = pairs[pid]
+        row = tsv.get(pid)
+        if not row:
+            rep["problems"].append(f"{pid}: baris hilang")
+            continue
+        row = row + [""] * (7 - len(row))
+        tr_ipf, tr_pf, ex1, ex1id, ex2, ex2id, contrast = row[:7]
+        pr["translation"] = {"ipf": tr_ipf or None, "pf": tr_pf or None, "s": "g"}
+        pr["examples"] = {}
+        for side, ru, idn in (("ipf", ex1, ex1id), ("pf", ex2, ex2id)):
+            if ru:
+                pr["examples"][side] = {"ru": accent_sentence(ru), "id": idn, "s": "g"}
+                rep["examples"] += 1
+                lem = pr[f"{side}Lemma"] if pr["type"] != "biaspectual" else (pr["ipfLemma"] or pr["pfLemma"])
+                forms = side_forms(pr.get(side)) | {norm(lem)}
+                if pr["type"] == "biaspectual":
+                    forms |= side_forms(pr.get("ipf")) | side_forms(pr.get("pf"))
+                hit = False
+                for t in tokens(ru):
+                    for part in t.split("-"):
+                        nt = norm(part)
+                        if nt in forms or any(norm(p.normal_form) == norm(lem) for p in M.parse(nt)):
+                            hit = True
+                        if not M.word_is_known(nt):
+                            rep["problems"].append(f"{pid}: kata tidak dikenal '{part}'")
+                if not hit:
+                    rep["problems"].append(f"{pid} {side} {lem}: kata kerja tidak ditemukan di contoh")
+        if contrast:
+            pr["examples"]["contrast"] = contrast
+        need = [s for s in ("ipf", "pf") if pr.get(f"{s}Lemma")]
+        if pr["type"] == "pair" and not (ex1 and ex2):
+            rep["problems"].append(f"{pid}: pasangan butuh 2 contoh")
+        if pr["type"] != "pair" and not (ex1 or ex2):
+            rep["problems"].append(f"{pid}: butuh 1 contoh")
+        rep["written"] += 1
+    report["batches"][bname] = rep
+
+# terjemahan tiap baris kata kerja + salin ke entri kata yang terhubung
+for e in ventries:
+    pr = pairs[e["pairId"]]
+    tr = pr.get("translation")
+    if tr:
+        side = "pf" if e["aspect"] == "pf" else "ipf"
+        e["translation"] = {"text": tr.get(side) or tr.get("ipf") or tr.get("pf"), "s": "g"}
+ve_by_id = {e["id"]: e for e in ventries}
+for e in base_w:
+    ref = e.get("verbRef")
+    if ref and ref.get("entry") and ve_by_id[ref["entry"]].get("translation"):
+        ve = ve_by_id[ref["entry"]]
+        e["translation"] = ve["translation"]
+        pr = pairs[ve["pairId"]]
+        side = "pf" if ve["aspect"] == "pf" else "ipf"
+        ex = (pr.get("examples") or {}).get(side) or (pr.get("examples") or {}).get("ipf")
+        if ex:
+            e["example"] = ex
+
 # --- review: tandai yang sudah dibetulkan ------------------------------------
 final_review = []
 for r in review:
@@ -201,6 +293,8 @@ words_out = [{k: e.get(k) for k in KEEP if e.get(k) not in (None, [], False) or 
              for e in sorted(base_w, key=lambda e: (e["rank"][0] if e["rank"] else 10000, e["id"]))]
 json.dump({"meta": {"count": len(words_out)}, "entries": words_out},
           open(DATA / "words.json", "w"), ensure_ascii=False, separators=(",", ":"))
+json.dump({"meta": {"rows": len(ventries), "pairs": len(pairs)}, "pairs": list(pairs.values()), "entries": ventries},
+          open(DATA / "verbs.json", "w"), ensure_ascii=False, separators=(",", ":"))
 json.dump(final_review, open(DATA / "review.json", "w"), ensure_ascii=False, indent=0)
 json.dump(report, open(W / "merge_report.json", "w"), ensure_ascii=False, indent=1)
 for b, r in report["batches"].items():

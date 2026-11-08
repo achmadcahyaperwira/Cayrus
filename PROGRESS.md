@@ -29,6 +29,14 @@ Rujukan: PRD "CayRus: Aplikasi Hafalan Kosakata Rusia–Indonesia (PWA)" (disetu
 | W09 | 184 | 129 | 55 | Selesai: 129 terjemahan + contoh, 33 perbaikan bentuk (страсть → kata benda), 2 [uncertain] (lema лед, столовый) |
 | W10 | 185 | 173 | 12 | Selesai: 173 terjemahan + contoh (termasuk 109 kata tugas), 8 perbaikan, 1 [uncertain] (lema насчет) |
 
+## Batch kata kerja
+
+| Batch | Pasangan | Baris | Status |
+| --- | --- | --- | --- |
+| V01 | 130 | 213 | Selesai: terjemahan + 253 contoh, 33 perbaikan bentuk, 8 catatan pasangan |
+| V02 | 130 | — | Belum — batch berikutnya |
+| V03 | 127 | — | Belum |
+
 Kata kerja yang ada di file kata kerja mendapat terjemahan dan contoh di batch V (data dipakai bersama).
 
 ## Izin
